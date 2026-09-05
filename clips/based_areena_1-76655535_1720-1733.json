@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Kausityöntekijöiden karu kohtelu",
+    "who": "Annika Rönni-Sällinen, Timo Lappi",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Annika Rönni-Sällinen",
+        "role": "Palvelualojen ammattiliitto PAMin puheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Timo Lappi",
+        "role": "ravintolapalvelut MaRa ry:n toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655535",
+    "areena": "https://areena.yle.fi/1-76655535 (1720s–1733s)"
+  },
+  "quote": "Tällä puolella on asioita, joita pitäisi arvioida uudelleen, kuten indeksijäädytykset pienimpiin etuuksiin ja asumistukeen liittyvät jutut.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Välttää nimenomaiset kohteet ja pysyy yleisellä tasolla ilman retorista terävyyttä",
+    "hook": "Mitä uudelleenarvioidaan?",
+    "hashtags": [
+      "#sosiaaliturva",
+      "#indeksi",
+      "#asumistuki",
+      "#poliittinen",
+      "#päätös",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "answer_start": 5.32
+}

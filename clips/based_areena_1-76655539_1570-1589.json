@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "A-studio: Kiristyvätkö Euroopan ja Yhdysvaltojen välit entisestään Davosissa?",
+    "who": "Petteri Orpo, Maria Lindén, Tuomas Forsberg",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Petteri Orpo",
+        "role": "pääministeri",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Maria Lindén",
+        "role": "Ulkopoliittisen instituutin tutkija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Tuomas Forsberg",
+        "role": "Tampereen yliopiston kansainvälisen politiikan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655539",
+    "areena": "https://areena.yle.fi/1-76655539 (1570s–1589s)"
+  },
+  "quote": "Kulttuurisota ja mm. maahanmuuttopolitiikka... USA haluaa vaikuttaa myös Euroopan maiden sisäpolitiikkaan ja tukea täällä sellaisia voimia, jotka ovat heidän kanssaan samanmielisiä. Se näkyi myös tässä puheessa.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei haastattelukysymystä eikä käännettä, pelkkä analyysi ilman selkeää kieltämystä tai kiertoa",
+    "hook": "Miksi tämä on ramble?",
+    "hashtags": [
+      "#maahanmuutto",
+      "#EU",
+      "#USA",
+      "#sisäpolitiikka",
+      "#analyysi",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "answer_start": 4.24
+}

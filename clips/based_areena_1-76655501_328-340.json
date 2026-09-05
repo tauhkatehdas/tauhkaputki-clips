@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Jääkö Ukraina Lähi-idän varjoon?",
+    "who": "Kristi Raik, John Helin",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Kristi Raik",
+        "role": "Viron kansainvälisen puolustustutkimuskeskuksen johtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "John Helin",
+        "role": "Black Bird Groupin analyytikko",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655501",
+    "areena": "https://areena.yle.fi/1-76655501 (328s–340s)"
+  },
+  "quote": "Sen kohonnut hinta vaikuttaa Ukrainan puolustusmenoihin. Ukrainan parlamentissa on jo pohdittu mm. verohelpotuksia tässä asiassa.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei haastattelukysymystä eikä käännystä, pelkkä faktatiedote",
+    "hook": "Missä on haastattelukysymys?",
+    "hashtags": [
+      "#Ukraina",
+      "#verot",
+      "#puolustus",
+      "#talous",
+      "#sota",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "eac70ab48416",
+  "answer_start": 6.0
+}

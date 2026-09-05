@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Keskusta uhkaa jälleen välikysymyksellä",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-09-05",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20244730",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20244730?origin=rss"
+    ]
+  },
+  "quote": "• Keskusta uhkaa jälleen välikysymyksellä",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Keskusta uhkaa välikysymyksellä hallitusta, johon Purra kuuluu, riittämättömistä toimenpiteistä ruoantuottajien auttamiseksi budjettiriihessä.",
+    "hook": "Keskusta uhkaa hallitukselle välikysymyksellä",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20260905_091144.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-09-05T09:12:31.310542+00:00"
+}

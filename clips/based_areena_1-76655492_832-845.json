@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Trumpin vuosi vallassa",
+    "who": "Martti Koskenniemi, John Morton, Mikko Saikku",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Martti Koskenniemi",
+        "role": "kansainvälisen oikeuden emeritusprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "John Morton",
+        "role": "Pohjois-Amerikan tutkimuksen professori Benita Heiskanen Turun yliopiston",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Mikko Saikku",
+        "role": "Yhdysvaltain tutkimuksen professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655492",
+    "areena": "https://areena.yle.fi/1-76655492 (832s–845s)"
+  },
+  "quote": "Voitaisiin purkaa sidonnaisuuksia, joita meillä on tähän tavattoman vaaralliseen ja vahvaan johtajaan, joka siellä tällä hetkellä on vallassa.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Välttämätön ja selkeä linjaus vaaralliseen johtajaan, mutta ilman nimenomaisia kohteita tai eufemismien hylkäämistä se jää generoiseksi.",
+    "hook": "Miten purkaa sidonnaisuudet Trumpiin?",
+    "hashtags": [
+      "#USA",
+      "#geopolitiikka",
+      "#vallanvaihto",
+      "#diplomaattia",
+      "#turvallisuus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "f4871ef696b8",
+  "answer_start": 3.4
+}

@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Suomen talous, kuvaajina",
+    "who": "Tilastokeskus",
+    "source": "statfi",
+    "date": "2026-08-26",
+    "session": null,
+    "participants": null,
+    "host": null,
+    "figures": [
+      {
+        "figure_id": "cmlhyj0axqif107vsf9nku194",
+        "saved_query_id": "90973f6c-9dbd-46be-b469-fc13a9bfd1e5",
+        "statistic": "Ansiotasoindeksi",
+        "slug": "ati",
+        "title": "Ansiotasoindeksi ja reaaliansioindeksi 2015Q4-2026Q2*, (2015=100)",
+        "table": "14um.px",
+        "published": "2026-08-26",
+        "latest_period": "2/2026",
+        "stat_line": "Ansiotasoindeksi ja reaaliansioindeksi, Ansiotasoindeksi 128 — ▲ 4,26 vuodessa",
+        "score": 3
+      }
+    ]
+  },
+  "quote": "Ansiotasoindeksi ja reaaliansioindeksi, Ansiotasoindeksi 128 — ▲ 4,26 vuodessa",
+  "based": {
+    "genre": "statfi",
+    "direction": "unknown",
+    "score": 3,
+    "label": "FLOP",
+    "reason": "tavanomainen lukema, ei ennätystä eikä poikkeuksellista muutosta",
+    "hook": "Palkat kiinni hinnoista. Melkein.",
+    "hashtags": [
+      "#talous",
+      "#suomi",
+      "#tilastokeskus",
+      "#palkat",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false
+}

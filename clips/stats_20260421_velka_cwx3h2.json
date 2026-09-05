@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Suomen talous, kuvaajina",
+    "who": "Tilastokeskus",
+    "source": "statfi",
+    "date": "2026-04-21",
+    "session": null,
+    "participants": null,
+    "host": null,
+    "figures": [
+      {
+        "figure_id": "clm9210975q2p0avv3gcwx3h2",
+        "saved_query_id": "a404c434-99b2-4177-97d7-739b3647c64f",
+        "statistic": "Julkisyhteisöjen alijäämä ja velka",
+        "slug": "jali",
+        "title": "Julkisyhteisöjen alijäämä sektorin mukaan 2001-2025*",
+        "table": "122g.px",
+        "published": "2026-04-21",
+        "latest_period": "2025",
+        "stat_line": "Julkisyhteisöjen alijäämä sektorin mukaan -9 613 milj. € — ▲ 2 397 milj. € vuodessa",
+        "score": 3
+      }
+    ]
+  },
+  "quote": "Julkisyhteisöjen alijäämä sektorin mukaan -9 613 milj. € — ▲ 2 397 milj. € vuodessa",
+  "based": {
+    "genre": "statfi",
+    "direction": "unknown",
+    "score": 3,
+    "label": "FLOP",
+    "reason": "tavanomainen lukema, ei ennätystä eikä poikkeuksellista muutosta",
+    "hook": "Sopeutus toimii. Katso itse.",
+    "hashtags": [
+      "#talous",
+      "#suomi",
+      "#tilastokeskus",
+      "#velka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false
+}

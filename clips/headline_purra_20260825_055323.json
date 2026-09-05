@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Ylen tiedot: Sisäministeriö vastustaa kiivaasti suojelupoliisin siirtämistä",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-08-24",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20242643",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20242643?origin=rss"
+    ]
+  },
+  "quote": "• Ylen tiedot: Sisäministeriö vastustaa kiivaasti suojelupoliisin siirtämistä",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 8,
+    "label": "BASED",
+    "reason": "Sisäministeriön kiivaasti vastustaminen ministerin Purra ohjaamassa ministeriössä paljastaa hallituksen sisäistä ristiriitaa ja heikentää hänen asemaansa.",
+    "hook": "Sisäministeriö kapinoi Purran johdolla",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20260825_055323.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-08-25T05:54:11.567014+00:00"
+}

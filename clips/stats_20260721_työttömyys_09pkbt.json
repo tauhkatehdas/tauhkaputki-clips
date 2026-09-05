@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Suomen talous, kuvaajina",
+    "who": "Tilastokeskus",
+    "source": "statfi",
+    "date": "2026-07-21",
+    "session": null,
+    "participants": null,
+    "host": null,
+    "figures": [
+      {
+        "figure_id": "clsd55pw07bq80bulo009pkbt",
+        "saved_query_id": "1abebcff-ce44-440d-b567-395a77f53d83",
+        "statistic": "Työvoimatutkimus",
+        "slug": "tyti",
+        "title": "20-64-vuotiaiden työllisyysaste ja työllisyysasteen trendi 2010M01-2026M06",
+        "table": "135z.px",
+        "published": "2026-07-21",
+        "latest_period": "kesäkuu 2026",
+        "stat_line": "20-64-vuotiaiden työllisyysaste 76,5 % — ▼ 0,7 % vuodessa",
+        "score": 3
+      }
+    ]
+  },
+  "quote": "20-64-vuotiaiden työllisyysaste 76,5 % — ▼ 0,7 % vuodessa",
+  "based": {
+    "genre": "statfi",
+    "direction": "unknown",
+    "score": 3,
+    "label": "FLOP",
+    "reason": "tavanomainen lukema, ei ennätystä eikä poikkeuksellista muutosta",
+    "hook": "75 prosenttia oli tavoite. Tämä on tulos.",
+    "hashtags": [
+      "#talous",
+      "#suomi",
+      "#tilastokeskus",
+      "#työttömyys",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false
+}

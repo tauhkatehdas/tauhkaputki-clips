@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Poliisin voimankäytön rajat",
+    "who": "Ilkka Koskimäki",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Ilkka Koskimäki",
+        "role": "poliisiylijohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Seija Vaaherkumpu",
+    "program_id": "1-76655504",
+    "areena": "https://areena.yle.fi/1-76655504 (1279s–1302s)"
+  },
+  "quote": "Hallitus asetti tavoitteekseen maailman parhaan järjestelmän, mutta me ollaan vielä 20 pykälää maailman parhaasta jäljessä. Vaikka tehtäisiin muutoksiakin. Sitten pistetään Ristolalle vähän epäreilu kysymys. Exit-vero on jatkuvasti keskustelun alla.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei näkyvää kiertelyä tai vastauksen välttelyä; lauseet ovat suoria ja on-topic",
+    "hook": "Miksi hallitus ei pääse maalille?",
+    "hashtags": [
+      "#politiikka",
+      "#vero",
+      "#hallitus",
+      "#tavoitteet",
+      "#Ristola",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "eb3cd672bd25",
+  "answer_start": 5.76
+}

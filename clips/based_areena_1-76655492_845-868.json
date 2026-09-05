@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Trumpin vuosi vallassa",
+    "who": "Martti Koskenniemi, John Morton, Mikko Saikku",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Martti Koskenniemi",
+        "role": "kansainvälisen oikeuden emeritusprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "John Morton",
+        "role": "Pohjois-Amerikan tutkimuksen professori Benita Heiskanen Turun yliopiston",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Mikko Saikku",
+        "role": "Yhdysvaltain tutkimuksen professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655492",
+    "areena": "https://areena.yle.fi/1-76655492 (845s–868s)"
+  },
+  "quote": "Miten Eurooppa purkaisi näitä sidonnaisuuksia, joita on vuosikymmeniä rakenneltu? Niitä on rakenneltu, mutta ne ovat olleet monesti haasteiden edessä. Ikäiseni kv. politiikan ja oikeuden tutkijat tietävät, että USA aina kiskoo useampaan suuntaan.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on suoraviivainen ja on-topic, ei näkyvää kiertoa tai vältelyä",
+    "hook": "Miten Eurooppa purkaa USA-sidonnaisuudet?",
+    "hashtags": [
+      "#EU",
+      "#USA",
+      "#geopolitiikka",
+      "#turvallisuuspolitiikka",
+      "#kansainvälisuudet",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "f4871ef696b8",
+  "answer_start": 5.8
+}

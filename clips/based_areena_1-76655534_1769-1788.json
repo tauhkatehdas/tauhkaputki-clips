@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Kykeneekö Nato yhä päätöksiin?",
+    "who": "Juhana Aunesluoma, Joel Linnainmäki",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Juhana Aunesluoma",
+        "role": "asiantuntijat",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Joel Linnainmäki",
+        "role": null,
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655534",
+    "areena": "https://areena.yle.fi/1-76655534 (1769s–1788s)"
+  },
+  "quote": "Siellä on sosiaali- ja terveyshuollon sekä sosiaaliturvan kysymyksiä. Kiitos tästä haastattelusta. Huomenna A-talkissa pohditaan, miten jakaa rahat hyvinvointialueille, jotta palvelut säästyvät.",
+  "based": {
+    "genre": "victorylap",
+    "direction": "unknown",
+    "score": 0,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole mitään itsekehua, voitonottoa tai vastustajien alistamista; se on vain haastattelun lopetus ja esittely seuraavalle ohjelmalle.",
+    "hook": "Haastattelu loppuu ilman mitään kehuja",
+    "hashtags": [
+      "#politiikka",
+      "#haastattelu",
+      "#yle",
+      "#A-talk",
+      "#media",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "maguire",
+  "rubric_version": "1d165078e1f9",
+  "answer_start": 6.6
+}

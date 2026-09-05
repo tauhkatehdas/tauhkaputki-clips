@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Trumpin vuosi vallassa",
+    "who": "Martti Koskenniemi, John Morton, Mikko Saikku",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Martti Koskenniemi",
+        "role": "kansainvälisen oikeuden emeritusprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "John Morton",
+        "role": "Pohjois-Amerikan tutkimuksen professori Benita Heiskanen Turun yliopiston",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Mikko Saikku",
+        "role": "Yhdysvaltain tutkimuksen professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655492",
+    "areena": "https://areena.yle.fi/1-76655492 (1657s–1679s)"
+  },
+  "quote": "- Vaalikampanjan aikana lupaus oli, että rikolliset, paperittomat, poistetaan maasta. Nyt ihmiset ovat huomanneet, että kaikki maassa olevat voivat olla ulkonäkönsä perusteella kohteena. Tässä maahanmuuttopolitiikassa on tapahtunut kaikenlaista.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 5,
+    "label": "MEH",
+    "reason": "Puheenjohtaja nimeää lupauksen ja todellisuuden ristiriidan suoraan ilman eufemismeja",
+    "hook": "Lupaus vs. todellisuus: kuka on kohteena?",
+    "hashtags": [
+      "#maahanmuuttopolitiikka",
+      "#vaalilupaukset",
+      "#rikolliset",
+      "#paperittomat",
+      "#ulkonäkö",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "f4871ef696b8",
+  "answer_start": 3.84
+}

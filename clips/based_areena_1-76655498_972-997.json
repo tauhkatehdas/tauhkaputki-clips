@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Mikä Suomea uhkaa?",
+    "who": "Leena Malkki, Juha Martelius",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Leena Malkki",
+        "role": "terrorismia tutkiva yliopistonlehtori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juha Martelius",
+        "role": "suojelupoliisin päällikkö",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655498",
+    "areena": "https://areena.yle.fi/1-76655498 (972s–997s)"
+  },
+  "quote": "Verotietomme ovat jo pilvipalveluissa ja kohta myös Kela-tiedot. Mitä uhkia Supo näkee tähän liittyen? Näitä nimenomaisia esimerkkejä en ota. Yleisellä tasolla haaste on siinä, että tietoyhteiskunta tarvitsee paikkoja, joissa tietoa voi kustannus- tehokkaasti säilöä ja myös käyttää.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vastaus kiertää Supo-kysymyksen ja siirtyy yleisluontoiseen kustannustehokkuus-puheeseen ilman konkreettista riskiarviointia.",
+    "hook": "Supo-kysymykseen vastaa kustannustehokkuudella",
+    "hashtags": [
+      "#dataturvallisuus",
+      "#pilvipalvelut",
+      "#Supo",
+      "#Kela",
+      "#tietoyhteiskunta",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "4acbe5cb3fb5",
+  "answer_start": 6.04
+}

@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä tapahtuu Lähi-idässä ensi yönä?",
+    "who": "Juha Ristamäki, Uudesta Jutusta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Juha Ristamäki",
+        "role": "politiikan toimituksen päällikkö",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Uudesta Jutusta",
+        "role": "politiikan toimittaja Eeva Lehtimäki",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655512",
+    "areena": "https://areena.yle.fi/1-76655512 (1919s–1932s)"
+  },
+  "quote": "Kun mennään oikealle, sitä enemmän leikkauksia, kun vasemmalle, sitä enemmän veronkorotuksia. Rakenteellisia uudistuksia tulee joka tapauksessa. Kyllä siinä liikkumatilaa on.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on suora ja johdonmukainen, ei sisällä kiertoa tai välistelyä",
+    "hook": "Miksi tämä on ramble?",
+    "hashtags": [
+      "#politiikka",
+      "#talouspolitiikka",
+      "#uudistukset",
+      "#verotus",
+      "#leikkaukset",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "3e759102d815",
+  "answer_start": 3.88
+}

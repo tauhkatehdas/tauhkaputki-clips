@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Parlamentaarinen keskustelu ydinaselinjasta",
+    "who": "Tytti Tuppurainen, Jukka Kopra",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Tytti Tuppurainen",
+        "role": "eduskuntaryhmien puheenjohtajat",
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Jukka Kopra",
+        "role": null,
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655533",
+    "areena": "https://areena.yle.fi/1-76655533 (94s–104s)"
+  },
+  "quote": "Sosiaaliturvaleikkaukset ovat ajaneet huonoon taloustilanteeseen. Odottaisin jotain konkreettista.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Tuppurainen nimittelee leikkaukset syyksi huonoon talouteen ja vaatii konkreettisia ratkaisuja suoraan omalla äänellä.",
+    "hook": "Leikkaukset rikkosivat talouden — vastaus?",
+    "hashtags": [
+      "#sosiaaliturva",
+      "#talouspolitiikka",
+      "#leikkaukset",
+      "#Tuppurainen",
+      "#eduskunta",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "f6637720670a",
+  "answer_start": 6.52
+}

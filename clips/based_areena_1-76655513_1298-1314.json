@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Pitäisikö naamioituminen mielenosoituksissa kieltää?",
+    "who": "Tatu Hyttinen, Konsta Arvelin",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Tatu Hyttinen",
+        "role": "rikosoikeuden apulaisprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Konsta Arvelin",
+        "role": "poliisitarkastaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655513",
+    "areena": "https://areena.yle.fi/1-76655513 (1298s–1314s)"
+  },
+  "quote": "Suomen Yrittäjät on laskenut, että kahden arkipyhän poistaminen toisi puoli miljardia lisää verotuloja ja sadan miljoonan suorat säästöt. Julkisen sektorin rahoitusasema paranisi noin 800 miljoonalla eurolla.",
+  "based": {
+    "genre": "victorylap",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei ole vasemmistopuolueen poliitikko eikä omien menestysten kehu, vaan organisaation laskelma",
+    "hook": "Yrittäjät laskeli: 800M€ etu?",
+    "hashtags": [
+      "#verot",
+      "#talouspolitiikka",
+      "#yrittäjät",
+      "#julkinenrahoitus",
+      "#arkipyhät",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "maguire",
+  "rubric_version": "66a362fdf26a",
+  "answer_start": 4.84
+}

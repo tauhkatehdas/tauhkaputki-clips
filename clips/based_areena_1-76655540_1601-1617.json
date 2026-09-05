@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "A-studio: Kehysriihen päätökset",
+    "who": "Jukka Kopra, Tytti Tuppurainen, Antti Kurvinen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Jukka Kopra",
+        "role": "kohtaavat eduskuntaryhmien puheenjohtajat",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Tytti Tuppurainen",
+        "role": null,
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Antti Kurvinen",
+        "role": null,
+        "party": "kesk",
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655540",
+    "areena": "https://areena.yle.fi/1-76655540 (1601s–1617s)"
+  },
+  "quote": "Tätäkin korjataan muiden verotuksellisten parannusten kanssa. Kotitalousvähennyksen määrää sekä prosenttia korotetaan. Kyllä, tämä on edestakaisin menoa.",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Puheenjohtaja myöntää 'edestakaisin menoa' samassa lauseessa jossa esittelee parannusta, mikä on itsensä kumottava tunnustus.",
+    "hook": "Kopra tunnusti oman ehdotuksensa epäjohdonmukaisuuden",
+    "hashtags": [
+      "#verotus",
+      "#kotitalousvähennys",
+      "#kok",
+      "#politiikka",
+      "#itsensäkumous",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "curb",
+  "answer_start": 7.28
+}

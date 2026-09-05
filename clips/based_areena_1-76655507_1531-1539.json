@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Miksei kotikouluja valvota paremmin?",
+    "who": "Anders Adlercreutz, Elina Pekkarinen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Anders Adlercreutz",
+        "role": "opetusministeri",
+        "party": "r",
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Elina Pekkarinen",
+        "role": "lapsiasiavaltuutettu",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655507",
+    "areena": "https://areena.yle.fi/1-76655507 (1531s–1539s)"
+  },
+  "quote": "Ainakin Britanniassa maahanmuuttopolitiikka nousee vielä keskeisempään asemaan.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 1,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelijan kysymystä eikä poliitikon kiertoa, vaan pelkkä havainto Britanniasta",
+    "hook": "Miksi tämä on ramble?",
+    "hashtags": [
+      "#maahanmuutto",
+      "#Britannia",
+      "#politiikka",
+      "#haastattelu",
+      "#mediat",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "1096943f8ffd",
+  "answer_start": 2.92
+}

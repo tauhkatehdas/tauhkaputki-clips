@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Pitäisikö naamioituminen mielenosoituksissa kieltää?",
+    "who": "Tatu Hyttinen, Konsta Arvelin",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Tatu Hyttinen",
+        "role": "rikosoikeuden apulaisprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Konsta Arvelin",
+        "role": "poliisitarkastaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655513",
+    "areena": "https://areena.yle.fi/1-76655513 (1613s–1621s)"
+  },
+  "quote": "Jos olisimme työvoimapulassa emmekä saisi maahanmuuttoa, tilanne olisi eri, mutta meillä on kyllä väkeä.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelijan kysymystä eikä vastustelua, vaan itsenäinen väittämä ilman selkeää kääntymistä tai vältelyä.",
+    "hook": "Miksi tämä on ramble?",
+    "hashtags": [
+      "#maahanmuutto",
+      "#tyovoima",
+      "#politiikka",
+      "#keskustelu",
+      "#analyysi",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "66a362fdf26a",
+  "answer_start": 5.08
+}

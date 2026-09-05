@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Caruna myytiin Espanjaan",
+    "who": "Janne Kerttula, Pertti Järventausta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Janne Kerttula",
+        "role": "Energiateollisuuden johtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Pertti Järventausta",
+        "role": "sähkötekniikan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655532",
+    "areena": "https://areena.yle.fi/1-76655532 (1668s–1677s)"
+  },
+  "quote": "Nähtävästi voisi olla valmiutta perua huonompia talouspoliittisia linjauksia, kuten yhteisöveron alentaminen.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Välttämätön ja epäsuora sanamuoto piilottaa syyllistävän kohteen, ei nimeä vastustajaa suoraan.",
+    "hook": "Kuka peruu huonot linjaukset?",
+    "hashtags": [
+      "#talouspolitiikka",
+      "#yhteisvero",
+      "#verouudistus",
+      "#politiikka",
+      "#keskustelu",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "edcddb1c5f60",
+  "answer_start": 2.92
+}

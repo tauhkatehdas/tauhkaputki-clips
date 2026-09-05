@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä tapahtuu Lähi-idässä ensi yönä?",
+    "who": "Juha Ristamäki, Uudesta Jutusta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Juha Ristamäki",
+        "role": "politiikan toimituksen päällikkö",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Uudesta Jutusta",
+        "role": "politiikan toimittaja Eeva Lehtimäki",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655512",
+    "areena": "https://areena.yle.fi/1-76655512 (1668s–1685s)"
+  },
+  "quote": "Mutta se on selvää, että kun meidän velkatilanne on näin huono, niin väistämättä se kasvattaa valtiovarainministeriön valtaa, koska he istuvat paitsi leikkauslistojen päällä, myös veronkorotuslistojen päällä.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei haastattelukysymystä eikä virallista vastauksia, joten ramble-määritelmä ei toteudu",
+    "hook": "Kuka tämä on ja miksi hän ramppaa?",
+    "hashtags": [
+      "#talouspolitiikka",
+      "#valtiovarainministerio",
+      "#velka",
+      "#verot",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "3e759102d815",
+  "answer_start": 4.28
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Ylen kysely: Juuri kukaan ei halua nykyisen hallituksen jatkavan – eivät edes hallituspuolueiden omat kannattajat",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-08-24",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20241807",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20241807?origin=rss"
+    ]
+  },
+  "quote": "• Ylen kysely: Juuri kukaan ei halua nykyisen hallituksen jatkavan – eivät edes hallituspuolueiden omat kannattajat",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 9,
+    "label": "BASED",
+    "reason": "Kysely paljastaa historian alhaisimman tuen hallitukselle, sillä jopa omien puolueiden kannattajat kieltäytyvät sen jatkamisesta.",
+    "hook": "Ei kukaan halua hallitusta – omat kannattajat kieltäytyvät",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20260824_055842.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-08-24T05:59:36.129684+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Orpo ja Lindtman kohtaavat budjetista",
+    "who": "Antti Lindtmanin",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Antti Lindtmanin",
+        "role": "pääministeri Petteri Orpo (kok.) kohtaa SDP:n puheenjohtajan",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655570",
+    "areena": "https://areena.yle.fi/1-76655570 (861s–882s)"
+  },
+  "quote": "Eniten tarvetta olisi ollut niillä, jotka kamppailevat pärjätäkseen arjessa. Se suuri ero meillä on kokoomuksen kanssa. Mitä säästötoimia tässä budjetissa olisi pitänyt päättää? Kallis ja tehoton yhteisöveron alennus olisi pitänyt jättää pois.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Antti Lindtman (SDP) nimeää suoraan Kokoomuksen kallis ja tehoton yhteisöveronalennus budjetin virheeksi ja asettaa oman linjansä sen vastakohtaksi.",
+    "hook": "Lindtman: Kokoomus meni vikaan veronalennuksella",
+    "hashtags": [
+      "#budjetti",
+      "#verot",
+      "#sdp",
+      "#kokoomus",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "d52f5f8b9e26",
+  "answer_start": 6.08
+}

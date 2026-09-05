@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Kausityöntekijöiden karu kohtelu",
+    "who": "Annika Rönni-Sällinen, Timo Lappi",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Annika Rönni-Sällinen",
+        "role": "Palvelualojen ammattiliitto PAMin puheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Timo Lappi",
+        "role": "ravintolapalvelut MaRa ry:n toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655535",
+    "areena": "https://areena.yle.fi/1-76655535 (1063s–1070s)"
+  },
+  "quote": "Kuka leikkasi työttömyysturvasta: maahanmuuttajat vai teidän hallituksenne?",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 5,
+    "label": "MEH",
+    "reason": "Kysymys asettaa vastakkain maahanmuuttajat ja hallitus, nimensä 'leikkaaja' työttömyysturvasta, mikä on rehellinen ja suora keino nähdä konfliktin ydin.",
+    "hook": "Kuka leikkasi turvan: maahanmuuttajat vai hallitus?",
+    "hashtags": [
+      "#työttömyysturva",
+      "#maahanmuutto",
+      "#politiikka",
+      "#leikkaukset",
+      "#kysymys",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "answer_start": 3.24
+}

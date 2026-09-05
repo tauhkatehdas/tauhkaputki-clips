@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Sauli Niinistö ja Euroopan turvallisuus",
+    "who": "Antti Kurvinen, Arto Satonen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Antti Kurvinen",
+        "role": "kohtasivat opposition",
+        "party": "kesk",
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Arto Satonen",
+        "role": "hallituksen edellinen työministeri",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655496",
+    "areena": "https://areena.yle.fi/1-76655496 (1667s–1674s)"
+  },
+  "quote": "Siellä on osittain maahanmuuttajia ja ihmisiä, jotka ovat pitkään olleet toimeentulotuella.",
+  "based": {
+    "genre": "none",
+    "direction": "right",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on lyhyt ja suora, ei sisällä kiertoja tai välistelyä",
+    "hook": "Lyhyt vastaus, ei välistelyä",
+    "hashtags": [
+      "#maahanmuutto",
+      "#toimeentulo",
+      "#politiikka",
+      "#työministeri",
+      "#keskustelu",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "822b7b940e75",
+  "answer_start": 3.64
+}

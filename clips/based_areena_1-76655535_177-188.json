@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "title": "A-studio: Kausityöntekijöiden karu kohtelu",
+    "who": "Annika Rönni-Sällinen, Timo Lappi",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Annika Rönni-Sällinen",
+        "role": "Palvelualojen ammattiliitto PAMin puheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Timo Lappi",
+        "role": "ravintolapalvelut MaRa ry:n toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655535",
+    "areena": "https://areena.yle.fi/1-76655535 (177s–188s)"
+  },
+  "quote": "Tämä on myös veronsaajalle huono asia. Kyse on joistakin mädistä omenoista, mutta yleistilanne on kunnossa? Suurin osa yrityksistä toimii hyvin.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on suora ja tiivis, ei karkaa kysymyksestä eikä sisällä hedgingiä tai kääntöä.",
+    "hook": "Vastaus on suora, ei ramblaa",
+    "hashtags": [
+      "#verot",
+      "#yritykset",
+      "#talous",
+      "#politiikka",
+      "#haastattelu",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "answer_start": 2.84
+}

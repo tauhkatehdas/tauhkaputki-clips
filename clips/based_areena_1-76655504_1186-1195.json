@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Poliisin voimankäytön rajat",
+    "who": "Ilkka Koskimäki",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Ilkka Koskimäki",
+        "role": "poliisiylijohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Seija Vaaherkumpu",
+    "program_id": "1-76655504",
+    "areena": "https://areena.yle.fi/1-76655504 (1186s–1195s)"
+  },
+  "quote": "Perintö- ja lahjaveron poistolla on vahvistettu pääomamarkkinoita. Siellä kansankapitalismi kukoistaa.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Lauseessa on vahva, suora väite ilman peittokieltä, mutta se on yleinen oikeistolainen talking point eikä nimeä kohdetta tai paljasta epämukavaa totuutta omalla äänellä.",
+    "hook": "Kansankapitalismi kukoistaa perintöveron jälkeen?",
+    "hashtags": [
+      "#perintövero",
+      "#pääomamarkkinat",
+      "#kansankapitalismi",
+      "#veropolitiikka",
+      "#talouspolitiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "eb3cd672bd25",
+  "answer_start": 5.8
+}

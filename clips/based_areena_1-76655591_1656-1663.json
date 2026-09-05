@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "A-studio: A-Talk: Pitääkö taloudellinen eriarvoistuminen hyväksyä Suomessa?",
+    "who": "Juhana Vartiainen, Sami Pakarinen, Tatu Knuutila, Saara Hyrkkö",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Juhana Vartiainen",
+        "role": "työelämäprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Sami Pakarinen",
+        "role": "johtaja",
+        "party": null,
+        "org": "ek",
+        "direction": "right"
+      },
+      {
+        "name": "Tatu Knuutila",
+        "role": "ekonomisti",
+        "party": null,
+        "org": "sak",
+        "direction": "left"
+      },
+      {
+        "name": "Saara Hyrkkö",
+        "role": "kansanedustaja",
+        "party": "vihr",
+        "org": null,
+        "direction": "left"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655591",
+    "areena": "https://areena.yle.fi/1-76655591 (1656s–1663s)"
+  },
+  "quote": "Perintöveron poisto poraisi suuren loven julkiseen talouteen. He ovat jälleen arvovalintoja.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Nimeää suoraan vastustajien 'arvovalinnat' ja kvantifioi tuhon ('suuri lohkko'), ei pelkkää abstraktiä kritiikkiä",
+    "hook": "Perintövero porasi julkiset rahat",
+    "hashtags": [
+      "#perintövero",
+      "#julkistalous",
+      "#arvovalinnat",
+      "#vasemmisto",
+      "#talouspolitiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "0d3055d2512c",
+  "answer_start": 4.8
+}

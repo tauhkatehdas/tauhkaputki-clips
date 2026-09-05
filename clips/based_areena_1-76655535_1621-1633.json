@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Kausityöntekijöiden karu kohtelu",
+    "who": "Annika Rönni-Sällinen, Timo Lappi",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Annika Rönni-Sällinen",
+        "role": "Palvelualojen ammattiliitto PAMin puheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Timo Lappi",
+        "role": "ravintolapalvelut MaRa ry:n toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655535",
+    "areena": "https://areena.yle.fi/1-76655535 (1621s–1633s)"
+  },
+  "quote": "Voiko se sysätä merkittävän määrän ihmisiä köyhyyteen? Nykyiset hallituksen leikkaukset on tehty työikäisten sosiaaliturvaan.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Kysymys asettaa hallituksen leikkaukset suoraan köyhyyden syyksi ilman kiertoja.",
+    "hook": "Leikkaavatkö he ihmiset köyhyyteen?",
+    "hashtags": [
+      "#köyhyys",
+      "#sosiaaliturva",
+      "#hallitus",
+      "#leikkaukset",
+      "#työikäiset",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "answer_start": 5.68
+}

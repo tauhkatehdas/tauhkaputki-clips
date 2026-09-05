@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Sauli Niinistö ja Euroopan turvallisuus",
+    "who": "Antti Kurvinen, Arto Satonen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Antti Kurvinen",
+        "role": "kohtasivat opposition",
+        "party": "kesk",
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Arto Satonen",
+        "role": "hallituksen edellinen työministeri",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655496",
+    "areena": "https://areena.yle.fi/1-76655496 (2016s–2031s)"
+  },
+  "quote": "Veropolitiikasta sanon sen verran, että hallituksen iso linja on ollut tuloveron keventäminen kaikissa tuloluokissa. Se on nostanut ostovoimaa yhdessä palkankorotusten kanssa.",
+  "based": {
+    "genre": "none",
+    "direction": "right",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on suora ja on-topic, ei kiertoa tai välistelyä",
+    "hook": "Ministeri vastaa suoraan",
+    "hashtags": [
+      "#veropolitiikka",
+      "#hallitus",
+      "#talous",
+      "#keskusta",
+      "#kok",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "822b7b940e75",
+  "answer_start": 5.24
+}

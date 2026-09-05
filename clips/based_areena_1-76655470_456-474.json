@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Hallitus veti tukensa Gardenilta. Laantuuko kohu?",
+    "who": "Seppo Junnila, Mirva Merimaa, Arto Saari",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Seppo Junnila",
+        "role": "kestävän kiinteistöliiketoiminnan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Mirva Merimaa",
+        "role": "Tiketin toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Arto Saari",
+        "role": "rakennustuotannon ohjauksen professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655470",
+    "areena": "https://areena.yle.fi/1-76655470 (456s–474s)"
+  },
+  "quote": "Miksi hankkeen esittelypapereiden työllisyysvaikutukset menivät läpi? Ja totta kai korruptiosta, siitä, miltä tämä näyttää ulospäin, vaikka ei välttämättä ole vakavaa suhmurointia tapahtunut.",
+  "based": {
+    "genre": "cliffhanger",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Haastattelija asettaa kovaa kysymystä korruptio-epäilyistä, mutta lauseke loppuu ilman vastausta.",
+    "hook": "Miksi korruptio-epäilyt jäivät vastauksetta?",
+    "hashtags": [
+      "#korruptio",
+      "#kiinteistö",
+      "#politiikka",
+      "#haastattelu",
+      "#epäilykset",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "tbc",
+  "rubric_version": "2e8b44e06ada",
+  "answer_start": 7.04
+}

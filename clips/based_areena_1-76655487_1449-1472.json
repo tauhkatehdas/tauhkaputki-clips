@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Onko säännöillä enää väliä maailmanpolitiikassa?",
+    "who": "Martti Koskenniemi, Juhana Aunesluoma",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Martti Koskenniemi",
+        "role": "kansainvälisen oikeuden emeritusprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juhana Aunesluoma",
+        "role": "Helsingin yliopiston poliittisen historian professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655487",
+    "areena": "https://areena.yle.fi/1-76655487 (1449s–1472s)"
+  },
+  "quote": "Mitä uudistuksella tavoittelette? Sillä tavoitellaan sitä, että palvelumme ovat sujuvampia. Ne tuotetaan tehokkaammin. Asiakkaat saavat päätöksensä nopeammin ja turvallisesti. Verottaja on ollut Kelaa edellä, pääjohtaja Markku Heikura.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on suora ja konkreettinen, ei kiertoa tai vältelyä",
+    "hook": "Kela-vastaus: sujuvampaa, tehokkaampaa, nopeampaa",
+    "hashtags": [
+      "#Kela",
+      "#uudistus",
+      "#palvelut",
+      "#tehokkuus",
+      "#hallinto",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "c7da011a88d6",
+  "answer_start": 3.28
+}

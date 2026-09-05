@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä tapahtuu Lähi-idässä ensi yönä?",
+    "who": "Juha Ristamäki, Uudesta Jutusta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Juha Ristamäki",
+        "role": "politiikan toimituksen päällikkö",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Uudesta Jutusta",
+        "role": "politiikan toimittaja Eeva Lehtimäki",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655512",
+    "areena": "https://areena.yle.fi/1-76655512 (1408s–1430s)"
+  },
+  "quote": "Taisi olla juustohöylä, sakset ja moottorisaha. Kaikki paitsi Vasemmistoliitto ovat sitoutuneet velkajarruun, mutta sehän voi pitää sisällään muutakin kuin leikkauksia, esim. veronkorotuksia. Se riippuu siitä, kenet äänestetään valtaan. Ei se noin yksioikoista ole.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei haastattelukeskustelua eikä käännettä kysymyksestä, vaan itsenäinen analyysi.",
+    "hook": "Miksi tämä on ramble?",
+    "hashtags": [
+      "#talouspolitiikka",
+      "#velkajarru",
+      "#verot",
+      "#analyysi",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "3e759102d815",
+  "answer_start": 5.08
+}

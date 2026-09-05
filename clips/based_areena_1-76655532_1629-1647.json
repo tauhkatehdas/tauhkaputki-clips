@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Caruna myytiin Espanjaan",
+    "who": "Janne Kerttula, Pertti Järventausta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Janne Kerttula",
+        "role": "Energiateollisuuden johtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Pertti Järventausta",
+        "role": "sähkötekniikan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655532",
+    "areena": "https://areena.yle.fi/1-76655532 (1629s–1647s)"
+  },
+  "quote": "Keynesiläinen suositus olisi käyttää niin sanottua elvytystä eli alennettaisiin verotusta tai lisättäisiin julkisia menoja. Toisaalta julkisen talouden alijäämä on rakenteellinen ja vakava, mikä kyllä jarruttaa meillä kysynnän puolella.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelijan kysymystä eikä vastustajan kääntymistä, vaan pelkkä talousanalyysi ilman selkeää karkoitusta.",
+    "hook": "Miksi tämä ei vastaa mihinkään?",
+    "hashtags": [
+      "#talouspolitiikka",
+      "#keynesianismi",
+      "#julkinen_talous",
+      "#verot",
+      "#elvytysohjelma",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "edcddb1c5f60",
+  "answer_start": 5.24
+}

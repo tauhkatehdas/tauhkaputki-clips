@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Poliisin voimankäytön rajat",
+    "who": "Ilkka Koskimäki",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Ilkka Koskimäki",
+        "role": "poliisiylijohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Seija Vaaherkumpu",
+    "program_id": "1-76655504",
+    "areena": "https://areena.yle.fi/1-76655504 (1395s–1419s)"
+  },
+  "quote": "- Kaikki lähtee osaavasta pääomasta. Jos USA:n kansalainen harkitsee tänne tuloa peli- tai satelliittiyhtiöön töihin, hän olisi verovelvollinen Suomeen siltä ajalta, kun hän asuu Suomessa. Kovin moni USA:n kansalainen ei halua olla verovelvollinen Suomeen.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei haastattelijan kysymystä eikä käännyt pois asiasta; suora vastaus verovelvollisuudesta",
+    "hook": "Miksi USA-laiset eivät halua Suomeen?",
+    "hashtags": [
+      "#verotus",
+      "#talous",
+      "#työvoima",
+      "#ulkomaalaiset",
+      "#poliittinen",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "eb3cd672bd25",
+  "answer_start": 3.52
+}

@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": null,
+    "who": "Juha Mäenpää",
+    "source": "floor",
+    "date": "2026-07-21",
+    "session": "PTK 72/2026",
+    "participants": null,
+    "host": null
+  },
+  "quote": "— On jotenkin kornia, että tätä teatteria vetää viime kaudella 6 000 miljoonaa hukannut ministeri ja keskustan Kaikkonen, joka on korruption kokemusasiantuntija.",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Mäenpää (PS) kritisoi keskustan Kaikkosta korruptio-asiantuntijana, vaikka omassa puolueessaan on korruptiotapauksia ja hän itse on syytetty rasistisista syyllistelyksistä — itsensä kumppanien vika on 'kokemusta' samalla tavalla.",
+    "hook": "PS-kritiikki keskustasta — omat viinat pöydällä?",
+    "hashtags": [
+      "#politiikka",
+      "#perussuomalaiset",
+      "#keskusta",
+      "#korruptio",
+      "#kaksipesäisyys",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "curb",
+  "rubric_version": "c76aeb36f69f"
+}

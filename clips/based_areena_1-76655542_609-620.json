@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Oliko suojaosien poistaminen virhe?",
+    "who": "Arto Satonen, Aino-Kaisa Pekonen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Arto Satonen",
+        "role": "tasa-arvovaliokunnan puheenjohtaja",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Aino-Kaisa Pekonen",
+        "role": "vasemmistoliiton eduskuntaryhmän puheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "left"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655542",
+    "areena": "https://areena.yle.fi/1-76655542 (609s–620s)"
+  },
+  "quote": "Se on kuitenkin aito työllisyystoimi. Voimme saada ihmisiä työllistettyä. Hallitus on antamassa suuryrityksille miljardin yhteisöveron alennuksen.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Pekonen vastustaa hallituksen politiikkaa asettamalla suoran vastakkain työllisyystoimen ja yritysveronalennuksen, nimettyä 'miljardin alennus' on aito työllisyystoimi",
+    "hook": "Työllisyys vai miljardi yrityksille?",
+    "hashtags": [
+      "#työllisyys",
+      "#yhteisövero",
+      "#hallitus",
+      "#vasemmistoliitto",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "answer_start": 5.52
+}

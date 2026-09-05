@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Suomen talous, kuvaajina",
+    "who": "Tilastokeskus",
+    "source": "statfi",
+    "date": "2026-01-27",
+    "session": null,
+    "participants": null,
+    "host": null,
+    "figures": [
+      {
+        "figure_id": "clrujwvjf0ujh0cum5j3rrzo1",
+        "saved_query_id": "03308421-4c61-4fd0-b5cc-e43614edec36",
+        "statistic": "Työvoimatutkimus",
+        "slug": "tyti",
+        "title": "Työllisyysaste sukupuolen mukaan 2009-2025",
+        "table": "13aj.px",
+        "published": "2026-01-27",
+        "latest_period": "2025",
+        "stat_line": "Työllisyysaste sukupuolen mukaan, Sukupuolet yhteensä 62,2 % — ▼ 0,5 % vuodessa",
+        "score": 3
+      }
+    ]
+  },
+  "quote": "Työllisyysaste sukupuolen mukaan, Sukupuolet yhteensä 62,2 % — ▼ 0,5 % vuodessa",
+  "based": {
+    "genre": "statfi",
+    "direction": "unknown",
+    "score": 3,
+    "label": "FLOP",
+    "reason": "tavanomainen lukema, ei ennätystä eikä poikkeuksellista muutosta",
+    "hook": "Töissä käyminen jäi kokeiluasteelle.",
+    "hashtags": [
+      "#talous",
+      "#suomi",
+      "#tilastokeskus",
+      "#työttömyys",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false
+}

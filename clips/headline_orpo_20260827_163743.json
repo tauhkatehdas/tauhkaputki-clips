@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Orpon ja Rantasen supo-riidan otti niskoilleen kaksi virkamiestä, mutta taustalla on pitkä poliittinen taistelu",
+    "who": "Petteri Orpo",
+    "source": "yle_rss",
+    "date": "2026-08-27",
+    "session": null,
+    "party": "Kok.",
+    "program_id": "yle_rss_https://yle.fi/a/74-20243178",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20243178?origin=rss"
+    ]
+  },
+  "quote": "• Orpon ja Rantasen supo-riidan otti niskoilleen kaksi virkamiestä, mutta taustalla on pitkä poliittinen taistelu",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 8,
+    "label": "BASED",
+    "reason": "Uutinen paljastaa pääministerin ja sisäministerin välisen riidan Supo-asialla, joka on johtanut virkamiesten siirtoihin ja paljastaa hallituksen sisäiset ongelmat.",
+    "hook": "Orpo-Rantasen riita otti niskaan virkamiehet",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#orpo",
+      "#petteriorpo",
+      "#kok",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_orpo_20260827_163743.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-08-27T16:38:33.322930+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Saavatko suomalaiset riittävästi tietoa drooniuhista?",
+    "who": "Antti Häkkänen, Antti Kaikkonen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Antti Häkkänen",
+        "role": "puolustusministeri",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Antti Kaikkonen",
+        "role": "keskustan puheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Seija Vaaherkumpu",
+    "program_id": "1-76655522",
+    "areena": "https://areena.yle.fi/1-76655522 (1391s–1409s)"
+  },
+  "quote": "- Ehkä tämä on vain kenraalien toivomus, mutta eduskunta näyttää ymmärtävän sen. Rahoituskeinoja ovat verotuksen kiristäminen, lisävelan ottaminen tai julkisten palvelujen leikkaukset.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 0,
+    "label": "MEH",
+    "reason": "",
+    "hook": "",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "answer_start": 3.64
+}

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Epstein-paljastukset horjuttavat valtapiirejä",
+    "who": "Benita Heiskanen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Benita Heiskanen",
+        "role": "Pohjois-Amerikan tutkimuksen professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655499",
+    "areena": "https://areena.yle.fi/1-76655499 (1574s–1591s)"
+  },
+  "quote": "Lakko-oikeutta on rajoitettu, irtisanomisia on helpotettu, paikallista sopimista on laajennettu ja yritysten yhteisöveroa alennettu. Se astuu voimaan ensi vuonna. Eivätkö nämäkään siis vielä riitä?",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelijan kysymystä eikä vastauksen kiertoa, vaan pelkkä faktalistaus ilman selkeää kääntymistä tai vältelyä.",
+    "hook": "Miksi tämä lista on ramble?",
+    "hashtags": [
+      "#lakkooikeus",
+      "#irtisanominen",
+      "#paikallissopimus",
+      "#yhteisovero",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "1636c698cd93",
+  "answer_start": 4.92
+}

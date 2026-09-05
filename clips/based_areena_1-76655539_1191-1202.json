@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "title": "A-studio: Kiristyvätkö Euroopan ja Yhdysvaltojen välit entisestään Davosissa?",
+    "who": "Petteri Orpo, Maria Lindén, Tuomas Forsberg",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Petteri Orpo",
+        "role": "pääministeri",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Maria Lindén",
+        "role": "Ulkopoliittisen instituutin tutkija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Tuomas Forsberg",
+        "role": "Tampereen yliopiston kansainvälisen politiikan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655539",
+    "areena": "https://areena.yle.fi/1-76655539 (1191s–1202s)"
+  },
+  "quote": "Élysée-palatsi reagoi tähän tviittaamalla, että presidentti ei päätä lääkkeiden hintoja, vaan apteekit ja sosiaaliturva.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 1,
+    "label": "FLOP",
+    "reason": "Ei ole haastattelutilanne eikä poliitikko kiertänyt kysymystä",
+    "hook": "Viranomaisen virallinen korjaus",
+    "hashtags": [
+      "#ranskapolitiikka",
+      "#sosiaaliturva",
+      "#apteekit",
+      "#virallinenviestinta",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "answer_start": 3.96
+}

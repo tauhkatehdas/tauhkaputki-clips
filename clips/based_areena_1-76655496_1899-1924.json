@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Sauli Niinistö ja Euroopan turvallisuus",
+    "who": "Antti Kurvinen, Arto Satonen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Antti Kurvinen",
+        "role": "kohtasivat opposition",
+        "party": "kesk",
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Arto Satonen",
+        "role": "hallituksen edellinen työministeri",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655496",
+    "areena": "https://areena.yle.fi/1-76655496 (1899s–1924s)"
+  },
+  "quote": "Se vei 1,5 miljoonaa veronmaksajien rahaa ja työllisti 17. Tämä hanke lopetettiin. Tällaiset hankkeet eivät kannata. Työllisyysvaikutuksen tulee olla merkittävä. Niputan näitä vähän: kotitalous- vähennyksen ehdot ennalleen, työttömyysturvan suojaosan ja aikuiskoulutustuen palauttaminen.",
+  "based": {
+    "genre": "ramble",
+    "direction": "right",
+    "score": 4,
+    "label": "MEH",
+    "reason": "Vaihtaa aiheesta toiseen ilman selkeää vastausta alkuperäiseen kysymykseen",
+    "hook": "Miksi vastaus hyppää toiselle aiheelle?",
+    "hashtags": [
+      "#politiikka",
+      "#talous",
+      "#työllisyys",
+      "#hallitus",
+      "#vastaus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "822b7b940e75",
+  "answer_start": 5.76
+}

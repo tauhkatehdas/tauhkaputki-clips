@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä tapahtuu Lähi-idässä ensi yönä?",
+    "who": "Juha Ristamäki, Uudesta Jutusta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Juha Ristamäki",
+        "role": "politiikan toimituksen päällikkö",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Uudesta Jutusta",
+        "role": "politiikan toimittaja Eeva Lehtimäki",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655512",
+    "areena": "https://areena.yle.fi/1-76655512 (1720s–1743s)"
+  },
+  "quote": "Kyllähän heillä on agendavaltaa. Ensi syksynä sieltä tulee taas leikkauslistat ja veronkorotukset, ja siitä sitten poliitikot lähtevät valikoimaan niitä keinoja. Kyllähän viime eduskuntavaaleissa se VM:n paperi, se määritti todella pitkälti vaalien kulkua toimittajien kysymyksissä.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei haastattelukeskustelun kontekstissa ole näkyvissä kyseenalaistavaa kiertelyä tai vastauksen välttelyä",
+    "hook": "Miksi tämä on ramble-genren floppia?",
+    "hashtags": [
+      "#politiikka",
+      "#mediat",
+      "#valtiovarainministerio",
+      "#vaalit",
+      "#agenda",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "3e759102d815",
+  "answer_start": 2.48
+}

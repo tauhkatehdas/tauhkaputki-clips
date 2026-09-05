@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "A-studio: Iranin sodan vaikutus talouteen",
+    "who": "Minna Kuusisto, Risto Murto",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Minna Kuusisto",
+        "role": "Danske Bankin pääekonomisti",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Risto Murto",
+        "role": "Varman toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655517",
+    "areena": "https://areena.yle.fi/1-76655517 (1286s–1294s)"
+  },
+  "quote": "Talouteen liittyvät aiheet, kuten ruuan hinnannousu, bensan hinnan nousu, varallisuusverot ja eläkkeet.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 0,
+    "label": "FLOP",
+    "reason": "Ei ole haastattelukeskustelu, vaan ohjelman kuvaus ilman puhujan nimeä tai sisältöä",
+    "hook": "Mikä tämä edes on?",
+    "hashtags": [
+      "#talous",
+      "#politiikka",
+      "#mediat",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "ebcb73691523",
+  "answer_start": 4.52
+}

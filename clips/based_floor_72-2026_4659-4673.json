@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": null,
+    "who": "Jani Mäkelä",
+    "source": "floor",
+    "date": "2026-07-21",
+    "session": "PTK 72/2026",
+    "participants": null,
+    "host": null
+  },
+  "quote": "Sosiaalidemokraatit syyttämässä muita vaalirahoituksen epäselvyydestä on hieman myötähäpeää herättävä kuvio, ja keskusta, joka on jo tuomioistuimenkin näkemyksen mukaan suomalaisen korruptio-osaamisen ytimessä, epäilemässä muita korruptiosta: no, kyllähän tekijä toisen tuntee.",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Mäkelä syyttää muita korruptiosta samalla kun tunnustaa oman puolueensa olevan korruptio-osaamisen ytimessä, mikä on itsensävastuinen argumentti.",
+    "hook": "Keskusta korruptio-ydin, syyttää muita?",
+    "hashtags": [
+      "#politiikka",
+      "#korruptio",
+      "#keskusta",
+      "#vaalirahoitus",
+      "#itsensävastuus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "curb",
+  "rubric_version": "c76aeb36f69f"
+}

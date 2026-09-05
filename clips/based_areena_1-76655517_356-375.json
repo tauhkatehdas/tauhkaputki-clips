@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Iranin sodan vaikutus talouteen",
+    "who": "Minna Kuusisto, Risto Murto",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Minna Kuusisto",
+        "role": "Danske Bankin pääekonomisti",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Risto Murto",
+        "role": "Varman toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655517",
+    "areena": "https://areena.yle.fi/1-76655517 (356s–375s)"
+  },
+  "quote": "Eduskuntavaaleihin alkaa olla vuoden verran aikaa. Tämä voi olla kilpalaulannan moottorina. Mitä ajattelet siitä, että sosiaaliturvaa indeksikorotettaisiin tai polttoainekuluja kompensoitaisiin työmatkavähennyksen kautta?",
+  "based": {
+    "genre": "cliffhanger",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Haastattelija asettaa avoimen kysymyksen ilman vastausta tai jatkoa",
+    "hook": "Kuka vastaa tähän?",
+    "hashtags": [
+      "#eduskuntavaalit",
+      "#sosiaaliturva",
+      "#polttoaine",
+      "#tyomatkavahennys",
+      "#indeksointi",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "tbc",
+  "rubric_version": "ebcb73691523",
+  "answer_start": 5.32
+}

@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "A-studio: Ukrainan sodan asetelmat",
+    "who": "Hanna Smith, Henri Vanhanen, Tyyne Karjalainen, Emil Kastehelmi",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Hanna Smith",
+        "role": "resilienssitutkimuksen työelämäprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Henri Vanhanen",
+        "role": "kansainvälisen politiikan asiantuntija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Tyyne Karjalainen",
+        "role": "tutkija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Emil Kastehelmi",
+        "role": "Ukrainan sodan asiantuntija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655502",
+    "areena": "https://areena.yle.fi/1-76655502 (1378s–1387s)"
+  },
+  "quote": "Tässä Suomellakin on edunvalvonnan paikka, että Natossa ja EU:ssa Venäjä-kysymys pysyy agendalla.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelukeskustelun kontekstia eikä näkyvää kiertoa tai väistelyä; se on suora, itsenäinen havainto.",
+    "hook": "Missä on haastattelijan kysymys?",
+    "hashtags": [
+      "#suomipolitiikka",
+      "#nato",
+      "#eu",
+      "#venaja",
+      "#edunvalvonta",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "f7253b752d56",
+  "answer_start": 3.52
+}

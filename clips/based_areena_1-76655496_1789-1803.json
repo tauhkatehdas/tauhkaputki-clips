@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "A-studio: Sauli Niinistö ja Euroopan turvallisuus",
+    "who": "Antti Kurvinen, Arto Satonen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Antti Kurvinen",
+        "role": "kohtasivat opposition",
+        "party": "kesk",
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Arto Satonen",
+        "role": "hallituksen edellinen työministeri",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655496",
+    "areena": "https://areena.yle.fi/1-76655496 (1789s–1803s)"
+  },
+  "quote": "Täytyy erikseen arvioida, ovatko ne mahdollisia. Lyhyet puheenvuorot. -Nämä ovat monimutkaisia asioita. Kollega puhuu hieman yksipuolisesti. Te alennatte yhteisöveroa ensi vuodelta.",
+  "based": {
+    "genre": "ramble",
+    "direction": "right",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vaihtaa aiheesta verouudistukseen ilman vastusta kysymykseen",
+    "hook": "Miksi vastataan verouudistukseen?",
+    "hashtags": [
+      "#politiikka",
+      "#verot",
+      "#haastattelu",
+      "#keskusta",
+      "#ramble",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "822b7b940e75",
+  "answer_start": 3.68,
+  "turns": [
+    3.68
+  ]
+}

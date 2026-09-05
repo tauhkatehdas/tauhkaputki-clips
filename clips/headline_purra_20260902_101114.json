@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Analyysi: Orpon hallitus tekee veronalennuksia velkarahalla, uudet leikkaukset jäävät seuraavalle hallitukselle",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-09-01",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20244084",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20244084?origin=rss"
+    ]
+  },
+  "quote": "• Analyysi: Orpon hallitus tekee veronalennuksia velkarahalla, uudet leikkaukset jäävät seuraavalle hallitukselle",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 8,
+    "label": "BASED",
+    "reason": "Analyysi syyttää hallitusta veronalennuksista velkarahalla ja vaikeiden leikkausten siirtämisestä seuraavalle hallitukselle.",
+    "hook": "Veronalennukset velkarahalla",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20260902_101114.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-09-02T10:11:59.877562+00:00"
+}

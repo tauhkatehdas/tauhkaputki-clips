@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Suomen talous, kuvaajina",
+    "who": "Tilastokeskus",
+    "source": "statfi",
+    "date": "2026-02-20",
+    "session": null,
+    "participants": null,
+    "host": null,
+    "figures": [
+      {
+        "figure_id": "clutqdl0l1uqo07vuxuvssat2",
+        "saved_query_id": "b7ff5ce0-c3a3-4988-b0b6-0c84a2d57ed1",
+        "statistic": "Avoimet työpaikat",
+        "slug": "atp",
+        "title": "Avoimet työpaikat työsuhteen tyypin mukaan 2013-2025, vuosikeskiarvo",
+        "table": "11n3.px",
+        "published": "2026-02-20",
+        "latest_period": "2025",
+        "stat_line": "Avoimet työpaikat työsuhteen tyypin mukaan, vuosikeskiarvo, Avoimet työpaikat 34 100 — ▼ 9 600 vuodessa",
+        "score": 3
+      }
+    ]
+  },
+  "quote": "Avoimet työpaikat työsuhteen tyypin mukaan, vuosikeskiarvo, Avoimet työpaikat 34 100 — ▼ 9 600 vuodessa",
+  "based": {
+    "genre": "statfi",
+    "direction": "unknown",
+    "score": 3,
+    "label": "FLOP",
+    "reason": "tavanomainen lukema, ei ennätystä eikä poikkeuksellista muutosta",
+    "hook": "Kohtaanto-ongelma: ei kohtaa, ei ongelmaa.",
+    "hashtags": [
+      "#talous",
+      "#suomi",
+      "#tilastokeskus",
+      "#työpaikat",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false
+}

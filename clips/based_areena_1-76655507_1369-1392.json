@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Miksei kotikouluja valvota paremmin?",
+    "who": "Anders Adlercreutz, Elina Pekkarinen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Anders Adlercreutz",
+        "role": "opetusministeri",
+        "party": "r",
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Elina Pekkarinen",
+        "role": "lapsiasiavaltuutettu",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655507",
+    "areena": "https://areena.yle.fi/1-76655507 (1369s–1392s)"
+  },
+  "quote": "Yksi on tietysti reformipuolueen Faragen erittäin onnistunut propaganda. Hän on villinnyt kansalaisia maahanmuuttovastaisuudella ja sillä, että kustannukset nousevat ja terveyspalveluja ei saa. Sillä hän on villinnyt kansalaisia.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on suora ja johdonmukainen, ei sisällä kiertoa tai välistelyä",
+    "hook": "Ei kiertoa, suora vastaus",
+    "hashtags": [
+      "#maahanmuutto",
+      "#politiikka",
+      "#Farage",
+      "#propaganda",
+      "#keskustelu",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "1096943f8ffd",
+  "answer_start": 2.8
+}

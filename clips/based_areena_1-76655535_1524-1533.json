@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Kausityöntekijöiden karu kohtelu",
+    "who": "Annika Rönni-Sällinen, Timo Lappi",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Annika Rönni-Sällinen",
+        "role": "Palvelualojen ammattiliitto PAMin puheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Timo Lappi",
+        "role": "ravintolapalvelut MaRa ry:n toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655535",
+    "areena": "https://areena.yle.fi/1-76655535 (1524s–1533s)"
+  },
+  "quote": "Perinteisesti maahanmuuttajat ovat olleet sosiaalisien kerrostumien ja tulonjaon alimmilla portailla.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vakava, faktapohjainen todistus maahanmuuttajien heikosta asemasta ilman retoriikkaa",
+    "hook": "Maahanmuuttajat alimmilla portailla",
+    "hashtags": [
+      "#maahanmuutto",
+      "#sosiaalinenepäjärjestys",
+      "#tulonjako",
+      "#työmarkkinat",
+      "#yhdenvertaisuus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "answer_start": 3.68
+}

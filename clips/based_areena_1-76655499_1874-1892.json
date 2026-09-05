@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Epstein-paljastukset horjuttavat valtapiirejä",
+    "who": "Benita Heiskanen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Benita Heiskanen",
+        "role": "Pohjois-Amerikan tutkimuksen professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655499",
+    "areena": "https://areena.yle.fi/1-76655499 (1874s–1892s)"
+  },
+  "quote": "Voittoa jää enemmän yritykseen ja voidaan palkata työntekijöitä. Puhuttiin Saksan Minijobeista, joissa on pienempi palkka ja vähemmät sosiaaliturvakulut. Eikö hallitus olekaan tehnyt tarpeeksi yritysten hyväksi?",
+  "based": {
+    "genre": "cliffhanger",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Haastattelija asettaa kovaa kysymystä ilman vastausta",
+    "hook": "Haastattelija ampui, vastaus puuttuu",
+    "hashtags": [
+      "#politiikka",
+      "#talous",
+      "#työmarkkinat",
+      "#hallitus",
+      "#yritykset",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "tbc",
+  "rubric_version": "1636c698cd93",
+  "answer_start": 4.96
+}

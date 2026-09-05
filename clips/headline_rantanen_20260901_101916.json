@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Valtioneuvoston kanslia päätti jo kesäkuussa selvittää supon siirtoa",
+    "who": "Mari Rantanen",
+    "source": "yle_rss",
+    "date": "2026-08-26",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20243120",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20243120?origin=rss"
+    ]
+  },
+  "quote": "• Valtioneuvoston kanslia päätti jo kesäkuussa selvittää supon siirtoa",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Sisäministeri Rantanen on saanut tiedon tärkeästä selvityksestä vasta myöhäisesti, mikä osoittaa hallituksen sisäisen tiedonvaihdon ongelmia ja heikentää ministerin hallintaa.",
+    "hook": "Rantanen tiesi Supo-selvityksestä myöhästynyt",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#rantanen",
+      "#marirantanen",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_rantanen_20260901_101916.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-09-01T10:20:15.407473+00:00"
+}

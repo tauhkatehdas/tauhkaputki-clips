@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Suomen talous, kuvaajina",
+    "who": "Tilastokeskus",
+    "source": "statfi",
+    "date": "2026-02-20",
+    "session": null,
+    "participants": null,
+    "host": null,
+    "figures": [
+      {
+        "figure_id": "clutqedk91uvy07vuwlntggka",
+        "saved_query_id": "ed6e50c5-b066-4260-8554-7d0918be166c",
+        "statistic": "Avoimet työpaikat",
+        "slug": "atp",
+        "title": "Avoimet työpaikat toimipaikan toimialan (TOL 2008) mukaan 2013-2025, vuosikeskiarvo",
+        "table": "11n7.px",
+        "published": "2026-02-20",
+        "latest_period": "2025",
+        "stat_line": "Avoimet työpaikat toimipaikan toimialan (TOL 2008) mukaan, vuosikeskiarvo 34 100 — ▼ 9 600 vuodessa",
+        "score": 3
+      }
+    ]
+  },
+  "quote": "Avoimet työpaikat toimipaikan toimialan (TOL 2008) mukaan, vuosikeskiarvo 34 100 — ▼ 9 600 vuodessa",
+  "based": {
+    "genre": "statfi",
+    "direction": "unknown",
+    "score": 3,
+    "label": "FLOP",
+    "reason": "tavanomainen lukema, ei ennätystä eikä poikkeuksellista muutosta",
+    "hook": "Kohtaanto-ongelma: ei kohtaa, ei ongelmaa.",
+    "hashtags": [
+      "#talous",
+      "#suomi",
+      "#tilastokeskus",
+      "#työpaikat",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Rantanen suuttui pääministerille supo-selvityksestä – Orpo: ”Minulla on kaikki oikeus”",
+    "who": "Mari Rantanen",
+    "source": "yle_rss",
+    "date": "2026-08-26",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20243007",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20243007?origin=rss"
+    ]
+  },
+  "quote": "• Rantanen suuttui pääministerille supo-selvityksestä – Orpo: ”Minulla on kaikki oikeus”",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 8,
+    "label": "BASED",
+    "reason": "Sisäministeri Rantanen on suuttunut pääministeriin Supo-selvityksestä, joka käynnistettiin ilman häntä, mikä heikentää ministerin asemaa ja paljastaa hallituksen sisäiset ristiriidat.",
+    "hook": "Rantanen suuttui Orpoon: Supo-selvitys salassa",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#rantanen",
+      "#marirantanen",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_rantanen_20260827_163833.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-08-27T16:39:30.944148+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Rydman avustuskriteerien muuttamisesta: ”Jos olen perääntynyt, olen perääntynyt itse itselleni”",
+    "who": "Wille Rydman",
+    "source": "yle_rss",
+    "date": "2026-09-01",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20244018",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20244018?origin=rss"
+    ]
+  },
+  "quote": "• Rydman avustuskriteerien muuttamisesta: ”Jos olen perääntynyt, olen perääntynyt itse itselleni”",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Ministeri Rydman on muuttanut itsensä aiemmin asettamia kriteerejä, mikä näyttää epäjohdonmukaiselta ja perääntymiseltä.",
+    "hook": "Rydman perääntyi omista kriteereistään",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#rydman",
+      "#willerydman",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_rydman_20260902_101246.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-09-02T10:13:32.560593+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä tapahtuu Lähi-idässä ensi yönä?",
+    "who": "Juha Ristamäki, Uudesta Jutusta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Juha Ristamäki",
+        "role": "politiikan toimituksen päällikkö",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Uudesta Jutusta",
+        "role": "politiikan toimittaja Eeva Lehtimäki",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655512",
+    "areena": "https://areena.yle.fi/1-76655512 (1951s–1971s)"
+  },
+  "quote": "Nythän puhutaan vain niistä sopeutuksista ja leikkauksista, mutta onhan siellä myös verot ja yritystuet, siellä on asioita, joilla voidaan avittaa työllisyyttä. On poliitikkojen rakastamat dynaamiset vaikutukset ja erilaiset luovat keinot, joita yritetään viljellä.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Puheenjohtaja nostaa esiin verot ja yritystuet sopeutusten rinnalle, mutta argumentti pysyy yleisellä tasolla ilman kohdennettua kritiikkiä tai rehellistä totuutta.",
+    "hook": "Miksi puhutaan vain leikkauksista?",
+    "hashtags": [
+      "#verot",
+      "#yritystuet",
+      "#tyollisyys",
+      "#poliittinenvalinta",
+      "#talouspolitiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "3e759102d815",
+  "answer_start": 5.48
+}

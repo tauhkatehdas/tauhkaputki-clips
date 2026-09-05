@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "A-studio: Kehysriihen päätökset",
+    "who": "Jukka Kopra, Tytti Tuppurainen, Antti Kurvinen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Jukka Kopra",
+        "role": "kohtaavat eduskuntaryhmien puheenjohtajat",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Tytti Tuppurainen",
+        "role": null,
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Antti Kurvinen",
+        "role": null,
+        "party": "kesk",
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655540",
+    "areena": "https://areena.yle.fi/1-76655540 (1880s–1888s)"
+  },
+  "quote": "Jos olisi haluttu aidosti sopeuttaa valtiontaloutta, olisi ryhdikkäästi peruttu yhteisöveron alennus.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 8,
+    "label": "LEAN",
+    "reason": "Tuppurainen (vas) nimeää konkreettisesti yhteisöveron alennuksen perumisen puuttuvana toimenpiteenä, paljastaa hallituksen linjan epäjohdonmukaisuuden ja torjuu eufemismia suoraan oman puheen kautta.",
+    "hook": "Miksi yhteisövero on edelleen alennettu?",
+    "hashtags": [
+      "#valtiontalous",
+      "#verotus",
+      "#yhteisövero",
+      "#sd",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "answer_start": 4.12
+}

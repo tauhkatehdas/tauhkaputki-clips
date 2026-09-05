@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä vaikealle työttömyystilanteelle voi tehdä?",
+    "who": "Olli Ruohomäki",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Olli Ruohomäki",
+        "role": "Ulkopoliittisen instituutin vieraileva johtava asiantuntija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655482",
+    "areena": "https://areena.yle.fi/1-76655482 (1400s–1409s)"
+  },
+  "quote": "He kiristäisivät yritysten verotusta ja peruisivat sellaisia päätöksiä, jotka luovat pitkällä aikavälillä työpaikkoja.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vasemmistolainen retoriikka ilman nimenomaista kohdetta tai eufemismien hylkäämistä.",
+    "hook": "Yritysverot nousevat, työpaikat katoavat?",
+    "hashtags": [
+      "#verot",
+      "#yritykset",
+      "#työpaikat",
+      "#talouspolitiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "ee7f48a0524b",
+  "answer_start": 5.52
+}

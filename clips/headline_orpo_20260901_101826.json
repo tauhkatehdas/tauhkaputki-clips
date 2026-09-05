@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Pääministeri Orpo vastasi Garden-päätöksestä ja Valmet Automotivesta oikeuskanslerille: ”En ole esteellinen asiassa”",
+    "who": "Petteri Orpo",
+    "source": "yle_rss",
+    "date": "2026-08-31",
+    "session": null,
+    "party": "Kok.",
+    "program_id": "yle_rss_https://yle.fi/a/74-20243749",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20243749?origin=rss"
+    ]
+  },
+  "quote": "• Pääministeri Orpo vastasi Garden-päätöksestä ja Valmet Automotivesta oikeuskanslerille: ”En ole esteellinen asiassa”",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Pääministeri Orpo on esteellisyysasian kohteena oikeuskanslerin tutkinnassa, mikä on vakava eettinen ja juridinen haaste.",
+    "hook": "Orpo esteellisyyden varjossa",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#orpo",
+      "#petteriorpo",
+      "#kok",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_orpo_20260901_101826.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-09-01T10:19:16.370513+00:00"
+}

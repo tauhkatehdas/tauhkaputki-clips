@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Jääkö Ukraina Lähi-idän varjoon?",
+    "who": "Kristi Raik, John Helin",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Kristi Raik",
+        "role": "Viron kansainvälisen puolustustutkimuskeskuksen johtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "John Helin",
+        "role": "Black Bird Groupin analyytikko",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655501",
+    "areena": "https://areena.yle.fi/1-76655501 (1128s–1146s)"
+  },
+  "quote": "Tämä vaikuttaa toimeentuloon ja työssä jaksamiseen niillä ihmisillä, jotka usein joutuvat olemaan määräaikaisissa työsuhteissa. Tämä vaikuttaa mm. muualta tänne tuleviin ja erityisesti nuoriin naisiin.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vakava, konkreettinen analyysi epävarmuuden vaikuttamisesta heikoimmin asemoille, ilman retoriikkaa.",
+    "hook": "Miksi epävarmuus iskee kovimmin heikoimmat?",
+    "hashtags": [
+      "#työmarkkinat",
+      "#epävarmuus",
+      "#nuoret",
+      "#naiset",
+      "#kuntoutus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "eac70ab48416",
+  "answer_start": 7.92
+}

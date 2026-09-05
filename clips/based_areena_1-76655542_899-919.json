@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Oliko suojaosien poistaminen virhe?",
+    "who": "Arto Satonen, Aino-Kaisa Pekonen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Arto Satonen",
+        "role": "tasa-arvovaliokunnan puheenjohtaja",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Aino-Kaisa Pekonen",
+        "role": "vasemmistoliiton eduskuntaryhmän puheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "left"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655542",
+    "areena": "https://areena.yle.fi/1-76655542 (899s–919s)"
+  },
+  "quote": "Suomihan on pienten tuloerojen maa. Onko huoli ylimitoitettua? Hallitus on tehnyt hirveää politiikkaa. On annettu isoja veronkevennyksiä ministeritason tuloja ansaitseville ihmisille ja suuryrityksille.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Pekonen nimetään hallituksen veropolitiikka suoraan 'hirveäksi' ja osoittaa kohteen: ministeritason tuloja ansaitsevat ja suuryritykset.",
+    "hook": "Veronkevennykset ministeritason tuloille?",
+    "hashtags": [
+      "#veropolitiikka",
+      "#tuloerot",
+      "#hallitus",
+      "#vasemmistoliitto",
+      "#eduskunta",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "answer_start": 7.28
+}

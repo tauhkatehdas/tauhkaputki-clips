@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "A-studio: A-Talk: Pitääkö taloudellinen eriarvoistuminen hyväksyä Suomessa?",
+    "who": "Juhana Vartiainen, Sami Pakarinen, Tatu Knuutila, Saara Hyrkkö",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Juhana Vartiainen",
+        "role": "työelämäprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Sami Pakarinen",
+        "role": "johtaja",
+        "party": null,
+        "org": "ek",
+        "direction": "right"
+      },
+      {
+        "name": "Tatu Knuutila",
+        "role": "ekonomisti",
+        "party": null,
+        "org": "sak",
+        "direction": "left"
+      },
+      {
+        "name": "Saara Hyrkkö",
+        "role": "kansanedustaja",
+        "party": "vihr",
+        "org": null,
+        "direction": "left"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655591",
+    "areena": "https://areena.yle.fi/1-76655591 (1790s–1801s)"
+  },
+  "quote": "- Palaan vielä perintöveroesitykseen. Tällä hetkellähän tilanne on se, että useimmat perinnöt ovat verottomia tai matalasti verotettuja.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Tatu Knuutila (vasemmistoekonomisti) nimeää suoraan perintöverouudistuksen tavoitteen ja paljastaa nykystilanteen epäreilun rakenteen ilman suojauskieltoa.",
+    "hook": "Perintövero: useimmat maksaa nolla",
+    "hashtags": [
+      "#perintövero",
+      "#verouudistus",
+      "#talouspolitiikka",
+      "#vasemmisto",
+      "#epäreiluus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "0d3055d2512c",
+  "answer_start": 5.52
+}

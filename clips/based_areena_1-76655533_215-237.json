@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Parlamentaarinen keskustelu ydinaselinjasta",
+    "who": "Tytti Tuppurainen, Jukka Kopra",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Tytti Tuppurainen",
+        "role": "eduskuntaryhmien puheenjohtajat",
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Jukka Kopra",
+        "role": null,
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655533",
+    "areena": "https://areena.yle.fi/1-76655533 (215s–237s)"
+  },
+  "quote": "Kun bensan ja ruoan hinta nousee, se osuu kaikkein pienituloisimpiin. Hallituksen politiikka on hyödyttänyt suurituloisia. Veronkevennyksistä ovat hyötyneet vain ne, jotka tienaavat yli 9 000 euroa kuukaudessa. Todella kovatuloiset ihmiset.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Nimeää suoraan hallituksen politiikan hyödyttävän vain yli 9 000 €/kk tienaavat, hylkää eufemismit ja asettaa vastustajan selkeästi näkyville",
+    "hook": "Vain 9000 €/kk tienaavat saivat veronkevennykset",
+    "hashtags": [
+      "#verot",
+      "#tuloero",
+      "#hallitus",
+      "#pienituloiset",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "f6637720670a",
+  "answer_start": 7.36
+}

@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Suomen talous, kuvaajina",
+    "who": "Tilastokeskus",
+    "source": "statfi",
+    "date": "2026-08-28",
+    "session": null,
+    "participants": null,
+    "host": null,
+    "figures": [
+      {
+        "figure_id": "cm2uax3bm9xnf08unuqfk6018",
+        "saved_query_id": "64efea17-b34e-4388-8ed9-a63264de8efe",
+        "statistic": "Neljännesvuositilinpito",
+        "slug": "ntp",
+        "title": "Bruttokansantuotteen volyymisarjat (viitevuosi 2015) 2015Q1-2026Q2",
+        "table": "132h.px",
+        "published": "2026-08-28",
+        "latest_period": "2/2026",
+        "stat_line": "Bruttokansantuotteen volyymisarjat, Kausitasoitettu ja työpäiväkorjattu sarja 58 697 milj. € — ▲ 902 milj. € vuodessa",
+        "score": 3
+      }
+    ]
+  },
+  "quote": "Bruttokansantuotteen volyymisarjat, Kausitasoitettu ja työpäiväkorjattu sarja 58 697 milj. € — ▲ 902 milj. € vuodessa",
+  "based": {
+    "genre": "statfi",
+    "direction": "unknown",
+    "score": 3,
+    "label": "FLOP",
+    "reason": "tavanomainen lukema, ei ennätystä eikä poikkeuksellista muutosta",
+    "hook": "Hyviä uutisia. Nauti niistä nopeasti.",
+    "hashtags": [
+      "#talous",
+      "#suomi",
+      "#tilastokeskus",
+      "#bkt",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Juokseeko palkka, jos drooniuhka estää työmatkan?",
+    "who": "Olli Ruohomäki, Jussi Pakkasvirta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Olli Ruohomäki",
+        "role": "Ulkopoliittisen instituutin vieraileva johtava asiantuntija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Jussi Pakkasvirta",
+        "role": "professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655515",
+    "areena": "https://areena.yle.fi/1-76655515 (36s–54s)"
+  },
+  "quote": "Eilen tässä studiossa istui pääministeri, joka linjasi drooniuhasta ja palkanmaksusta näin. Pitää löytää ratkaisu, jossa kenenkään ei tarvitse lähteä toimeentulonsa turvaamiseksi töihin vaaratilanteessa.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Välttämättömän turvan ja työn välillä tehdään moraalinen kontrasti ilman konkreettista poliittista kohdetta.",
+    "hook": "Turvallisuus vai toimeentulo?",
+    "hashtags": [
+      "#toimeentulo",
+      "#turvallisuus",
+      "#palkansaaja",
+      "#kriisihallinta",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "d7d1af0a9e4f",
+  "answer_start": 3.68
+}
