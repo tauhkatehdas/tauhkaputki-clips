@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Orpo ja Lindtman kohtaavat budjetista",
+    "who": "Antti Lindtmanin",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Antti Lindtmanin",
+        "role": "pääministeri Petteri Orpo (kok.) kohtaa SDP:n puheenjohtajan",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655570",
+    "areena": "https://areena.yle.fi/1-76655570 (913s–934s)"
+  },
+  "quote": "Samaan aikaan, kun esimerkiksi puhevammaisilta uhkaa loppua apu kommunikointiin, laitetaan lähes miljardi euroa yhteisöveron kevennykseen. Nämä arvovalinnat ovat vieraita hyvinvointiyhteiskunnalle. Miltä tämä kuulostaa?",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Vastakkainasettelu konkreettisilla luvuilla (miljardi euroa vs. puhevammaisten apu) paljastaa arvovalinnat suoraan ilman eufemismeja.",
+    "hook": "Miljardi verokahville, nolla puheapuihin?",
+    "hashtags": [
+      "#verot",
+      "#hyvinvointi",
+      "#arvovalinnat",
+      "#yhteiskuntapolitiikka",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "d52f5f8b9e26",
+  "answer_start": 2.32
+}

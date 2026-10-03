@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": null,
+    "who": "Susanne Päivärinta",
+    "source": "floor",
+    "date": "2026-09-03",
+    "session": "PTK 75/2026",
+    "participants": null,
+    "host": null
+  },
+  "quote": "SDP on vastustanut kaikkia hallituksen tekemiä leikkauksia, ja nyt sitten pitäisikin yhtäkkiä leikata.",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Päivärinta syyttää SDP:tä vastustamasta leikkauksia ja samalla vaatimasta leikkausta, mikä on itsestäänselvä ristiriita.",
+    "hook": "SDP vastusti leikkauksia — nyt vaatii niitä?",
+    "hashtags": [
+      "#politiikka",
+      "#talouspolitiikka",
+      "#SDP",
+      "#hallitus",
+      "#ristiriita",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "curb",
+  "rubric_version": "c76aeb36f69f"
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "VM: Uusi budjetti heikentää julkista taloutta ensi vuonna – näin kommentoivat tutkijat",
+    "who": "Petteri Orpo",
+    "source": "yle_rss",
+    "date": "2026-09-02",
+    "session": null,
+    "party": "Kok.",
+    "program_id": "yle_rss_https://yle.fi/a/74-20244145",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20244145?origin=rss"
+    ]
+  },
+  "quote": "• VM: Uusi budjetti heikentää julkista taloutta ensi vuonna – näin kommentoivat tutkijat",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Tutkijat arvioivat, että uusi budjetti heikentää julkista taloutta, mikä on suora kritiikki Orpon hallitukselle.",
+    "hook": "Tutkijat: Talous heikkenee",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#orpo",
+      "#petteriorpo",
+      "#kok",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_orpo_20260903_095822.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-09-03T09:59:01.302173+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Sauli Niinistö ja Euroopan turvallisuus",
+    "who": "Antti Kurvinen, Arto Satonen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Antti Kurvinen",
+        "role": "kohtasivat opposition",
+        "party": "kesk",
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Arto Satonen",
+        "role": "hallituksen edellinen työministeri",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655496",
+    "areena": "https://areena.yle.fi/1-76655496 (1874s–1894s)"
+  },
+  "quote": "Miltä tämä kuulostaa? -Kotitalousvähennys on lähtökohtaisesti hyvä asia, ja kokoomus on sitä kannattanut. Tämänkin osalta on mietittävä, paljonko se maksaa veronmaksajien rahaa ja mikä on sen työllisyysvaikutus.",
+  "based": {
+    "genre": "ramble",
+    "direction": "right",
+    "score": 4,
+    "label": "MEH",
+    "reason": "Keskustelija ei vastaa suoraan kysymykseen vaan toistaa valmiita puheenvuoropisteitä kotitalousvähennyksestä ilman konkreettisia lukuja tai linjauksia",
+    "hook": "Vastaako vai toistaako puheenvuoropisteitä?",
+    "hashtags": [
+      "#kotitalousvähennys",
+      "#verot",
+      "#työllisyys",
+      "#kokoomus",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "822b7b940e75",
+  "answer_start": 3.44
+}

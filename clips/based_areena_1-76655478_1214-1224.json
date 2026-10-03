@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Orpon hallituksen viimeinen kehysriihi",
+    "who": "Maria Nykänen, Helsingin Sanomista, Juha Ristamäki",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Maria Nykänen",
+        "role": "politiikan toimittajat",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Helsingin Sanomista",
+        "role": "Teemu Muhonen",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juha Ristamäki",
+        "role": "politiikan toimituksen päällikkö",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655478",
+    "areena": "https://areena.yle.fi/1-76655478 (1214s–1224s)"
+  },
+  "quote": "- Tuo kysymys on toki oleellinen. Tuovatko puolueet ennen vaaleja leikkaus- ja veronkiristyslistoja?",
+  "based": {
+    "genre": "cliffhanger",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Kysymys on avoin ja jättää vastauksen avoimeksi ilman oman näkökulman esittämistä.",
+    "hook": "Mitä puolueet piilottavat vaalien edessä?",
+    "hashtags": [
+      "#vaalit",
+      "#verot",
+      "#leikkaukset",
+      "#politiikka",
+      "#HS",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "tbc",
+  "rubric_version": "71e6a5909238",
+  "answer_start": 2.76
+}

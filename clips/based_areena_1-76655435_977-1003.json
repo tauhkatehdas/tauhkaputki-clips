@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Liittovaltion agenttien tekemät surmat kuohuttavat Yhdysvalloissa",
+    "who": "Johannes Koskinen, Jarmo Lindberg, Noora Kotilainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Johannes Koskinen",
+        "role": "ulkoasiainvaliokunnan puheenjohtaja",
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Jarmo Lindberg",
+        "role": "ulkoasiainvaliokunnan jäsen",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Noora Kotilainen",
+        "role": "yliopistotutkija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655435",
+    "areena": "https://areena.yle.fi/1-76655435 (977s–1003s)"
+  },
+  "quote": "Ihmiset, jotka pelkäävät maahanmuuttoviranomaisia, etnisen taustansa takia vaikka ovatkin kansalaisia, eivät uskaltaisi lähteä kotoaan. Marraskuuhun mennessä ehtii vielä tapahtua paljon. Kiitos, Maria Lindén. Nyt Suomen ulko- ja turvallisuuspolitiikan linjoihin.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vieras puhuja esittää konkreettisen ihmisoikeusongelman ilman eufemismeja, mutta puhujan suunta on tuntematon ja retoriikka on melko vakiintunut",
+    "hook": "Kansalaiset pelkäävät viranomaisia",
+    "hashtags": [
+      "#maahanmuutto",
+      "#ihmisoikeudet",
+      "#kotoutuminen",
+      "#turvallisuuspolitiikka",
+      "#suomi",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "4ba5e586da42",
+  "answer_start": 4.12
+}

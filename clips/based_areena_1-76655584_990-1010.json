@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "A-studio: Pitäisikö velkajarrusta joustaa talouskasvun turvaamiseksi?",
+    "who": "Economic Security, Aki Kangasharju, Sixten Korkman, Vesa Vihriälä",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Economic Security",
+        "role": "ekonomisti Elina Pylkkänen",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Aki Kangasharju",
+        "role": "Elinkeinoelämän tutkimuslaitoksen toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Sixten Korkman",
+        "role": "taloustieteilijät",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Vesa Vihriälä",
+        "role": null,
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655584",
+    "areena": "https://areena.yle.fi/1-76655584 (990s–1010s)"
+  },
+  "quote": "Sinä taidat kannattaa tätä alea, Aki Kangasharju. -Kyllä. Sixtenin mainitsemia vuotoja tässä ilman muuta on, mutta jos tehtäisiin sama kannustin kohdennetuilla poisto-oikeuksilla, tulisi aikamoiset byrokratiat ja verottajan tulkinnat eteen.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on lyhyt ja suora, ei sisällä kiertoja tai väistelyä",
+    "hook": "Kangasharju vastaa suoraan",
+    "hashtags": [
+      "#verotus",
+      "#kannustimet",
+      "#byrokratia",
+      "#talouspolitiikka",
+      "#ETLA",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "fd6a5b807d36",
+  "answer_start": 4.56
+}

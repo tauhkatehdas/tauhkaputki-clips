@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "A-studio: Sauli Niinistö ja Euroopan turvallisuus",
+    "who": "Antti Kurvinen, Arto Satonen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Antti Kurvinen",
+        "role": "kohtasivat opposition",
+        "party": "kesk",
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Arto Satonen",
+        "role": "hallituksen edellinen työministeri",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655496",
+    "areena": "https://areena.yle.fi/1-76655496 (1850s–1874s)"
+  },
+  "quote": "Nyt pois kaljaverosta. -Sanon vain, että rahaa voisi käyttää paremmin. Ei lähdetä tälle linjalle. 20 miljoonalla olisi voinut vaikka työllistää nuoria. -Varmasti. Täällä on toinen säästötoimen peruuttaminen. Keskusta ehdottaa kotitalousvähennyksen ehtojen palauttamista ennalleen.",
+  "based": {
+    "genre": "ramble",
+    "direction": "right",
+    "score": 4,
+    "label": "MEH",
+    "reason": "Kurvinen ei vastaa kysymykseen kaljaverosta vaan palaa valmiiksi harhaan kotitalousvähennykseen.",
+    "hook": "Miksi kaljaverosta ei vastaa?",
+    "hashtags": [
+      "#kaljavero",
+      "#budjetti",
+      "#nuorisotyöllisyys",
+      "#kotitalousvähennys",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "822b7b940e75",
+  "answer_start": 8.16,
+  "turns": [
+    8.16
+  ]
+}

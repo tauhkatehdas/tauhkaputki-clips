@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä pääministeri Starmerin erosta seuraa Britannialle ja Euroopalle?",
+    "who": "Juha Jokela, Ylen Ulkolinja-ohjelman, Minna Pye",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Juha Jokela",
+        "role": "sen seurauksia analysoivat ohjelmajohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Ylen Ulkolinja-ohjelman",
+        "role": null,
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Minna Pye",
+        "role": "ohjaaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655454",
+    "areena": "https://areena.yle.fi/1-76655454 (1630s–1637s)"
+  },
+  "quote": "Olisiko syytä jouhevoittaa työperäistä maahanmuuttoa esim. pisteytyksen avulla?",
+  "based": {
+    "genre": "cliffhanger",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Kysymys on avoin ja loppuu ilman vastausta, mutta se on haastattelijan kysymys, ei oikeanpuolisen poliitikkan rambling tai cliffhanger",
+    "hook": "Haastattelijan avoin kysymys",
+    "hashtags": [
+      "#maahanmuutto",
+      "#työperäinen",
+      "#pisteytys",
+      "#politiikka",
+      "#kysymys",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "tbc",
+  "rubric_version": "647886eba865",
+  "answer_start": 4.6
+}

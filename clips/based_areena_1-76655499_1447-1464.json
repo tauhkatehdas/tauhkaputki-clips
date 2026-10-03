@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Epstein-paljastukset horjuttavat valtapiirejä",
+    "who": "Benita Heiskanen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Benita Heiskanen",
+        "role": "Pohjois-Amerikan tutkimuksen professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655499",
+    "areena": "https://areena.yle.fi/1-76655499 (1447s–1464s)"
+  },
+  "quote": "Miksi ei? -Jos kannattavuus paranee tekemällä poliittisia investointeja eli saamalla esim. verohuojennuksia ja veronalennuksia. On mennyt pari miljardia puhtaan siirtymän investointikannustimeen.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on lyhyt ja suora, ei kiertä kysymystä eikä välttä vastustaa",
+    "hook": "Miksi ei? Vastaus on vain syyt",
+    "hashtags": [
+      "#verotus",
+      "#investointit",
+      "#poliittisetpäätökset",
+      "#talouspolitiikka",
+      "#kannattavuus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "1636c698cd93",
+  "answer_start": 6.2
+}
