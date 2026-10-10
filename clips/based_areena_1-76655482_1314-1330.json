@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä vaikealle työttömyystilanteelle voi tehdä?",
+    "who": "Olli Ruohomäki",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Olli Ruohomäki",
+        "role": "Ulkopoliittisen instituutin vieraileva johtava asiantuntija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655482",
+    "areena": "https://areena.yle.fi/1-76655482 (1314s–1330s)"
+  },
+  "quote": "Niin tuskin tapahtuu. Puhuttiin ulkomaisesta työvoimasta. Me tarvitaan paljon ihmisiä tänne töihin ulkomailta, kun talous lähtee kasvuun. Perussuomalaiset tekee sitä, että nyt syytetään maahanmuuttajia.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on suora ja on-topic, ei näkyvää kiertoa tai väistelyä",
+    "hook": "Suora vastaus, ei väistelyä",
+    "hashtags": [
+      "#maahanmuutto",
+      "#tyovoima",
+      "#talous",
+      "#perussuomalaiset",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "ee7f48a0524b",
+  "answer_start": 2.08
+}

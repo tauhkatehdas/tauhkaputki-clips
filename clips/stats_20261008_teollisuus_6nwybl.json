@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Suomen talous, kuvaajina",
+    "who": "Tilastokeskus",
+    "source": "statfi",
+    "date": "2026-10-08",
+    "session": null,
+    "participants": null,
+    "host": null,
+    "figures": [
+      {
+        "figure_id": "cltpizrrig3an07w5ol6nwybl",
+        "saved_query_id": "7f028f09-c326-49a8-9d1b-eef092f023c6",
+        "statistic": "Teollisuustuotannon volyymi-indeksi",
+        "slug": "ttvi",
+        "title": "Teollisuustuotannon (TOL 2008: BCD) kausitasoitettu kuukausimuutos 2025M08-2026M08",
+        "table": "14mh.px",
+        "published": "2026-10-08",
+        "latest_period": "elokuu 2026",
+        "stat_line": "Teollisuustuotannon (TOL 2008: BCD) kausitasoitettu kuukausimuutos -1,25 % — ▼ 3,46 % vuodessa",
+        "score": 5
+      }
+    ]
+  },
+  "quote": "Teollisuustuotannon (TOL 2008: BCD) kausitasoitettu kuukausimuutos -1,25 % — ▼ 3,46 % vuodessa",
+  "based": {
+    "genre": "statfi",
+    "direction": "unknown",
+    "score": 5,
+    "label": "MEH",
+    "reason": "vuosimuutos suurin kymmenykseen mahtuvista (-3,46 % vuodessa)",
+    "hook": "Teollisuus supistuu, kilpailukyky paranee.",
+    "hashtags": [
+      "#talous",
+      "#suomi",
+      "#tilastokeskus",
+      "#teollisuus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false
+}

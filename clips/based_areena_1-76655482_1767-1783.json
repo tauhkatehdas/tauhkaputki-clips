@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä vaikealle työttömyystilanteelle voi tehdä?",
+    "who": "Olli Ruohomäki",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Olli Ruohomäki",
+        "role": "Ulkopoliittisen instituutin vieraileva johtava asiantuntija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655482",
+    "areena": "https://areena.yle.fi/1-76655482 (1767s–1783s)"
+  },
+  "quote": "Siinä työ ja toimeliaisuus kannattaa, mutta päästöt joutuisivat verolle. Päästäisiin leikkaamaan miljardien edestä haitallisia suuryhtiöiden yritystukia. Myös näitä rakenneuudistuksia pitäisi uskaltaa tehdä.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Välttämätön rakenneuudistus esitetään yleisesti ilman konkreettisia kohteita tai vastustajia",
+    "hook": "Miksi ei uskalleta leikata yritystukea?",
+    "hashtags": [
+      "#talouspolitiikka",
+      "#yritystuki",
+      "#rakenneuudistus",
+      "#päästöverotus",
+      "#valtiovarainhallinto",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "ee7f48a0524b",
+  "answer_start": 5.44
+}

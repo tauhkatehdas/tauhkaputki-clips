@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Kesäkokoukset käynnissä – Purran arvio SDP:n puolustusverosta: ”pähkähullu”, vihreät vaatii kokoomusta paljastamaan leikkauslistansa",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-08-25",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20242732",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20242732?origin=rss"
+    ]
+  },
+  "quote": "• Kesäkokoukset käynnissä – Purran arvio SDP:n puolustusverosta: ”pähkähullu”, vihreät vaatii kokoomusta paljastamaan leikkauslistansa",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Purra käyttää loukkaavaa kieltä (\"pähkähullu\") vastapuolueen politiikasta, mikä nostaa esiin kiivaiden poliittisten ristiriitojen ja epäsuopeuden.",
+    "hook": "Purra loukkaa SDP:tä: \"pähkähullu\"",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20260909_095448.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-09-09T09:55:34.227703+00:00"
+}

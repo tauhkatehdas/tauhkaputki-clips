@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Sote-säästöjen seuraukset",
+    "who": "Wille Rydman, Sofia Virta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Wille Rydman",
+        "role": "terveysministeri",
+        "party": "ps",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Sofia Virta",
+        "role": "puheenjohtaja",
+        "party": "vihr",
+        "org": null,
+        "direction": "left"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655441",
+    "areena": "https://areena.yle.fi/1-76655441 (512s–521s)"
+  },
+  "quote": "Aina kun kasvutoimia tehdään, kysytään, miksi rahaa käytetään veronalennuksiin eikä palveluihin.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Vasemmistopuheenjohtaja asettaa suoran vastakkain kasvutoimet ja veronalennot, nimensä palveluiden sijaan, ja kieltäytyy euphemismien hyväksymisestä.",
+    "hook": "Miksi kasvun hinta on aina veronalennot?",
+    "hashtags": [
+      "#politiikka",
+      "#talouspolitiikka",
+      "#veronalennot",
+      "#palvelut",
+      "#vihreät",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "553cb265d34a",
+  "answer_start": 2.48
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Miten leikata sosiaalimenoista oikeudenmukaisesti?",
+    "who": "Heikki Hiilamo, Juhana Vartiainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Heikki Hiilamo",
+        "role": "sosiaalipolitiikan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juhana Vartiainen",
+        "role": "entinen Helsingin pormestari",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655473",
+    "areena": "https://areena.yle.fi/1-76655473 (1041s–1049s)"
+  },
+  "quote": "Olemme viheliäisessä loukussa, jossa ei ole tarpeeksi velvoittavuutta ja siksi sosiaaliturvan taso on heikko.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vahva metafora 'viheliäinen lousi' ja suora syytös velvoittavuuden puutteesta, mutta puhuja tuntematon ja argumentti yleisluontoinen",
+    "hook": "Viheläinen lousi syyllistää heikkoa turvaa",
+    "hashtags": [
+      "#sosiaaliturva",
+      "#velvoittavuus",
+      "#politiikka",
+      "#hyvinvointivaltio",
+      "#talous",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "48ef6b559cd5",
+  "answer_start": 2.72
+}

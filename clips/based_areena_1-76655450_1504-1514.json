@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Miten käy, jos vuorten jäätiköt katoavat?",
+    "who": "Joona Räsänen, Ville Valkonen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Joona Räsänen",
+        "role": "kansanedustajat",
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Ville Valkonen",
+        "role": null,
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655450",
+    "areena": "https://areena.yle.fi/1-76655450 (1504s–1514s)"
+  },
+  "quote": "Maassa, jossa verokarhu on raatelevimpia koko maailmassa, täytyy uskaltaa puuttua menoihin.",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Ville Valkonen (kok) vaatii menojen leikkausta samalla kun korostaa verotason korkeutta, mikä on klassinen oikeiston ristiriita: haluaa matalat verot ja tasapainoisen budjetin ilman lisäveroja.",
+    "hook": "Verot korkeimmillaan, mutta menot leikataan?",
+    "hashtags": [
+      "#talouspolitiikka",
+      "#verot",
+      "#budjetti",
+      "#kokoomus",
+      "#ristiriita",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "curb",
+  "rubric_version": "c36c1a3bb43d",
+  "answer_start": 7.92
+}

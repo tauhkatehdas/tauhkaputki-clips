@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Oppositio kritisoi hallituksen tuoretta budjettia eduskunnan syyskauden ensimmäisellä kyselytunnilla",
+    "who": "Petteri Orpo",
+    "source": "yle_rss",
+    "date": "2026-09-03",
+    "session": null,
+    "party": "Kok.",
+    "program_id": "yle_rss_https://yle.fi/a/74-20244430",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20244430?origin=rss"
+    ]
+  },
+  "quote": "• Oppositio kritisoi hallituksen tuoretta budjettia eduskunnan syyskauden ensimmäisellä kyselytunnilla",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Oppositio kritisoi pääministerin Orpon hallituksen budjettia ja leikkauksia kyselytunnilla.",
+    "hook": "Oppositio hyökkää Orpon budjettiin",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#orpo",
+      "#petteriorpo",
+      "#kok",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_orpo_20260904_094608.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-09-04T09:46:57.774403+00:00"
+}

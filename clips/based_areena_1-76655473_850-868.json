@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Miten leikata sosiaalimenoista oikeudenmukaisesti?",
+    "who": "Heikki Hiilamo, Juhana Vartiainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Heikki Hiilamo",
+        "role": "sosiaalipolitiikan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juhana Vartiainen",
+        "role": "entinen Helsingin pormestari",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655473",
+    "areena": "https://areena.yle.fi/1-76655473 (850s–868s)"
+  },
+  "quote": "Se, että sosiaaliturvasta säästetään... Mielestäni perustelut löytyvät siitä, että koetetaan vaikuttaa ihmisten käyttäytymiseen ja koetetaan lisätä aktiivisuutta työmarkkinoilla.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vastaus on suoraviivainen ja aiheeseen liittyvä, ei näkyvää kiertoa tai vältelyä.",
+    "hook": "Miksi säästetään sosiaaliturvasta?",
+    "hashtags": [
+      "#sosiaaliturva",
+      "#työmarkkinat",
+      "#politiikka",
+      "#talous",
+      "#hyvinvointi",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "48ef6b559cd5",
+  "answer_start": 4.72
+}

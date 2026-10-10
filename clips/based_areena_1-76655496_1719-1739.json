@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Sauli Niinistö ja Euroopan turvallisuus",
+    "who": "Antti Kurvinen, Arto Satonen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Antti Kurvinen",
+        "role": "kohtasivat opposition",
+        "party": "kesk",
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Arto Satonen",
+        "role": "hallituksen edellinen työministeri",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655496",
+    "areena": "https://areena.yle.fi/1-76655496 (1719s–1739s)"
+  },
+  "quote": "Mitä veroa pitää laskea ja kuinka paljon? Tämä on tämä yhteisövero- keskustelu. Me katsotaan niin, että jos jättää osakeyhtiön taseeseen enemmän varoja eikä jaa niin paljon osinkoja, sitä osaa, joka jätetään taseeseen, verotettaisiin kevyemmin.",
+  "based": {
+    "genre": "ramble",
+    "direction": "right",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on suora ja sisällöllinen, ei kiertä kysymystä eikä pivota pois",
+    "hook": "Suora vastaus verokysymykseen",
+    "hashtags": [
+      "#verot",
+      "#yhteisovero",
+      "#talouspolitiikka",
+      "#kokoomus",
+      "#hallitus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "822b7b940e75",
+  "answer_start": 3.12
+}

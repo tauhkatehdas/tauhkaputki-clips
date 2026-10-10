@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Onko säännöillä enää väliä maailmanpolitiikassa?",
+    "who": "Martti Koskenniemi, Juhana Aunesluoma",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Martti Koskenniemi",
+        "role": "kansainvälisen oikeuden emeritusprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juhana Aunesluoma",
+        "role": "Helsingin yliopiston poliittisen historian professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655487",
+    "areena": "https://areena.yle.fi/1-76655487 (1344s–1355s)"
+  },
+  "quote": "Siirrytään kahteen suomalaisen yhteiskunnan peruspilariin, nimittäin Kelaan ja verottajaan.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 0,
+    "label": "FLOP",
+    "reason": "Ei haastattelukysymystä eikä kiertävää vastausta, pelkkä aiheenvaihto",
+    "hook": "Miksi tämä on ramble?",
+    "hashtags": [
+      "#kela",
+      "#verottaja",
+      "#yhteiskunta",
+      "#politiikka",
+      "#suomi",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "c7da011a88d6",
+  "answer_start": 7.08
+}

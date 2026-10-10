@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Epstein-paljastukset horjuttavat valtapiirejä",
+    "who": "Benita Heiskanen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Benita Heiskanen",
+        "role": "Pohjois-Amerikan tutkimuksen professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655499",
+    "areena": "https://areena.yle.fi/1-76655499 (1865s–1874s)"
+  },
+  "quote": "Siellä mainittiin Viron malli, josta voi ottaa esimerkiksi sen, että verotetaan vähemmän.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Viron malli mainitaan positiivisesti veron pienentämisen esimerkkinä, mutta ilman konkreettista kohdetta tai retoorista terävyyttä.",
+    "hook": "Viron malli veron pienentämisen mallina?",
+    "hashtags": [
+      "#verot",
+      "#talouspolitiikka",
+      "#Viro",
+      "#Suomi",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "1636c698cd93",
+  "answer_start": 3.16
+}

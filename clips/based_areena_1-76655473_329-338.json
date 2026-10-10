@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Miten leikata sosiaalimenoista oikeudenmukaisesti?",
+    "who": "Heikki Hiilamo, Juhana Vartiainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Heikki Hiilamo",
+        "role": "sosiaalipolitiikan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juhana Vartiainen",
+        "role": "entinen Helsingin pormestari",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655473",
+    "areena": "https://areena.yle.fi/1-76655473 (329s–338s)"
+  },
+  "quote": "Tämä on liian yksinkertaistava. Monet saavat toimeentulotukea korkeiden asumiskustannusten takia.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on lyhyt ja suora, ei sisällä kiertoja tai vastustamista",
+    "hook": "Yksinkertainen vastaus, ei rämpsyä",
+    "hashtags": [
+      "#toimeentulotuki",
+      "#asumiskustannukset",
+      "#sosiaalipolitiikka",
+      "#yksinkertaistaminen",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "48ef6b559cd5",
+  "answer_start": 2.72
+}

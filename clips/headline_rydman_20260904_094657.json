@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Ministeri Rydman joutui kirjoittamaan omia sote-järjestökriteerejään uusiksi: maininta ”identiteettiryhmästä” lähti",
+    "who": "Wille Rydman",
+    "source": "yle_rss",
+    "date": "2026-08-31",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20243771",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20243771?origin=rss"
+    ]
+  },
+  "quote": "• Ministeri Rydman joutui kirjoittamaan omia sote-järjestökriteerejään uusiksi: maininta ”identiteettiryhmästä” lähti",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Ministeri Rydman on pakotettu kirjoittamaan kriteerit uusiksi ja poistamaan viittaukset identiteettiryhmiin, mikä viittaa poliittiseen paineeseen.",
+    "hook": "Rydman pakotettu muuttamaan kriteerejä",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#rydman",
+      "#willerydman",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_rydman_20260904_094657.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-09-04T09:47:44.900778+00:00"
+}

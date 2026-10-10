@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Viekö Iranin sota Suomen taantumaan?",
+    "who": "Minna Kuusisto, Olli-Pekka Ruuskanen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Minna Kuusisto",
+        "role": "Danske Bankin pääekonomisti",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Olli-Pekka Ruuskanen",
+        "role": "Pellervon taloustutkimuksen tutkimusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655468",
+    "areena": "https://areena.yle.fi/1-76655468 (1695s–1720s)"
+  },
+  "quote": "Katsotaan sitten koulutusta, kirjanpitolainsäädäntöä, T&K-rahoitusta tai verotusta, kaikki on laitettu sen kannalle, että tuetaan firmoja, jotka tekee jotain kovaa ja painavaa. Jotain, minkä voi lähettää kauas, eikä digitaalista ja palvelua.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 5,
+    "label": "MEH",
+    "reason": "Puheenjohtaja nimeää konkreettiset poliittiset alueet (koulutus, kirjanpito, T&K, verotus) ja väittää ne systemaattisesti suuntautuneen fyysisiin tuotteisiin, mikä on selkeä, epävirallinen instituutiokriitikki.",
+    "hook": "Koko järjestelmä on vääristynyt tehtaiden suuntaan",
+    "hashtags": [
+      "#talouspolitiikka",
+      "#teollisuus",
+      "#verotus",
+      "#TutK",
+      "#koulutus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "1f5d382a7df8",
+  "answer_start": 5.52
+}

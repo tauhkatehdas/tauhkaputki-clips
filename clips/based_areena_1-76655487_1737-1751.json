@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Onko säännöillä enää väliä maailmanpolitiikassa?",
+    "who": "Martti Koskenniemi, Juhana Aunesluoma",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Martti Koskenniemi",
+        "role": "kansainvälisen oikeuden emeritusprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juhana Aunesluoma",
+        "role": "Helsingin yliopiston poliittisen historian professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655487",
+    "areena": "https://areena.yle.fi/1-76655487 (1737s–1751s)"
+  },
+  "quote": "Tällä hetkellä, ainakin jos verotietoja katsotaan, ei ole sellaisia alustoja, joihin ne voitaisiin siirtää. Se vaatisi valtavan uudistustyön.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei haastattelijan kysymystä eikä käännyt pois asiasta; pelkkä asiantunteva arvio toteutusvaikeudesta.",
+    "hook": "Miksi verouudistus on mahdotonta?",
+    "hashtags": [
+      "#verotus",
+      "#uudistus",
+      "#talouspolitiikka",
+      "#kansainvälisoikeus",
+      "#asiantuntija",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "c7da011a88d6",
+  "answer_start": 4.72
+}

@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Miten leikata sosiaalimenoista oikeudenmukaisesti?",
+    "who": "Heikki Hiilamo, Juhana Vartiainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Heikki Hiilamo",
+        "role": "sosiaalipolitiikan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juhana Vartiainen",
+        "role": "entinen Helsingin pormestari",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655473",
+    "areena": "https://areena.yle.fi/1-76655473 (476s–483s)"
+  },
+  "quote": "Suomen järjestelmässä ihmiset ovat juuttuneet sosiaaliturvalle enemmän kuin muualla.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelijan kysymystä eikä vastauksen kiertoa, vaan pelkkä havainto.",
+    "hook": "Miksi suomalaisten turva on erilainen?",
+    "hashtags": [
+      "#sosiaaliturva",
+      "#suomi",
+      "#hyvinvointivaltio",
+      "#talous",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "48ef6b559cd5",
+  "answer_start": 5.64
+}

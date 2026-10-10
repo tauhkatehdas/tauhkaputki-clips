@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "A-studio: A-Talk: Laitaoikeiston suosio Euroopassa",
+    "who": "Jussi Saramo, Laura Huhtasaari, Juho Mäki-Lohiluoma, Sanna Salo",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Jussi Saramo",
+        "role": "europarlamentaarikko",
+        "party": "vas",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Laura Huhtasaari",
+        "role": "kansanedustaja",
+        "party": "ps",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Juho Mäki-Lohiluoma",
+        "role": "johtaja",
+        "party": null,
+        "org": "ek",
+        "direction": "right"
+      },
+      {
+        "name": "Sanna Salo",
+        "role": "vanhempi tutkija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Nina Rahkola",
+    "program_id": "1-76655583",
+    "areena": "https://areena.yle.fi/1-76655583 (1661s–1677s)"
+  },
+  "quote": "Suomen kokoomus vielä häpeää maahanmuuttokiristyksiä, mutta nekin on tulossa. 2015 oli vielä persuntorjuntaa. Meidän mielipiteet oli heistä äärioikealla. Nyt heidän mielestään mekin voimme olla hallituksessa.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 8,
+    "label": "LEAN",
+    "reason": "Saramo nimeää Kokoomuksen kääntymyksen suoraan ja ilman eufemismejä: 'häpeää' ja 'persuntorjunta' paljastavat aiemman asenteen ja nykyisen opportunismin.",
+    "hook": "Kokoomus kääntyi persuntorjunnasta hallituspartneriksi",
+    "hashtags": [
+      "#maahanmuutto",
+      "#kokoomus",
+      "#vasemmistoliitto",
+      "#politiikka",
+      "#eu",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "51f03607e265",
+  "answer_start": 4.48
+}

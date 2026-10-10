@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "A-studio: Pitäisikö velkajarrusta joustaa talouskasvun turvaamiseksi?",
+    "who": "Economic Security, Aki Kangasharju, Sixten Korkman, Vesa Vihriälä",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Economic Security",
+        "role": "ekonomisti Elina Pylkkänen",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Aki Kangasharju",
+        "role": "Elinkeinoelämän tutkimuslaitoksen toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Sixten Korkman",
+        "role": "taloustieteilijät",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Vesa Vihriälä",
+        "role": null,
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655584",
+    "areena": "https://areena.yle.fi/1-76655584 (939s–958s)"
+  },
+  "quote": "Yhteisöverokantamme on jo ollut ihan kilpailukykyinen. Minua huolestuttaa etenkin se, että meidän rakenneongelma on se, että pitäisi syntyä uutta, innovatiivista yritystoimintaa, jota täytyisi auttaa skaalautumaan.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelijan kysymystä eikä näkyvää kiertoa tai väistelyä; se on suora, itsenäinen kannanotto yritysympäristöstä.",
+    "hook": "Ei vastaus, vaan oma aloite",
+    "hashtags": [
+      "#vero",
+      "#yritykset",
+      "#kansantalous",
+      "#politiikka",
+      "#talous",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "fd6a5b807d36",
+  "answer_start": 5.0
+}

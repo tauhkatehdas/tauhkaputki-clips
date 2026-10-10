@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "title": "A-studio: Suomi ja Ranskan ydinasepelote",
+    "who": "Janne Kuusela, Iro Särkkä",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Janne Kuusela",
+        "role": "puolustusministeriön kansliapäällikkö",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Iro Särkkä",
+        "role": "vanhempi tutkija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655436",
+    "areena": "https://areena.yle.fi/1-76655436 (2011s–2035s)"
+  },
+  "quote": "Nyt kun puhutaan politiikan ristiriitaulottuvuuksista, on arvoliberaalit ja -konservatiivit. Eli ruotsidemokraatit sekä toisaalta vasemmisto- ja ympäristöpuolue, joiden linjat eroavat maahanmuutto- ja rangaistuskysymyksissä. Sitten on vasemmisto ja oikeisto.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei haastattelijan kysymyksestä eikä poliitikkojen kiertoa, vaan yleinen luokittelu",
+    "hook": "Miksi tämä on ramble-kategoriaa?",
+    "hashtags": [
+      "#politiikka",
+      "#analyysi",
+      "#puheenvuoro",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "bbfae608d783",
+  "answer_start": 5.12,
+  "turns": [
+    5.12
+  ]
+}

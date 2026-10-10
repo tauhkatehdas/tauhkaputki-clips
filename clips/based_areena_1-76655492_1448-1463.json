@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Trumpin vuosi vallassa",
+    "who": "Martti Koskenniemi, John Morton, Mikko Saikku",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Martti Koskenniemi",
+        "role": "kansainvälisen oikeuden emeritusprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "John Morton",
+        "role": "Pohjois-Amerikan tutkimuksen professori Benita Heiskanen Turun yliopiston",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Mikko Saikku",
+        "role": "Yhdysvaltain tutkimuksen professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655492",
+    "areena": "https://areena.yle.fi/1-76655492 (1448s–1463s)"
+  },
+  "quote": "Näissä demokraattivoittoisissa osavaltioissa on ollut erityisen kovat otteet. On myös käytetty kansalliskaartia. Maahanmuuttohan oli Trumpin kampanjan keskeisiä kysymyksiä.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelijan kysymystä eikä vastustajaa, joten karkotus ei näky",
+    "hook": "Ei kysymystä, ei karkotusta",
+    "hashtags": [
+      "#maahanmuutto",
+      "#Trump",
+      "#demokraatti",
+      "#osavaltiot",
+      "#kansalliskaarti",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "f4871ef696b8",
+  "answer_start": 4.68
+}

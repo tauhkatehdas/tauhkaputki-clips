@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "A-studio: Miten viranomaiset voisivat parantaa drooneista tiedottamista?",
+    "who": "Mari Rantanen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Mari Rantanen",
+        "role": "sisäministeri",
+        "party": "ps",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655422",
+    "areena": "https://areena.yle.fi/1-76655422 (2075s–2088s)"
+  },
+  "quote": "Sitten oli Verohallinnolla tää kommentti tästä, että mikä lopputulos lopulta onkin. Sitten se kotimaisuusaste siinä. Ymmärtää kokonaisuus.",
+  "based": {
+    "genre": "none",
+    "direction": "right",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on lyhyt ja suora, ei näkyvää kiertoa tai täytekkää",
+    "hook": "Miksi tämä on ramble?",
+    "hashtags": [
+      "#politiikka",
+      "#verotus",
+      "#kotimaisuus",
+      "#verohallinto",
+      "#haastattelu",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "637be027d890",
+  "answer_start": 4.56
+}

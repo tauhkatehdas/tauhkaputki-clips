@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "A-studio: Kannattaako polttoaineen hintoja laskea?",
+    "who": "Tero Kallio, Hanna Kalenoja, Heikki Liimatainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Tero Kallio",
+        "role": "toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Hanna Kalenoja",
+        "role": "johtava liikenneasiantuntija",
+        "party": null,
+        "org": "keskuskauppakamari",
+        "direction": "right"
+      },
+      {
+        "name": "Heikki Liimatainen",
+        "role": "liikenneprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655462",
+    "areena": "https://areena.yle.fi/1-76655462 (958s–973s)"
+  },
+  "quote": "- Jakeluvelvoitteeseen ei pitäisi koskea monestakaan syystä, mutta jos halutaan kompromissien kompromissi, mikä ei saisi maksaa tai alentaa valtion verotuloja...",
+  "based": {
+    "genre": "none",
+    "direction": "right",
+    "score": 4,
+    "label": "MEH",
+    "reason": "Lauseessa on monia ehdollisia rakenteita ja vääjäämistä ilman selkeää linjaa.",
+    "hook": "Miksi kompromissin kompromissi?",
+    "hashtags": [
+      "#verotus",
+      "#politiikka",
+      "#talous",
+      "#valtiontalous",
+      "#keskustelu",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "ef443e3c897f",
+  "answer_start": 6.08
+}
