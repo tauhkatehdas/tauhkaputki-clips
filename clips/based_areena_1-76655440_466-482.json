@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Ovatko ilmastotavoitteet mahdottomia?",
+    "who": "Ulla Heinonen, Antti Arasto",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Ulla Heinonen",
+        "role": "Elinkeinoelämän vihreän kasvun johtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Antti Arasto",
+        "role": "Suomen ilmastopaneelin varapuheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655440",
+    "areena": "https://areena.yle.fi/1-76655440 (466s–482s)"
+  },
+  "quote": "Avaa tätä. Eli muissa maissa annetaan lisää tukea? Kyllä, isoja investointitukia, ja Suomessa ei ole rahaa tällaiseen. Verokannustimet puhtaan siirtymän investoinneille ovat tästä hyvä esimerkki.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on suora ja asiasisältöinen, ei kiertoa tai väistelyä",
+    "hook": "Miksi Suomi jää investointeihin ilman tukea?",
+    "hashtags": [
+      "#ilmasto",
+      "#investointituki",
+      "#verokannustimet",
+      "#siirtymä",
+      "#talous",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "2396e6e7d26f",
+  "answer_start": 3.72
+}

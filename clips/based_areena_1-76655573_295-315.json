@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Uhkaavatko säästötoimet talouskasvua?",
+    "who": "Olli-Pekka Ruuskanen, Mika Maliranta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Olli-Pekka Ruuskanen",
+        "role": "Pellervon taloustutkimuksen tutkimusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Mika Maliranta",
+        "role": "tutkimuslaitos Laboren johtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": null,
+    "program_id": "1-76655573",
+    "areena": "https://areena.yle.fi/1-76655573 (295s–315s)"
+  },
+  "quote": "Veronkorotuksiakin olisi siis hyvä olla mukana. Sanon vain yleisesti, että mitä useampia välineitä on, sitä tasaisemmin paine jakautuu. Mitä tasaisemmin se jakautuu, sitä pienempi on progressiivisten haittojen lainalaisuuden taakka.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on suora ja johdonmukainen, ei kiertä kysymystä eikä vällytä.",
+    "hook": "Miksi veronkorotukset ovat hyviä?",
+    "hashtags": [
+      "#verotus",
+      "#talouspolitiikka",
+      "#progressiivisuus",
+      "#painejako",
+      "#budjetti",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "e83358c4bc93",
+  "answer_start": 4.04
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Miten käy, jos vuorten jäätiköt katoavat?",
+    "who": "Joona Räsänen, Ville Valkonen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Joona Räsänen",
+        "role": "kansanedustajat",
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Ville Valkonen",
+        "role": null,
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655450",
+    "areena": "https://areena.yle.fi/1-76655450 (1104s–1122s)"
+  },
+  "quote": "Sopeutuksen pitää jakautua ihmisten kantokyvyn mukaan. Kyllä meidän hyvätuloisten pitää kantaa tulevasta taakasta suurempi osuus kuin tällä kaudella. On totta, että ei tätä pelkillä veroilla hoideta.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Vasemmistopuolueen edustaja nostaa esiin hyvätuloisten suurempaa vastuuosuutta ja myöntää verojen riittämättömyyden ilman kiertoja.",
+    "hook": "Vasemmisto myöntää: verot eivät riitä",
+    "hashtags": [
+      "#perustulo",
+      "#verotus",
+      "#hyvätuloiset",
+      "#sdp",
+      "#talouspolitiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "c36c1a3bb43d",
+  "answer_start": 6.48
+}

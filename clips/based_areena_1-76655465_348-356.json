@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Halukkaiden koalitio koolla Pariisissa",
+    "who": "Lasse Laaksonen, Tyyne Karjalainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Lasse Laaksonen",
+        "role": "dosentti",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Tyyne Karjalainen",
+        "role": "tutkija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655465",
+    "areena": "https://areena.yle.fi/1-76655465 (348s–356s)"
+  },
+  "quote": "Emmanuel Macronin Ranskan puolustusteollisuuden lobbaus on siis ollut menestyksekästä.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Lauseessa on suora, ilmaiseva väite Macronin lobby-menestyksestä ilman peittokieltä.",
+    "hook": "Macronin lobby-menestys paljastuu",
+    "hashtags": [
+      "#lobbying",
+      "#Macron",
+      "#Ranska",
+      "#puolustus",
+      "#vli",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "9312ea7251a7",
+  "answer_start": 4.84
+}

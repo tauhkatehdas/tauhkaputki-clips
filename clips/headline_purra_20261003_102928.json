@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Ministeri Purra STT:n tilanteesta: Valtion ei pidä tekohengittää mediatoimijoita",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-09-30",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20249155",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20249155?origin=rss"
+    ]
+  },
+  "quote": "• Ministeri Purra STT:n tilanteesta: Valtion ei pidä tekohengittää mediatoimijoita",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Purra puolustaa valtion asemaa mediatukeissa, mikä viittaa kiistelyyn ja mahdolliseen haavoittuvuuteen.",
+    "hook": "Purra: Valtio ei pidä rahoittaa mediaa",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261003_102928.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-10-03T10:30:06.386695+00:00"
+}

@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "A-studio: A-Talk: Kuinka kunnianhimoinen on hallituksen viimeinen budjetti?",
+    "who": "Minja Koskela, Anders Adlercreutz, Markus Lohi, Jani Mäkelä",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Minja Koskela",
+        "role": "vasemmistoliiton puheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Anders Adlercreutz",
+        "role": "RKP:n puheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Markus Lohi",
+        "role": "keskustan varapuheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Jani Mäkelä",
+        "role": "perussuomalaisten ryhmäjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655602",
+    "areena": "https://areena.yle.fi/1-76655602 (1424s–1433s)"
+  },
+  "quote": "Olette leikanneet sotepalveluista, nostaneet asiakasmaksuja ja antaneet suuryrityksille veroalea.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Minja Koskela (vasemmistoliitto) nimeää suoraan kolmen konkreettisen politiikan — sote-leikkaukset, asiakasmaksun nostot, suuryritysten veroalennukset — ja asettaa ne vastakkain ilman eufemismejä, mikä on tyypillistä BASED-tyyppiselle vasemmistoretoriikalle.",
+    "hook": "Kolme leikkausta, yksi lause",
+    "hashtags": [
+      "#sote",
+      "#verot",
+      "#suuryritykset",
+      "#vasemmistoliitto",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "17727484831f",
+  "answer_start": 6.16
+}

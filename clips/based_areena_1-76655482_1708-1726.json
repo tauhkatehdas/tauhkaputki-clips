@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä vaikealle työttömyystilanteelle voi tehdä?",
+    "who": "Olli Ruohomäki",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Olli Ruohomäki",
+        "role": "Ulkopoliittisen instituutin vieraileva johtava asiantuntija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655482",
+    "areena": "https://areena.yle.fi/1-76655482 (1708s–1726s)"
+  },
+  "quote": "Sen takia täsmäpolitiikkatoimenpiteitä varmaan kannattaisi miettiä jo päätettyjen lisäksi. Kiitos näistä arvioista. Sieltä tuli kaksi hyvin konkreettista ryhmää, maahanmuuttajat ja nuoret.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei haastattelukysymystä eikä käännettä, pelkkä kiitos ja tiivistelmä",
+    "hook": "Kiitos ja tiivistelmä, ei vastaus",
+    "hashtags": [
+      "#maahanmuutto",
+      "#nuoret",
+      "#politiikka",
+      "#täsmäpolitiikka",
+      "#yhteiskunta",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "ee7f48a0524b",
+  "answer_start": 4.2
+}

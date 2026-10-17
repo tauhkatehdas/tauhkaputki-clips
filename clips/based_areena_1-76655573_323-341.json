@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Uhkaavatko säästötoimet talouskasvua?",
+    "who": "Olli-Pekka Ruuskanen, Mika Maliranta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Olli-Pekka Ruuskanen",
+        "role": "Pellervon taloustutkimuksen tutkimusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Mika Maliranta",
+        "role": "tutkimuslaitos Laboren johtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": null,
+    "program_id": "1-76655573",
+    "areena": "https://areena.yle.fi/1-76655573 (323s–341s)"
+  },
+  "quote": "Näkisin Mikan tavoin, että kannattaisi harkita keinovalikoiman laajentamista verotukseen. Yksi syy on se, että menoleikkaukset usein kohdistuvat haavoittuvimmassa asemassa oleviin kotitalouksiin.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Puheenjohtaja esittää konkreettisen ehdotuksen verovalikoiman laajentamisesta ja perustelee sen menoleikkausten epäreiluudella, mutta argumentti on yleinen ja turvallinen ilman retorista terävyyttä.",
+    "hook": "Laajennetaanko verovalikoimaa?",
+    "hashtags": [
+      "#verotus",
+      "#talouspolitiikka",
+      "#menoleikkaukset",
+      "#epäreiluus",
+      "#kannustinverotus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "e83358c4bc93",
+  "answer_start": 4.72
+}

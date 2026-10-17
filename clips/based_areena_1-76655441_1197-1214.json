@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Sote-säästöjen seuraukset",
+    "who": "Wille Rydman, Sofia Virta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Wille Rydman",
+        "role": "terveysministeri",
+        "party": "ps",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Sofia Virta",
+        "role": "puheenjohtaja",
+        "party": "vihr",
+        "org": null,
+        "direction": "left"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655441",
+    "areena": "https://areena.yle.fi/1-76655441 (1197s–1214s)"
+  },
+  "quote": "Sofia Virta, sinä vaadit... Kyse on siitä, että priorisoimme toimintaa, niitä peruspalveluita, sen sijaan, että edunvalvontajärjestöt, puolueiden lomayhdistykset, saisivat veronmaksajien rahaa.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Virta nimeää suoraan edunvalvontajärjestöt ja puoluelomayhdistykset veronmaksajien rahan saajina ja asettaa niitä vastakkain peruspalveluiden prioriteettiin.",
+    "hook": "Virta: lomayhdistykset syövät peruspalveluja",
+    "hashtags": [
+      "#politiikka",
+      "#talous",
+      "#peruspalvelut",
+      "#edunvalvonta",
+      "#vihreät",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "553cb265d34a",
+  "answer_start": 3.04
+}

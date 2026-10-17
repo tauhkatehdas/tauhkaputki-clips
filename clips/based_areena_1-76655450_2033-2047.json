@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Miten käy, jos vuorten jäätiköt katoavat?",
+    "who": "Joona Räsänen, Ville Valkonen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Joona Räsänen",
+        "role": "kansanedustajat",
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Ville Valkonen",
+        "role": null,
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655450",
+    "areena": "https://areena.yle.fi/1-76655450 (2033s–2047s)"
+  },
+  "quote": "Verotulokertymä olisi kasvanut enemmän ilman kevennyksiä. Yhteisöveroalennuksessa verotulokertymä toki kasvaa, mutta jos se pidettäisiin 20 %:ssa, kasvu olisi vielä nopeampaa.",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Ville Valkonen (kok) myöntää verotulokertymän kasvaneen, mutta väittää ilman kevennyksiä kasvaneen enemmän – klassinen laffer-kurva -oletus, joka ristiriidassa todistettuun kasvuun.",
+    "hook": "Kasvu kasvoi, mutta 'olisi kasvanut enemmän",
+    "hashtags": [
+      "#verot",
+      "#talouspolitiikka",
+      "#kok",
+      "#lafferkurva",
+      "#ristiriita",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "curb",
+  "rubric_version": "c36c1a3bb43d",
+  "answer_start": 4.48
+}
