@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Liittovaltion agenttien tekemät surmat kuohuttavat Yhdysvalloissa",
+    "who": "Johannes Koskinen, Jarmo Lindberg, Noora Kotilainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Johannes Koskinen",
+        "role": "ulkoasiainvaliokunnan puheenjohtaja",
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Jarmo Lindberg",
+        "role": "ulkoasiainvaliokunnan jäsen",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Noora Kotilainen",
+        "role": "yliopistotutkija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655435",
+    "areena": "https://areena.yle.fi/1-76655435 (101s–126s)"
+  },
+  "quote": "Molemmat kuolemantapaukset ovat liittyneet tilanteeseen, jossa kuolonuhri on yrittänyt jollain tavalla haastaa maahanmuuttoviranomaisten toimintaa: kuvata sitä, kyseenalaistaa sitä, osoittaa jollain tavalla, että ei koe näitä Trumpin hallinnon toimia oikeutetuiksi.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vakava, faktapohjainen analyysi ilman retorista terävyyttä tai kohdennettua hyökkäystä.",
+    "hook": "Kaksi kuolemaa, sama tausta",
+    "hashtags": [
+      "#maahanmuutto",
+      "#Trump",
+      "#viranoimat",
+      "#ihmisoikeudet",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "4ba5e586da42",
+  "answer_start": 4.92
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Sauli Niinistö ja Euroopan turvallisuus",
+    "who": "Antti Kurvinen, Arto Satonen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Antti Kurvinen",
+        "role": "kohtasivat opposition",
+        "party": "kesk",
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Arto Satonen",
+        "role": "hallituksen edellinen työministeri",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655496",
+    "areena": "https://areena.yle.fi/1-76655496 (1964s–1986s)"
+  },
+  "quote": "Se työllistää hoitajia, siivoojia, remontti-ihmisiä, putkiasentajia. Miksi me kevennetään Nordean ja Sampon verotusta pörssissä eikä tueta pienyrittäjiä kotitalousvähennysten kautta? Iso linja on se, että kokoomus tukee hallituksessa suuryrityksiä.",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 5,
+    "label": "MEH",
+    "reason": "Vastaa oman puolueensa politiikkaan viittaamalla samalla kun kritisoi sitä, luoden itsensävastuun",
+    "hook": "Kokoomus tukee suuryrityksiä samalla kun valittaa niiden etuudesta",
+    "hashtags": [
+      "#kokoomus",
+      "#verot",
+      "#pienyrittajat",
+      "#hallitus",
+      "#epajohdonmukaisuus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "curb",
+  "rubric_version": "822b7b940e75",
+  "answer_start": 5.52
+}

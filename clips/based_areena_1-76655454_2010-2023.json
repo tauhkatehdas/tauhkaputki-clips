@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä pääministeri Starmerin erosta seuraa Britannialle ja Euroopalle?",
+    "who": "Juha Jokela, Ylen Ulkolinja-ohjelman, Minna Pye",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Juha Jokela",
+        "role": "sen seurauksia analysoivat ohjelmajohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Ylen Ulkolinja-ohjelman",
+        "role": null,
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Minna Pye",
+        "role": "ohjaaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655454",
+    "areena": "https://areena.yle.fi/1-76655454 (2010s–2023s)"
+  },
+  "quote": "En ymmärrä, miksi kotouttamiseen liittyvät menot olisivat säästötoimien ulkopuolella, kun on jouduttu koskemaan moneen muuhun julkiseen menokohteeseen.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Välttämätön ja suora kysymys, joka haastaa säästötoimien johdonmukaisuutta, mutta ilman nimenomaista vastustajaa tai eufemismien hylkäämistä.",
+    "hook": "Miksi kotouttaminen on säästöjen ulkopuolella?",
+    "hashtags": [
+      "#kotouttaminen",
+      "#valtiontalous",
+      "#säästöt",
+      "#julkinenmenot",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "647886eba865",
+  "answer_start": 4.0
+}

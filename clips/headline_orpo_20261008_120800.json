@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Ylen kyselyssä jymypaukku: perussuomalaiset ohitti kokoomuksen",
+    "who": "Petteri Orpo",
+    "source": "yle_rss",
+    "date": "2026-10-08",
+    "session": null,
+    "party": "Kok.",
+    "program_id": "yle_rss_https://yle.fi/a/74-20250257",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20250257?origin=rss"
+    ]
+  },
+  "quote": "• Ylen kyselyssä jymypaukku: perussuomalaiset ohitti kokoomuksen",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Kyselytulos on tappio Orpon kokoomukselle ja merkki hallituksen pääpuolueen kannatuksen laskusta, mikä heikentää pääministerin asemaa.",
+    "hook": "Jymypaukku Orpolla: PS ohitti kokoomuksen",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#orpo",
+      "#petteriorpo",
+      "#kok",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_orpo_20261008_120800.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-10-08T12:08:45.990641+00:00"
+}

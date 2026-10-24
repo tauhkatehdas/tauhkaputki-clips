@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Suomen talous, kuvaajina",
+    "who": "Tilastokeskus",
+    "source": "statfi",
+    "date": "2026-09-18",
+    "session": null,
+    "participants": null,
+    "host": null,
+    "figures": [
+      {
+        "figure_id": "cmpmkbsqf57sl08w9pjw8r2c7",
+        "saved_query_id": "d5629c3d-36ba-4dc3-90d4-802390d22783",
+        "statistic": "Neljännesvuositilinpito",
+        "slug": "ntp",
+        "title": "Yritysten voitto- ja investointiaste 2010Q1-2026Q2",
+        "table": "15a8.px",
+        "published": "2026-09-18",
+        "latest_period": "2/2026",
+        "stat_line": "Yritysten voitto- ja investointiaste 27,6 % — ▲ 4,87 % vuodessa",
+        "score": 5
+      }
+    ]
+  },
+  "quote": "Yritysten voitto- ja investointiaste 27,6 % — ▲ 4,87 % vuodessa",
+  "based": {
+    "genre": "statfi",
+    "direction": "unknown",
+    "score": 5,
+    "label": "MEH",
+    "reason": "vuosimuutos suurin kymmenykseen mahtuvista (4,87 % vuodessa)",
+    "hook": "Yksi luku nousi. Älä kysy muista.",
+    "hashtags": [
+      "#talous",
+      "#suomi",
+      "#tilastokeskus",
+      "#bkt",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false
+}

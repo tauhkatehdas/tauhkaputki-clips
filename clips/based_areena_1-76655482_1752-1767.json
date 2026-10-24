@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä vaikealle työttömyystilanteelle voi tehdä?",
+    "who": "Olli Ruohomäki",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Olli Ruohomäki",
+        "role": "Ulkopoliittisen instituutin vieraileva johtava asiantuntija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655482",
+    "areena": "https://areena.yle.fi/1-76655482 (1752s–1767s)"
+  },
+  "quote": "Ilahduin siitä, että olet lukenut sen, kun pääministeri ei ole siihen ehtinyt perehtyä. Haluaisimme auttaa hallitusta siinä, että tästä saadaan menestynyt maa. Siksi ehdotamme vihreää verouudistusta.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vihreä verouudistus on yleinen puheenvuoron lopetus, ei kohdennettu isku tai epämukava totuus.",
+    "hook": "Vihreä verouudistus hallituksen apuksi",
+    "hashtags": [
+      "#verouudistus",
+      "#politiikka",
+      "#talous",
+      "#vihreät",
+      "#hallitus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "ee7f48a0524b",
+  "answer_start": 2.92
+}

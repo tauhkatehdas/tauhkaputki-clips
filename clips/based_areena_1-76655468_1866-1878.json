@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Viekö Iranin sota Suomen taantumaan?",
+    "who": "Minna Kuusisto, Olli-Pekka Ruuskanen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Minna Kuusisto",
+        "role": "Danske Bankin pääekonomisti",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Olli-Pekka Ruuskanen",
+        "role": "Pellervon taloustutkimuksen tutkimusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655468",
+    "areena": "https://areena.yle.fi/1-76655468 (1866s–1878s)"
+  },
+  "quote": "Kosiskellaan ne Suomeen tuolta maailmalta. Jos Puola onnistui siinä, niin Suomikin onnistuu. Tarvitaanko houkuttimeksi esim. verohelpotuksia?",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei haastattelukysymyksestä kääntymistä eikä vältelyä, vaan lyhyt, suora kysymys.",
+    "hook": "Miksi tämä on ramble?",
+    "hashtags": [
+      "#maahanmuutto",
+      "#verot",
+      "#Puola",
+      "#Suomi",
+      "#talous",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "1f5d382a7df8",
+  "answer_start": 3.92
+}

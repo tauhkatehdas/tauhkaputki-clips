@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Tarja Haloselta poikkeuksellista kritiikkiä hallituksen järjestöavustusleikkauksille",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-09-06",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20244822",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20244822?origin=rss"
+    ]
+  },
+  "quote": "• Tarja Haloselta poikkeuksellista kritiikkiä hallituksen järjestöavustusleikkauksille",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 8,
+    "label": "BASED",
+    "reason": "Kansanedustaja Tarja Halonen kritisoi poikkeuksellisesti hallituksen leikkauksia, joista Purra vastaa pääministerin sijaisena ja rahastonhoitajana.",
+    "hook": "Halonen iskee Purran leikkauksiin",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20260907_103140.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-09-07T10:32:27.822518+00:00"
+}

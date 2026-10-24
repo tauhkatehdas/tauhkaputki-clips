@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Eteneekö Ukrainan rauha?",
+    "who": "Hanna Smith, Sinikukka Saari",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Hanna Smith",
+        "role": "työelämäprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Sinikukka Saari",
+        "role": "UPI:n vt. ohjelmajohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655444",
+    "areena": "https://areena.yle.fi/1-76655444 (1460s–1471s)"
+  },
+  "quote": "BSW eli laitavasemmistopuolue on yllättävällä tavalla erityisesti maahanmuutto- kysymyksessä sellainen, joka kosiskelee AfD:n suosiota.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 1,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelutilannetta eikä karkotusliikettä, vaan pelkkä havainto BSW:n roolista.",
+    "hook": "Ei haastattelua, vain analyysi",
+    "hashtags": [
+      "#BSW",
+      "#AfD",
+      "#maahanmuutto",
+      "#saksa",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "923f6fd92e8e",
+  "answer_start": 5.32
+}

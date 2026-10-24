@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Orpo: 60 miljoonan bensatuki odottaa enää perussuomalaisten kuittausta – Jani Mäkelä: Syyttely varsin luokatonta",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-10-13",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20251187",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20251187?origin=rss"
+    ]
+  },
+  "quote": "• Orpo: 60 miljoonan bensatuki odottaa enää perussuomalaisten kuittausta – Jani Mäkelä: Syyttely varsin luokatonta",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Otsikko kuvaa tilannetta, jossa perussuomalaisten ja Purran kuittausta odotetaan kriittiseen tukipäätökseen, ja liittolaiskriittää syyttelyn luokatonnaiseksi, mikä asettaa Purran epävakaaseen asemaan.",
+    "hook": "Purra jumiin bensatuen kuittaamisessa",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261014_102136.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-10-14T10:22:16.150806+00:00"
+}
