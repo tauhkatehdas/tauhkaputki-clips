@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Ydinaseita Suomen maaperälle?",
+    "who": "Antti Lindtman, Heikki Autto",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Antti Lindtman",
+        "role": "SDP:n puheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Heikki Autto",
+        "role": "eduskunnan puolustusvaliokunnan puheenjohtaja",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655428",
+    "areena": "https://areena.yle.fi/1-76655428 (1165s–1179s)"
+  },
+  "quote": "Se on yhteiskunnallinen ongelma. Väkivaltaa tapahtuu niin ylemmissä yhteiskuntaluokissa, maahanmuuttajien yhteisössä kuin heikompiosaistenkin keskuudessa.",
+  "based": {
+    "genre": "ramble",
+    "direction": "right",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on suora ja tiivis, ei kiertä kysymystä eikä palaa valmiiksi lauseeseen.",
+    "hook": "Ei käännyt, vastaa suoraan",
+    "hashtags": [
+      "#maahanmuutto",
+      "#väkivalta",
+      "#yhteiskunta",
+      "#politiikka",
+      "#suora",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "a79ba26c11f6",
+  "answer_start": 3.08
+}

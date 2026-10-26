@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Putin kiristää otettaan Venäjästä",
+    "who": "Pia Kauma, Joona Räsänen, Saara Hyrkkö",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Pia Kauma",
+        "role": "kansanedustajat",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Joona Räsänen",
+        "role": null,
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Saara Hyrkkö",
+        "role": null,
+        "party": "vihr",
+        "org": null,
+        "direction": "left"
+      }
+    ],
+    "host": null,
+    "program_id": "1-76655438",
+    "areena": "https://areena.yle.fi/1-76655438 (1030s–1044s)"
+  },
+  "quote": "Poliittisessa oikeistossakin pitää ymmärtää, että jos julkista taloutta halutaan vastuullisesti hoitaa, ei voi vaatia uusia veronkevennyksiä ja etuja omille intressipiireille.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Vasemmistopuheenjohtaja nimesi oikeiston vastavirtaista vaatimusta veronkevennyksistä velvollisuudettomana julkisen talouden vastuullisuuden kannalta.",
+    "hook": "Oikeisto vaatii veronkevennyksiä samalla kun vaatii vastuuta",
+    "hashtags": [
+      "#verotus",
+      "#julkistalous",
+      "#oikeisto",
+      "#vasemmisto",
+      "#vastavirta",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "1fda8bbe062f",
+  "answer_start": 4.44
+}

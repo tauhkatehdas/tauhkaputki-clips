@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "A-studio: Kannattaako polttoaineen hintoja laskea?",
+    "who": "Tero Kallio, Hanna Kalenoja, Heikki Liimatainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Tero Kallio",
+        "role": "toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Hanna Kalenoja",
+        "role": "johtava liikenneasiantuntija",
+        "party": null,
+        "org": "keskuskauppakamari",
+        "direction": "right"
+      },
+      {
+        "name": "Heikki Liimatainen",
+        "role": "liikenneprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655462",
+    "areena": "https://areena.yle.fi/1-76655462 (1034s–1044s)"
+  },
+  "quote": "Ruotsissa jakeluvelvoitetta ja polttoaineverotusta on laskettu. Polttoaineet ovat selkeästi edullisempia kuin Suomessa.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelutilannetta eikä kiertämistä, vaan pelkkä faktatieto Ruotsin veropolitiikasta.",
+    "hook": "Miksi tämä on ramble?",
+    "hashtags": [
+      "#polttoainevero",
+      "#Ruotsi",
+      "#Suomi",
+      "#veropolitiikka",
+      "#bensa",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "ef443e3c897f",
+  "answer_start": 4.96
+}

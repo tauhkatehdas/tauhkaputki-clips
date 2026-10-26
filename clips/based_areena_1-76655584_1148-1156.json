@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "title": "A-studio: Pitäisikö velkajarrusta joustaa talouskasvun turvaamiseksi?",
+    "who": "Economic Security, Aki Kangasharju, Sixten Korkman, Vesa Vihriälä",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Economic Security",
+        "role": "ekonomisti Elina Pylkkänen",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Aki Kangasharju",
+        "role": "Elinkeinoelämän tutkimuslaitoksen toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Sixten Korkman",
+        "role": "taloustieteilijät",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Vesa Vihriälä",
+        "role": null,
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655584",
+    "areena": "https://areena.yle.fi/1-76655584 (1148s–1156s)"
+  },
+  "quote": "Yhteisöveron alennuksen hyödyt tulevat kenties ajan mittaan. Emme tiedä suuruusluokkaa.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vakava asiantuntijavastaus ilman kiertoja tai väistelyä, ei ramble-muotoa.",
+    "hook": "Asiantuntija: emme tiedä vaikutusta",
+    "hashtags": [
+      "#verotus",
+      "#yhteisövero",
+      "#talous",
+      "#epävarmuus",
+      "#päätöksenteko",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "fd6a5b807d36",
+  "answer_start": 5.4
+}

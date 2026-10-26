@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä parannuksia pääministerin pyöreä pöytä toi varautumisessa drooniuhkaan?",
+    "who": "Wille Rydman, Päivi Topo",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Wille Rydman",
+        "role": "terveysministeri",
+        "party": "ps",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Päivi Topo",
+        "role": "vanhusasiavaltuutettu",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655459",
+    "areena": "https://areena.yle.fi/1-76655459 (667s–687s)"
+  },
+  "quote": "Lähtökohta on se, että pitää löytyä ratkaisu, jossa kenenkään ei tarvitse toimeentulonsa vuoksi lähteä töihin vaaratilanteessa. Toivon, että tähän löytyy järkevä yhteinen ratkaisu. Tämä on minusta ihan välttämätön asia.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Välttämätön tavoite ilmaistaan yleisesti ilman kohdennettua vastustajaa tai eufemismien hylkäämistä.",
+    "hook": "Miksi tämä on edelleen ongelma?",
+    "hashtags": [
+      "#työturvallisuus",
+      "#toimeentulo",
+      "#politiikka",
+      "#hyvinvointi",
+      "#oikeudet",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "185c7cc2b827",
+  "answer_start": 4.16
+}

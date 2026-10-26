@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä Nato-maiden huippukokoukselta voi odottaa?",
+    "who": "Henri Vanhanen, Jari Eloranta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Henri Vanhanen",
+        "role": "turvallisuuspolitiikan asiantuntija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Jari Eloranta",
+        "role": "Helsingin yliopiston professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655451",
+    "areena": "https://areena.yle.fi/1-76655451 (1806s–1827s)"
+  },
+  "quote": "Tämä on mekanismi varmistaa se, että datakeskusten massiivinen ja nopeasti lisääntyvä sähkönkulutus ei päädy suomalaisten kotien ja yritysten maksettavaksi. Antti Poikola, eikö tätä kytköstä siis tarvita?",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Kysymys on suora ja on-topic, ei kierto tai väistely",
+    "hook": "Haastattelija kysyy suoraan datakeskuksista",
+    "hashtags": [
+      "#sähkö",
+      "#datakeskukset",
+      "#energia",
+      "#politiikka",
+      "#haastattelu",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "df19ce10f565",
+  "answer_start": 4.92
+}

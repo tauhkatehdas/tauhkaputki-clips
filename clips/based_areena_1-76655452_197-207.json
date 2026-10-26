@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Miten Unkari muuttuu opposition murskaavan vaalivoiton jälkeen?",
+    "who": "Olli Ruohomäki, Teppo Turkki",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Olli Ruohomäki",
+        "role": "johtava asiantuntija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Teppo Turkki",
+        "role": "tutkija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655452",
+    "areena": "https://areena.yle.fi/1-76655452 (197s–207s)"
+  },
+  "quote": "Merkittävä tehtävä kyllä löytyy. -Miksi telkien taakse? Hän on mm. käynyt vaalikampanjoita verorahoilla.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on lyhyt ja suora, ei näkyvää kiertoa tai vältelyä",
+    "hook": "Miksi vastaus on niin lyhyt?",
+    "hashtags": [
+      "#politiikka",
+      "#vaalit",
+      "#veroraha",
+      "#haastattelu",
+      "#mediat",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "8a6f7c09176e",
+  "answer_start": 4.48
+}

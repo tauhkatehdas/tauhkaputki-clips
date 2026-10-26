@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Poliisi kiilasi mopoilijan ojaan",
+    "who": "Ari Järveläinen, Henri Rikander",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Ari Järveläinen",
+        "role": "poliisiylitarkastaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Henri Rikander",
+        "role": "poliisioikeuden dosentti",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655423",
+    "areena": "https://areena.yle.fi/1-76655423 (1151s–1170s)"
+  },
+  "quote": "Tämä edellyttäisi sellaisen lain säätämistä, että Suomen valtion piikkiin joku saisi päättää tällaisesta iskusta. On ollut myös meri- ja ilma-alusten GPS-häirintää, merikaapelien katkeamisia, välineellistettyä maahanmuuttoa jne.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei haastattelukysymystä eikä käännyt pois vastauksesta, vaan luettelee uhreja ilman selkeää väittämää tai kieltäytymistä.",
+    "hook": "Miksi tämä on ramble?",
+    "hashtags": [
+      "#turvallisuus",
+      "#hybridisotku",
+      "#GPS",
+      "#maahanmuutto",
+      "#laki",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "67031943f816",
+  "answer_start": 3.52
+}

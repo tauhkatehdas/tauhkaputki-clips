@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Miten leikata sosiaalimenoista oikeudenmukaisesti?",
+    "who": "Heikki Hiilamo, Juhana Vartiainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Heikki Hiilamo",
+        "role": "sosiaalipolitiikan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juhana Vartiainen",
+        "role": "entinen Helsingin pormestari",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655473",
+    "areena": "https://areena.yle.fi/1-76655473 (245s–252s)"
+  },
+  "quote": "Onko viimesijainen toimeentulon turvaamisen muoto viheliäinen poikkeus?",
+  "based": {
+    "genre": "cliffhanger",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Kysymys on avoin ja ei katkea ilman vastausta, vaan se on haastattelijan esittämä kysymys.",
+    "hook": "Mikä on toimeentulon turva?",
+    "hashtags": [
+      "#toimeentulo",
+      "#sosiaaliturva",
+      "#politiikka",
+      "#kysymys",
+      "#haastattelu",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "tbc",
+  "rubric_version": "48ef6b559cd5",
+  "answer_start": 4.6
+}

@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Suomen talous, kuvaajina",
+    "who": "Tilastokeskus",
+    "source": "statfi",
+    "date": "2026-09-14",
+    "session": null,
+    "participants": null,
+    "host": null,
+    "figures": [
+      {
+        "figure_id": "clmaap5hhamx20bw3z09hosow",
+        "saved_query_id": "16ff1925-db68-4060-89f7-0afa4d883a65",
+        "statistic": "Kuluttajahintaindeksi",
+        "slug": "khi",
+        "title": "Kuluttajahintaindeksin vuosimuutos 2001M01-2026M08",
+        "table": "122p.px",
+        "published": "2026-09-14",
+        "latest_period": "elokuu 2026",
+        "stat_line": "Kuluttajahintaindeksin vuosimuutos 2,2 % — ▲ 1,7 % vuodessa",
+        "score": 3
+      }
+    ]
+  },
+  "quote": "Kuluttajahintaindeksin vuosimuutos 2,2 % — ▲ 1,7 % vuodessa",
+  "based": {
+    "genre": "statfi",
+    "direction": "unknown",
+    "score": 3,
+    "label": "FLOP",
+    "reason": "tavanomainen lukema, ei ennätystä eikä poikkeuksellista muutosta",
+    "hook": "Hinnat nousevat, palkat eivät. Klassikko.",
+    "hashtags": [
+      "#talous",
+      "#suomi",
+      "#tilastokeskus",
+      "#inflaatio",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false
+}

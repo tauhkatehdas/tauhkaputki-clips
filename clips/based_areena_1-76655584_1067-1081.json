@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "A-studio: Pitäisikö velkajarrusta joustaa talouskasvun turvaamiseksi?",
+    "who": "Economic Security, Aki Kangasharju, Sixten Korkman, Vesa Vihriälä",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Economic Security",
+        "role": "ekonomisti Elina Pylkkänen",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Aki Kangasharju",
+        "role": "Elinkeinoelämän tutkimuslaitoksen toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Sixten Korkman",
+        "role": "taloustieteilijät",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Vesa Vihriälä",
+        "role": null,
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655584",
+    "areena": "https://areena.yle.fi/1-76655584 (1067s–1081s)"
+  },
+  "quote": "Suomessa on tehty tänä kesänä VATTin ja Laboren tutkijoiden tutkimus yhteisön verotukseen vaikuttavasta tekijästä: sosiaaliturvamaksujen alennuksesta.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 1,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelukeskustelua, käännettävä kysymystä eikä poliitikkoa, joka kiertäisi vastausta.",
+    "hook": "Tutkimusviite ilman poliittista koukkuja",
+    "hashtags": [
+      "#verotus",
+      "#sosiaaliturva",
+      "#tutkimus",
+      "#VATT",
+      "#Labor",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "fd6a5b807d36",
+  "answer_start": 2.92
+}
