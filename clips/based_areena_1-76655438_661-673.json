@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Putin kiristää otettaan Venäjästä",
+    "who": "Pia Kauma, Joona Räsänen, Saara Hyrkkö",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Pia Kauma",
+        "role": "kansanedustajat",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Joona Räsänen",
+        "role": null,
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Saara Hyrkkö",
+        "role": null,
+        "party": "vihr",
+        "org": null,
+        "direction": "left"
+      }
+    ],
+    "host": null,
+    "program_id": "1-76655438",
+    "areena": "https://areena.yle.fi/1-76655438 (661s–673s)"
+  },
+  "quote": "Taitaa olla niin, että kokoomus on höveleimpiä lupauksia tainnut tehdä. Kaikenlaisia veroalennuksia lupaillaan tulevalle vaalikaudelle.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Joona Räsänen (vasemmisto) hyökkää suoraan Kokoomuksen lupauksiin, kutsuu ne hövelöinniksi ja nimeää veroalennukset konkreettisena kohteena.",
+    "hook": "Kokoomuksen lupaukset hövelöinniksi?",
+    "hashtags": [
+      "#politiikka",
+      "#vaalit",
+      "#verot",
+      "#kokoomus",
+      "#vasemmisto",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "1fda8bbe062f",
+  "answer_start": 6.12
+}

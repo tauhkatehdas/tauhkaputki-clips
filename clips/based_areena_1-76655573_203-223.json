@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Uhkaavatko säästötoimet talouskasvua?",
+    "who": "Olli-Pekka Ruuskanen, Mika Maliranta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Olli-Pekka Ruuskanen",
+        "role": "Pellervon taloustutkimuksen tutkimusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Mika Maliranta",
+        "role": "tutkimuslaitos Laboren johtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": null,
+    "program_id": "1-76655573",
+    "areena": "https://areena.yle.fi/1-76655573 (203s–223s)"
+  },
+  "quote": "On riidaton fakta, että meidän täytyy sopeuttaa, mutta demokratiassa on vaihtoehtoja sille, miten sopeutus hoidetaan. Kuinka paljon käytetään vero- ratkaisuja, kuinka paljon leikkauksia?",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Välttämätön sopeutuminen esitetään demokratian valintana, ei pakkona",
+    "hook": "Sopeutuminen on valinta, ei pakko",
+    "hashtags": [
+      "#talouspolitiikka",
+      "#demokrati",
+      "#verot",
+      "#leikkaukset",
+      "#sopeutuminen",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "e83358c4bc93",
+  "answer_start": 6.68
+}

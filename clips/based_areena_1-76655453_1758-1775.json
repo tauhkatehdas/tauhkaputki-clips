@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Miten järjestöt perustelevat STEA-rahan tarvettaan?",
+    "who": "Soile Kuitunen, Sanna Vesikansa, Kerttu Tarjamo",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Soile Kuitunen",
+        "role": "Sosten hallituksen varapuheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Sanna Vesikansa",
+        "role": "kriisitoimintojen johtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Kerttu Tarjamo",
+        "role": "SETA:n pääsihteeri",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655453",
+    "areena": "https://areena.yle.fi/1-76655453 (1758s–1775s)"
+  },
+  "quote": "Halutaanko tällä rahat pois maahan- muuttajilta ja vähemmistöiltä? Rydman ei ole käyttänyt tällaista puheenpartta, mutta on PS:n kansanedustajia, jotka on iloinneet, että Setam ja maahanmuuttajien rahat lähtee.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 5,
+    "label": "MEH",
+    "reason": "Kysymys asettaa vastustajan suoraan vastakkain oman puheen ja toimenpiteidensä kanssa",
+    "hook": "Asetetaanko PS:n retoriikka vastakkain?",
+    "hashtags": [
+      "#maahanmuutto",
+      "#ps",
+      "#syrjinta",
+      "#politiikka",
+      "#keskustelu",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "6ef4b433d979",
+  "answer_start": 6.04
+}

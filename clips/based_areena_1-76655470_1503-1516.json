@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Hallitus veti tukensa Gardenilta. Laantuuko kohu?",
+    "who": "Seppo Junnila, Mirva Merimaa, Arto Saari",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Seppo Junnila",
+        "role": "kestävän kiinteistöliiketoiminnan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Mirva Merimaa",
+        "role": "Tiketin toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Arto Saari",
+        "role": "rakennustuotannon ohjauksen professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655470",
+    "areena": "https://areena.yle.fi/1-76655470 (1503s–1516s)"
+  },
+  "quote": "Onhan se tuonut Tampereelle työpaikkoja, elinvoimaa ja verotuloja. Esimerkiksi hotellien hinnat ovat nousseet, eli on se tuonut Tampereelle paljon hyvää.",
+  "based": {
+    "genre": "victorylap",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Puheenjohtaja nostaa esille omien onnistumistensa positiiviset seuraukset ilman konkreettista argumenttia.",
+    "hook": "Tampereella menestystä?",
+    "hashtags": [
+      "#kaupunkikehitys",
+      "#talous",
+      "#tyopaikat",
+      "#verotulot",
+      "#Tampere",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "maguire",
+  "rubric_version": "2e8b44e06ada",
+  "answer_start": 5.76
+}

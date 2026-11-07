@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Liikenteen verotus kaipaa isoa remonttia",
+    "who": "Jouni Ovaska, Ville Valkonen, Joona Räsänen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Jouni Ovaska",
+        "role": "kansanedustajat",
+        "party": "kesk",
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Ville Valkonen",
+        "role": null,
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Joona Räsänen",
+        "role": null,
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      }
+    ],
+    "host": "Nina Rahkola",
+    "program_id": "1-76655563",
+    "areena": "https://areena.yle.fi/1-76655563 (678s–693s)"
+  },
+  "quote": "Kun graafeja ja verotulokertymän alenemista katsoo, toivon poliitikolta rehellisyyttä, ettei aleta värkätä kansalaisaloitetta euron bensasta ja lupailla liikoja ihmisille.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 0,
+    "label": "MEH",
+    "reason": "",
+    "hook": "",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "answer_start": 4.96
+}

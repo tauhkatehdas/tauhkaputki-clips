@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Onko säännöillä enää väliä maailmanpolitiikassa?",
+    "who": "Martti Koskenniemi, Juhana Aunesluoma",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Martti Koskenniemi",
+        "role": "kansainvälisen oikeuden emeritusprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juhana Aunesluoma",
+        "role": "Helsingin yliopiston poliittisen historian professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655487",
+    "areena": "https://areena.yle.fi/1-76655487 (1635s–1653s)"
+  },
+  "quote": "Missä verotietomme tällä hetkellä ovat? Tällä hetkellä Hollannin ja Ruotsin pilvipalvelukeskuksissa. Kansalaiset ovat huolissaan tästä. On kansalaisaloite nimeltä Digitaalinen itsenäisyys.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Kysymys asettaa konkreettisen faktan ja kansalaisaloitteen vastakkain ilman oman ratkaisun esittämistä.",
+    "hook": "Missä verotietomme oikeasti ovat?",
+    "hashtags": [
+      "#verotiedot",
+      "#dataturva",
+      "#kansalaisaloite",
+      "#digitaalinenitsenäisyys",
+      "#pilvipalvelut",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "c7da011a88d6",
+  "answer_start": 5.0
+}

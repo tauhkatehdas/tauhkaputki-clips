@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Poliisilla ei ole mitään ympäristöosaamista, mutta silti hallitus kaavailee sille vastuuta ympäristöasioista",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-10-13",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20250519",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20250519?origin=rss"
+    ]
+  },
+  "quote": "• Poliisilla ei ole mitään ympäristöosaamista, mutta silti hallitus kaavailee sille vastuuta ympäristöasioista",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Otsikko on erittäin kriittinen hallituksen esitykselle ja viittaa viranomaisten pätevyyteen epäilyttäen, mikä heijastuu suoraan Purran johtamaan ministeriöön.",
+    "hook": "Poliisit ilman ympäristöosaamista",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261013_124845.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-10-13T12:49:13.927344+00:00"
+}

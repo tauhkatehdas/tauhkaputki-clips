@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Ovatko ilmastotavoitteet mahdottomia?",
+    "who": "Ulla Heinonen, Antti Arasto",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Ulla Heinonen",
+        "role": "Elinkeinoelämän vihreän kasvun johtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Antti Arasto",
+        "role": "Suomen ilmastopaneelin varapuheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655440",
+    "areena": "https://areena.yle.fi/1-76655440 (1678s–1698s)"
+  },
+  "quote": "Silloin ei voida suunnitella palvelupolkua kovin yksilöidysti. Onko nykyisessä työttömyys- ja sosiaaliturvassa ongelmia, jotka estävät nuoria työllistymästä? Työttömyysetuusjärjestelmä on aika monimutkainen.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vastaus on aiheeseen liittyvää taustatietoa eikä suora vastaus kysymykseen, mutta selkeää kiertoa tai väistelyä ei näy",
+    "hook": "Miksi vastaus ei osu kysymykseen?",
+    "hashtags": [
+      "#työttömyys",
+      "#sosiaaliturva",
+      "#nuoret",
+      "#työllisyys",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "2396e6e7d26f",
+  "answer_start": 6.6
+}

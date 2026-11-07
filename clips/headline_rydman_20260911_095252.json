@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Oppositio höykytti hallitusta terveydenhuollon maksuista, Koskela moitti ”Rydmanin hinnastoa” – Rydman: ”Imartelevaa”",
+    "who": "Wille Rydman",
+    "source": "yle_rss",
+    "date": "2026-09-10",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20245610",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20245610?origin=rss"
+    ]
+  },
+  "quote": "• Oppositio höykytti hallitusta terveydenhuollon maksuista, Koskela moitti ”Rydmanin hinnastoa” – Rydman: ”Imartelevaa”",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 8,
+    "label": "BASED",
+    "reason": "Oppositio hyökkää Rydmania suoraan terveydenhuollon maksujen korotusten puolesta ja Koskela leimaa linjauksen 'Rydmanin hinnastoksi', mikä asettaa ministerin itsensä vastuulliseksi kyseenalaistettuihin leikkauksiin.",
+    "hook": "Oppositio: 'Rydmanin hinnasto' lyö potilaita",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#rydman",
+      "#willerydman",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_rydman_20260911_095252.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-09-11T09:53:39.346717+00:00"
+}

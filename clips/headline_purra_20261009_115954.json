@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Mepit: Suomen linja johtaa maaseudun rahoista leikkaamiseen – Orpon puheet mahdottomia",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-10-08",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20250505",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20250505?origin=rss"
+    ]
+  },
+  "quote": "• Mepit: Suomen linja johtaa maaseudun rahoista leikkaamiseen – Orpon puheet mahdottomia",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Europarlamentaarikokouksen jäsenet syyttävät hallitusta ja Purraa maaseuturahoitteiden leikkaamisesta ja EU-neuvotteluiden hiekoittamisesta.",
+    "hook": "MEP:t iskevät Purraa – maaseuturahat uhattuna",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261009_115954.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-10-09T12:00:43.117674+00:00"
+}

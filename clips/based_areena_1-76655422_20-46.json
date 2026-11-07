@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Miten viranomaiset voisivat parantaa drooneista tiedottamista?",
+    "who": "Mari Rantanen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Mari Rantanen",
+        "role": "sisäministeri",
+        "party": "ps",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655422",
+    "areena": "https://areena.yle.fi/1-76655422 (20s–46s)"
+  },
+  "quote": "Mitä hyötyä niistä on veronmaksajille? Tämä on A-studio. Tervetuloa mukaan. Uudellamaalla herättiin perjantaina hämmentyneissä tunnelmissa.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 0,
+    "label": "FLOP",
+    "reason": "Avoin aloitus ja ohjelman esittely, ei haastattelukeskustelua eikä kiertoa",
+    "hook": "A-studio alkaa, mutta keneltä kysytään?",
+    "hashtags": [
+      "#politiikka",
+      "#mediat",
+      "#haastattelu",
+      "#verot",
+      "#talous",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "637be027d890",
+  "answer_start": 4.2
+}

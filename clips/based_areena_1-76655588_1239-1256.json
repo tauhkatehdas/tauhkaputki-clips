@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "A-studio: A-Talk: Mikä sopeutusehdotus saa poliitikkojen tuen?",
+    "who": "Ville Valkonen, Joakim Vigelius, Tytti Tuppurainen, Oras Tynkkynen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Ville Valkonen",
+        "role": null,
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Joakim Vigelius",
+        "role": null,
+        "party": "ps",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Tytti Tuppurainen",
+        "role": null,
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Oras Tynkkynen",
+        "role": null,
+        "party": "vihr",
+        "org": null,
+        "direction": "left"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655588",
+    "areena": "https://areena.yle.fi/1-76655588 (1239s–1256s)"
+  },
+  "quote": "Pelkillä leikkauksilla mennään hyvinvointiyhteiskunnan perusteisiin. Kokoomuksen ja PS:n paketeille yhteistä on se, että esitetään rajuja leikkauksia alueiden rahoitukseen, sosiaaliturvaan ja koulutukseen.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Nimeää suoraan Kokoomuksen ja PS:n paketit yhteisenä uhkana peruspalveluille ilman eufemismejä.",
+    "hook": "Kokoomus ja PS uhkaavat peruspalveluja",
+    "hashtags": [
+      "#kokoomus",
+      "#perussuomalaiset",
+      "#leikkaukset",
+      "#hyvinvointi",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "6cb0dfae6be4",
+  "answer_start": 6.64
+}

@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Kannattaako polttoaineen hintoja laskea?",
+    "who": "Tero Kallio, Hanna Kalenoja, Heikki Liimatainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Tero Kallio",
+        "role": "toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Hanna Kalenoja",
+        "role": "johtava liikenneasiantuntija",
+        "party": null,
+        "org": "keskuskauppakamari",
+        "direction": "right"
+      },
+      {
+        "name": "Heikki Liimatainen",
+        "role": "liikenneprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655462",
+    "areena": "https://areena.yle.fi/1-76655462 (1044s–1054s)"
+  },
+  "quote": "Siellä valtiontalous on paremmassa kunnossa. Eli heillä on ollut varaa tehdä veronalennuksia.",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 4,
+    "label": "MEH",
+    "reason": "Puheenjohtaja viittaa valtiontalouden parempaan kuntoon ja veronalennuksiin samanaikaisesti, mikä on itsessään ristiriitaista ilman lisäkontekstia.",
+    "hook": "Parempi tase, veronalennukset?",
+    "hashtags": [
+      "#valtiontalous",
+      "#veronalennukset",
+      "#talouspolitiikka",
+      "#verot",
+      "#budjetti",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "curb",
+  "rubric_version": "ef443e3c897f",
+  "answer_start": 5.6
+}

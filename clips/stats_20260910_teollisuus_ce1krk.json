@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Suomen talous, kuvaajina",
+    "who": "Tilastokeskus",
+    "source": "statfi",
+    "date": "2026-09-10",
+    "session": null,
+    "participants": null,
+    "host": null,
+    "figures": [
+      {
+        "figure_id": "cm37388hf8vzx07w37gce1krk",
+        "saved_query_id": "3255fd44-56c2-4314-999f-ffc6b7711d41",
+        "statistic": "Teollisuustuotannon volyymi-indeksi",
+        "slug": "ttvi",
+        "title": "Koko teollisuuden (TOL 2008: BCD) työpäiväkorjatun volyymi-indeksin (2021=100) vuosimuutos 2025M07-2026M07",
+        "table": "14mh.px",
+        "published": "2026-09-10",
+        "latest_period": "heinäkuu 2026",
+        "stat_line": "Koko teollisuuden (TOL 2008: BCD) työpäiväkorjatun volyymi-indeksin vuosimuutos 4,54 % — ▲ 9,4 % vuodessa",
+        "score": 5
+      }
+    ]
+  },
+  "quote": "Koko teollisuuden (TOL 2008: BCD) työpäiväkorjatun volyymi-indeksin vuosimuutos 4,54 % — ▲ 9,4 % vuodessa",
+  "based": {
+    "genre": "statfi",
+    "direction": "unknown",
+    "score": 5,
+    "label": "MEH",
+    "reason": "vuosimuutos suurin kymmenykseen mahtuvista (9,4 % vuodessa)",
+    "hook": "Teollisuus nousi. Yhden kuukauden verran.",
+    "hashtags": [
+      "#talous",
+      "#suomi",
+      "#tilastokeskus",
+      "#teollisuus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false
+}

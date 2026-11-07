@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Orpon hallituksen viimeinen budjettiriihi",
+    "who": "Timo Ritakallio, Mikko Spolander",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Timo Ritakallio",
+        "role": "OP Pohjolan pääjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Mikko Spolander",
+        "role": "valtiovarainministeriön kansantalousosaston osastopäällikkö",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Nina Rahkola",
+    "program_id": "1-76655483",
+    "areena": "https://areena.yle.fi/1-76655483 (969s–978s)"
+  },
+  "quote": "Sitä kautta saadaan enemmän verotuloja julkiseen talouteen. Hallituksen neljästä korista kahdessa on tehty tätä.",
+  "based": {
+    "genre": "victorylap",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Puheenjohtaja nostaa esille oman hallituksen teot positiivisessa valossa ilman konkreettista argumenttia.",
+    "hook": "Hallitus onnistui kahdessa neljästä?",
+    "hashtags": [
+      "#verot",
+      "#julkinen_talous",
+      "#hallitus",
+      "#politiikka",
+      "#talouspolitiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "maguire",
+  "rubric_version": "d2d640f784aa",
+  "answer_start": 4.56
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Orpo Trumpin ja Putinin dieselsopimuksesta: ”Hirvittävä pettymys”",
+    "who": "Petteri Orpo",
+    "source": "yle_rss",
+    "date": "2026-10-10",
+    "session": null,
+    "party": "Kok.",
+    "program_id": "yle_rss_https://yle.fi/a/74-20250671",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20250671?origin=rss"
+    ]
+  },
+  "quote": "• Orpo Trumpin ja Putinin dieselsopimuksesta: ”Hirvittävä pettymys”",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Orpo kuvailee Trumpin ja Putinin sopimusta 'hirvittäväksi pettymykseksi', mikä on erittäin kova diplomaattinen kritiikki ja asettaa hänet haastavaan ulkopolitiikka-asemaan.",
+    "hook": "Orpo: Dieselsopimus pettymys",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#orpo",
+      "#petteriorpo",
+      "#kok",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_orpo_20261012_131926.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-10-12T13:20:05.165458+00:00"
+}

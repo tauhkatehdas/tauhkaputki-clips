@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Saavatko vanhukset riittävästi hoitoa?",
+    "who": "Aki Lindén, Mia Laiho, Päivi Topo",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Aki Lindén",
+        "role": "kansanedustajat",
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Mia Laiho",
+        "role": null,
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Päivi Topo",
+        "role": "vanhusasiavaltuutettu",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655467",
+    "areena": "https://areena.yle.fi/1-76655467 (1281s–1297s)"
+  },
+  "quote": "Raha tulee minun mielestäni tähän tarkoitukseen löytymään, mutta henkilökunta tarvitsee palkan ja työnjohdon. Tarvitsemme maahanmuuttoa, vaikka ministeri jarruttelee.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Lindén tunnustaa avoimesti maahanmuuton tarpeen hoivassa ja asettaa itsensä suoraan vastakkain ministerin 'jarrutuksella' ilman sivistystä.",
+    "hook": "Lindén: maahanmuutto pakko, ministeri jarruttaa!",
+    "hashtags": [
+      "#maahanmuutto",
+      "#hoiva",
+      "#henkilökunta",
+      "#politiikka",
+      "#sd",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "e1d9803f5e1e",
+  "answer_start": 6.04
+}

@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": null,
+    "who": "Henrik Vuornos",
+    "source": "floor",
+    "date": "2026-07-21",
+    "session": "PTK 72/2026",
+    "participants": null,
+    "host": null
+  },
+  "quote": "Vaalirahoitus Suomessa ei ole vastikkeellista, eli sellainen henkilö, joka pyytää jotain vastikkeellista vaalirahoitusta vastaan, syyllistyy lahjonnan yritykseen.",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Vuornos esittää lain sääntelyn itsestäänselvänä totuutena, vaikka se on poliittinen valinta, joka estää järjestelmän kritiikin.",
+    "hook": "Laki estää oman muutoksen vaatimisen?",
+    "hashtags": [
+      "#vaalirahoitus",
+      "#laki",
+      "#demokrati",
+      "#politiikka",
+      "#suomi",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "curb",
+  "rubric_version": "c76aeb36f69f"
+}
