@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Tällainen on nykyisen hallituksen viimeinen budjetti – katso tiivis lista siitä, mitä päätettiin",
+    "who": "Petteri Orpo",
+    "source": "yle_rss",
+    "date": "2026-09-01",
+    "session": null,
+    "party": "Kok.",
+    "program_id": "yle_rss_https://yle.fi/a/74-20244071",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20244071?origin=rss"
+    ]
+  },
+  "quote": "• Tällainen on nykyisen hallituksen viimeinen budjetti – katso tiivis lista siitä, mitä päätettiin",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Uutinen korostaa budjetin suurta alijäämää (12,4 mrd €), mikä heikentää Orpon hallituksen talousluotettavuutta.",
+    "hook": "Budjetti 12,4 mrd alijäämäinen",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#orpo",
+      "#petteriorpo",
+      "#kok",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_orpo_20260907_103227.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-09-07T10:33:16.608473+00:00"
+}

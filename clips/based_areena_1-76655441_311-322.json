@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Sote-säästöjen seuraukset",
+    "who": "Wille Rydman, Sofia Virta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Wille Rydman",
+        "role": "terveysministeri",
+        "party": "ps",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Sofia Virta",
+        "role": "puheenjohtaja",
+        "party": "vihr",
+        "org": null,
+        "direction": "left"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655441",
+    "areena": "https://areena.yle.fi/1-76655441 (311s–322s)"
+  },
+  "quote": "Aiheutatte valtiontalouteen loven yhteisöveron alennuksella, joka ei tuo kasvua, mutta maksaa valtavasti.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Vasemmistopuheenjohtaja hyökkää suoraan hallituksen veropolitiikkaan, nimettyään 'lovena' yhteisöveron alennuksen, joka maksaa valtavasti ilman kasvua.",
+    "hook": "Vasemmiston isku: veroalennus on lova",
+    "hashtags": [
+      "#veropolitiikka",
+      "#valtiontalous",
+      "#vihreät",
+      "#hallitus",
+      "#keskustelu",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "553cb265d34a",
+  "answer_start": 7.64
+}

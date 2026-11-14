@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Miten järjestöt perustelevat STEA-rahan tarvettaan?",
+    "who": "Soile Kuitunen, Sanna Vesikansa, Kerttu Tarjamo",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Soile Kuitunen",
+        "role": "Sosten hallituksen varapuheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Sanna Vesikansa",
+        "role": "kriisitoimintojen johtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Kerttu Tarjamo",
+        "role": "SETA:n pääsihteeri",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655453",
+    "areena": "https://areena.yle.fi/1-76655453 (427s–436s)"
+  },
+  "quote": "Pitäisin aika erikoisena, jos päättäjät linjaisi, että sosiaaliturvan leikkauksista ei saisi kertoa kansalle.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 5,
+    "label": "MEH",
+    "reason": "Vahva, suora väite ilman peittelyä, mutta yleisluontoinen ja ilman konkreettista kohdetta.",
+    "hook": "Miksi päätöksentekijät pelkää avoimuutta?",
+    "hashtags": [
+      "#sosiaaliturva",
+      "#avoimuus",
+      "#päätöksenteko",
+      "#kansanedustajat",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "6ef4b433d979",
+  "answer_start": 3.8
+}

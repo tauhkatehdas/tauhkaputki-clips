@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Hallitus päätti kiistellystä ennallistamisesta: ei pakkoa suojelualueiden ulkopuolelle, luonnonmetsien määrä putosi puoleen",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-11-05",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20255222",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20255222?origin=rss"
+    ]
+  },
+  "quote": "• Hallitus päätti kiistellystä ennallistamisesta: ei pakkoa suojelualueiden ulkopuolelle, luonnonmetsien määrä putosi puoleen",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 8,
+    "label": "BASED",
+    "reason": "Uutinen paljastaa hallituksen kääntyvän ympäristölupauksista ja luonnonmetsien suojelun heikentyvän merkittävästi.",
+    "hook": "Hallitus luopuu luonnonmetsien suojelusta",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261105_131920.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-05T13:20:08.331040+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Ydinaseita Suomen maaperälle?",
+    "who": "Antti Lindtman, Heikki Autto",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Antti Lindtman",
+        "role": "SDP:n puheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Heikki Autto",
+        "role": "eduskunnan puolustusvaliokunnan puheenjohtaja",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655428",
+    "areena": "https://areena.yle.fi/1-76655428 (1567s–1592s)"
+  },
+  "quote": "Tilastojen mukaan lähisuhdeväkivallan tekijöistä noin kolme neljäsosaa on miehiä. Tämä on karkeistus, koska tilastot eivät täysin kerro todellisuutta. Naisetkin ovat siis tekijöitä, mutta mitä tiedämme näistä miehistä? Ovatko he kantasuomalaisia, maahanmuuttajia, köyhiä, rikkaita?",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelijan kovaa kysymystä eikä poliitikkojen kiertoa, vaan tilastojen tulkintaa.",
+    "hook": "Miksi tilastot eivät kerro totuutta?",
+    "hashtags": [
+      "#lähisuhdeväkivalta",
+      "#tilastot",
+      "#sukupuoli",
+      "#maahanmuutto",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "a79ba26c11f6",
+  "answer_start": 2.36
+}

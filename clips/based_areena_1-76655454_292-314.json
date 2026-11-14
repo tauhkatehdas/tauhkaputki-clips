@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä pääministeri Starmerin erosta seuraa Britannialle ja Euroopalle?",
+    "who": "Juha Jokela, Ylen Ulkolinja-ohjelman, Minna Pye",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Juha Jokela",
+        "role": "sen seurauksia analysoivat ohjelmajohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Ylen Ulkolinja-ohjelman",
+        "role": null,
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Minna Pye",
+        "role": "ohjaaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655454",
+    "areena": "https://areena.yle.fi/1-76655454 (292s–314s)"
+  },
+  "quote": "On valtavia alueita maan pohjoisosassa, joissa on jääty osattomiksi hyvinvoinnista. Ihmisillä on toimeentulovaikeuksia ja vaikea elättää perhettään. Tämä luo tyytymättömyyttä, mikä suuntautuu puolueisiin, jotka lupaavat muutosta, mitä Reform tekee voimakkaasti.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Ilmaisee selkeästi aineellisen ongelman ja sen poliittisen seurauksen ilman eufemismeja.",
+    "hook": "Pohjoinen jäätyy osattomaksi hyvinvoinnista",
+    "hashtags": [
+      "#alueellineneroavaisuus",
+      "#hyvinvointi",
+      "#politiikka",
+      "#muutto",
+      "#reform",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "647886eba865",
+  "answer_start": 3.2
+}

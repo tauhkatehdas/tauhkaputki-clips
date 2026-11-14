@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Nuoret kapinoivat Euroopassa",
+    "who": "Kimmo Elo, Georg Boldt",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Kimmo Elo",
+        "role": "tutkimusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Georg Boldt",
+        "role": "poliittisen sosiologian tutkijatohtori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655455",
+    "areena": "https://areena.yle.fi/1-76655455 (1066s–1087s)"
+  },
+  "quote": "Molemmat vaikuttavat. Isot menoleikkaukset vaikuttavat kasvuun, jos sosiaalietuuksia leikataan ja kulutus laskee. Verotuksella on haitallisia vaikutuksia kasvuun. Julkisen talouden sopeuttaminen vaikuttaa talouskasvun vauhtiin.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei haastattelijan kysymystä eikä käännettä, vaan neutraali tiivistelmä ilman evasioa.",
+    "hook": "Tutkija tiivistää, ei vastaa",
+    "hashtags": [
+      "#talouspolitiikka",
+      "#julkistalous",
+      "#kasvu",
+      "#leikkaukset",
+      "#verotus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "6561bba31dc4",
+  "answer_start": 1.96
+}

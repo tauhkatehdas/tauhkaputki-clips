@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "A-studio: Eduskunta keskeytti kesätaukonsa",
+    "who": "Markku Jokisipilä, Juha Ristamäki, Jenni Karimäki",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Markku Jokisipilä",
+        "role": "Eduskuntatutkimuksen keskuksen johtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juha Ristamäki",
+        "role": "Iltalehden politiikan toimituksen päällikkö",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Jenni Karimäki",
+        "role": "yliopistotutkija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655480",
+    "areena": "https://areena.yle.fi/1-76655480 (3569s–3594s)"
+  },
+  "quote": "- Veronmaksajille tulee ensi vuoden alusta taas mittavia veronalennuksia. - Sekin on tekopyhää, että otatte rahaa ay-liikkeeltä ja lupaatte palauttaa ay-jäsen- maksun verovähennysoikeuden. - Tämä menee palkansaajalle veronkevennyksenä. -Harry Harkimo. - Tekopyhää on tämä keskustelu, mitä kokoomus käy.",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Harkimo (oikeisto) kritisoi veronalennuksia 'tekopyhänä' samalla kun ne hyödyttävät hänen kannattajiaan (yrittäjät/palkansaajat), mikä on itsensävastuinen linjaus.",
+    "hook": "Harkimo omien veronalennuksiensa vastustaja?",
+    "hashtags": [
+      "#verot",
+      "#talouspolitiikka",
+      "#kokoomus",
+      "#harkimo",
+      "#tekopyhä",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "curb",
+  "rubric_version": "ae60ccec5e6c",
+  "answer_start": 6.12,
+  "turns": [
+    6.12,
+    14.84,
+    21.24
+  ]
+}

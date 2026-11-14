@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Nuoret kapinoivat Euroopassa",
+    "who": "Kimmo Elo, Georg Boldt",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Kimmo Elo",
+        "role": "tutkimusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Georg Boldt",
+        "role": "poliittisen sosiologian tutkijatohtori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655455",
+    "areena": "https://areena.yle.fi/1-76655455 (1043s–1055s)"
+  },
+  "quote": "Äänestäjät voivat ottaa kantaa ennen ensi vaaleja. Luultavasti molempia tehdään. Se tarkoittaisi veronkiristyksiä ja menoleikkauksia.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 1,
+    "label": "FLOP",
+    "reason": "Ei haastattelukeskustelun kontekstia eikä näkyvää kiertoa; pelkkä ennuste ilman kieltäytymistä.",
+    "hook": "Miksi tämä on ramble?",
+    "hashtags": [
+      "#talouspolitiikka",
+      "#verot",
+      "#leikkaukset",
+      "#vaalit",
+      "#budjetti",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "6561bba31dc4",
+  "answer_start": 4.32
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Orpo karmean gallupin jälkeen – ”Perussuomalaiset varmaan tekee hieman parempaa työtä”",
+    "who": "Petteri Orpo",
+    "source": "yle_rss",
+    "date": "2026-11-05",
+    "session": null,
+    "party": "Kok.",
+    "program_id": "yle_rss_https://yle.fi/a/74-20255238",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20255238?origin=rss"
+    ]
+  },
+  "quote": "• Orpo karmean gallupin jälkeen – ”Perussuomalaiset varmaan tekee hieman parempaa työtä”",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 8,
+    "label": "BASED",
+    "reason": "Otsikko viittaa karmeaan gallupiin ja Orpon itsensä myöntämään ongelmaan, että talouskasvu ei näy arjessa.",
+    "hook": "Orpo: Gallup karmea, kasvu puuttuu",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#orpo",
+      "#petteriorpo",
+      "#kok",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_orpo_20261106_133148.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-06T13:32:35.902200+00:00"
+}

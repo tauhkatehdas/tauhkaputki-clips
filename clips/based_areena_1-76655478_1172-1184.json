@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "A-studio: Orpon hallituksen viimeinen kehysriihi",
+    "who": "Maria Nykänen, Helsingin Sanomista, Juha Ristamäki",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Maria Nykänen",
+        "role": "politiikan toimittajat",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Helsingin Sanomista",
+        "role": "Teemu Muhonen",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juha Ristamäki",
+        "role": "politiikan toimituksen päällikkö",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655478",
+    "areena": "https://areena.yle.fi/1-76655478 (1172s–1184s)"
+  },
+  "quote": "Porvaripuolella on enemmän leikkauspainotteista, toisella puolella veronkorotuksia ja rakenteellisia uudistuksia.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelukeskustelun kontekstia eikä näkyvää kiertämistä tai evasioa.",
+    "hook": "Mikä tämä lause edes on?",
+    "hashtags": [
+      "#politiikka",
+      "#talouspolitiikka",
+      "#budjetti",
+      "#leikkaukset",
+      "#verot",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "71e6a5909238",
+  "answer_start": 4.68
+}

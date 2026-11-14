@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "A-studio: Pysyykö Eurooppa tekoälykehityksen mukana?",
+    "who": "Henna Virkkunen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Henna Virkkunen",
+        "role": "? Haastattelussa digikomissaari",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655448",
+    "areena": "https://areena.yle.fi/1-76655448 (1552s–1561s)"
+  },
+  "quote": "SDP haluaa tehdä puolet veron- kiristyksillä ja puolet leikkauksilla, ja kokoomus haluaa leikata 8 miljardia.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Lauseessa ei ole haastattelukysymystä eikä poliitikko vastaa, vaan pelkkä puolueiden linjojen tiivistelmä ilman retoriikkaa.",
+    "hook": "Kuka sanoi tästä mitään?",
+    "hashtags": [
+      "#talouspolitiikka",
+      "#verot",
+      "#leikkaukset",
+      "#SDP",
+      "#Kokoomus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "f8fc3d62647c",
+  "answer_start": 5.68
+}

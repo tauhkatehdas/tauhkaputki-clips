@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "A-studio: Liittovaltion agenttien tekemät surmat kuohuttavat Yhdysvalloissa",
+    "who": "Johannes Koskinen, Jarmo Lindberg, Noora Kotilainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Johannes Koskinen",
+        "role": "ulkoasiainvaliokunnan puheenjohtaja",
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Jarmo Lindberg",
+        "role": "ulkoasiainvaliokunnan jäsen",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Noora Kotilainen",
+        "role": "yliopistotutkija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655435",
+    "areena": "https://areena.yle.fi/1-76655435 (881s–893s)"
+  },
+  "quote": "Sillä ei ole kansan tukea, että tavallinen ihminen saa pelätä henkensä edestä, jos ilmaisee maahanmuuttoviranomaisille, että mielestäni ette toimi oikein.",
+  "based": {
+    "genre": "none",
+    "direction": "right",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelijan kysymystä eikä näkyvää kiertämistä; se on suora, itsenäinen väittämä.",
+    "hook": "Missä on kiusakysymys?",
+    "hashtags": [
+      "#maahanmuutto",
+      "#turvallisuus",
+      "#kansanvalta",
+      "#politiikka",
+      "#ramble",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "4ba5e586da42",
+  "answer_start": 2.28
+}

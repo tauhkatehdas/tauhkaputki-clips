@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Putin kiristää otettaan Venäjästä",
+    "who": "Pia Kauma, Joona Räsänen, Saara Hyrkkö",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Pia Kauma",
+        "role": "kansanedustajat",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Joona Räsänen",
+        "role": null,
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Saara Hyrkkö",
+        "role": null,
+        "party": "vihr",
+        "org": null,
+        "direction": "left"
+      }
+    ],
+    "host": null,
+    "program_id": "1-76655438",
+    "areena": "https://areena.yle.fi/1-76655438 (673s–691s)"
+  },
+  "quote": "On kummallista, jos hallitus viimeisenä tekonaan tekee velkaa lisäävän budjetin, jossa porataan esim. yhteisöveron alennuksella yli 800 miljoonan aukko veropohjaan tilanteessa, jossa alijäämät ovat valtavat.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Nimeää suoraan hallituksen budjettipäätöksen ja sen epäjohdonmukaisuuden: velka kasvaa samalla kun veropohja revitään yli 800 miljoonalla.",
+    "hook": "Hallitus poraa aukkoja samalla kun velka kasvaa?",
+    "hashtags": [
+      "#budjetti",
+      "#verot",
+      "#valtiovarainhallinto",
+      "#politiikka",
+      "#talouspolitiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "minecraft",
+  "rubric_version": "1fda8bbe062f",
+  "answer_start": 4.08
+}

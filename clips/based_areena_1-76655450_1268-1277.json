@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Miten käy, jos vuorten jäätiköt katoavat?",
+    "who": "Joona Räsänen, Ville Valkonen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Joona Räsänen",
+        "role": "kansanedustajat",
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Ville Valkonen",
+        "role": null,
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655450",
+    "areena": "https://areena.yle.fi/1-76655450 (1268s–1277s)"
+  },
+  "quote": "Todennäköisesti joudumme käymään läpi kaikki julkiset menot. Sieltä tulee löytymään tehottomia yritystukia ja aluetukia.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Nimeää suoraan tehokkaat yritys- ja alueetukit leikkaamisen kohteeksi ilman eufemismeja.",
+    "hook": "Leikataan tehottomat tukit nyt!",
+    "hashtags": [
+      "#talouspolitiikka",
+      "#julkisetmenot",
+      "#yritystukit",
+      "#alueetuki",
+      "#sd",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "c36c1a3bb43d",
+  "answer_start": 5.04
+}

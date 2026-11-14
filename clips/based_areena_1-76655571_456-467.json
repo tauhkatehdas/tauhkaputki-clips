@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä tehdä polttoaineiden korkeille hinnoille?",
+    "who": "Anne Kalmari, Miko Bergbom, Oras Tynkkynen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Anne Kalmari",
+        "role": "kansanedustajat keskustan",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Miko Bergbom",
+        "role": "perussuomalaisten",
+        "party": null,
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Oras Tynkkynen",
+        "role": "vihreiden",
+        "party": null,
+        "org": null,
+        "direction": "left"
+      }
+    ],
+    "host": "Matti Koivisto",
+    "program_id": "1-76655571",
+    "areena": "https://areena.yle.fi/1-76655571 (456s–467s)"
+  },
+  "quote": "Mitä toimia? -Nopein konsti on tietysti parantaa perusturvaa. Silloin autetaan niitä, joilla on vaikein taloudellinen tilanne.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Oras Tynkkynen nostaa perusturvan parantamisen nopeimmaksi ja oikeudenmukaisimmaksi keinoksi auttaa heikoimmassa asemassa olevia, mikä on selkeä, itsenäinen vasemmistolainen ratkaisu ilman kompromisseja.",
+    "hook": "Perusturva nopein konsti?",
+    "hashtags": [
+      "#perusturva",
+      "#toimeentulotuki",
+      "#vasemmisto",
+      "#OrasTynkkynen",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "ccd12c08cab8",
+  "answer_start": 5.92
+}

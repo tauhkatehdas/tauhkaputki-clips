@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "A-studio: A-Talk: Mikä sopeutusehdotus saa poliitikkojen tuen?",
+    "who": "Ville Valkonen, Joakim Vigelius, Tytti Tuppurainen, Oras Tynkkynen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Ville Valkonen",
+        "role": null,
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Joakim Vigelius",
+        "role": null,
+        "party": "ps",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Tytti Tuppurainen",
+        "role": null,
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Oras Tynkkynen",
+        "role": null,
+        "party": "vihr",
+        "org": null,
+        "direction": "left"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655588",
+    "areena": "https://areena.yle.fi/1-76655588 (1627s–1638s)"
+  },
+  "quote": "Hyvätuloisimmille tuli mittavat veronalennukset. Ensi vuonna on tulossa iso yritysveroalennus. Nyt olisi oikeudenmukaisten vaihtoehtojen aika.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Nimeää konkreettiset veronalennukset rikkaille ja yrityksille ja asettaa niiden vastakohtaisesti oikeudenmukaiset vaihtoehdot, osoittaen retorisen terän.",
+    "hook": "Veronalennukset rikkaille – vastaveto nyt?",
+    "hashtags": [
+      "#verot",
+      "#talouspolitiikka",
+      "#oikeudenmukaisuus",
+      "#vasemmisto",
+      "#budjetti",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "6cb0dfae6be4",
+  "answer_start": 3.84
+}

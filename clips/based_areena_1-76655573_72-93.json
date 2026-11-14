@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Uhkaavatko säästötoimet talouskasvua?",
+    "who": "Olli-Pekka Ruuskanen, Mika Maliranta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Olli-Pekka Ruuskanen",
+        "role": "Pellervon taloustutkimuksen tutkimusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Mika Maliranta",
+        "role": "tutkimuslaitos Laboren johtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": null,
+    "program_id": "1-76655573",
+    "areena": "https://areena.yle.fi/1-76655573 (72s–93s)"
+  },
+  "quote": "Kokoomuksen kaavailuissa isoimmat säästöt tulisivat sotesektorilta ja eläkejärjestelmästä. Molemmista tulisi säästöjä noin kaksi miljardia euroa vaalikauden aikana. Linjana on siis pelkkiä menoleikkauksia, ei veronkorotuksia.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Ilmaisee selkeästi ja ilman eufemismeja, että Kokoomuksen linjassa on vain menoleikkauksia, ei veronkorotuksia.",
+    "hook": "Kokoomus leikkaa vain, ei korota veroja",
+    "hashtags": [
+      "#talouspolitiikka",
+      "#kokoomus",
+      "#menoleikkaukset",
+      "#verot",
+      "#vaalikaudet",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "e83358c4bc93",
+  "answer_start": 3.92
+}

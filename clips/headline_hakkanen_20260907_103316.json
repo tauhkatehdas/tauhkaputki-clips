@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Ministeri Häkkänen kommentoi naisten häirintää Puolustusvoimissa: Jokaisen miehen vastuulla on käyttäytyä järkevästi",
+    "who": "Antti Häkkänen",
+    "source": "yle_rss",
+    "date": "2026-09-07",
+    "session": null,
+    "party": "Kok.",
+    "program_id": "yle_rss_https://yle.fi/a/74-20244896",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20244896?origin=rss"
+    ]
+  },
+  "quote": "• Ministeri Häkkänen kommentoi naisten häirintää Puolustusvoimissa: Jokaisen miehen vastuulla on käyttäytyä järkevästi",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Ministeri on reagoivaa eikä proaktiivista, ja siirtää vastuun yksittäisille miehille järjestelmällisen ongelman sijaan.",
+    "hook": "Häkkänen: Miehet vastaavat häirinnästä",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#hakkanen",
+      "#anttihäkkänen",
+      "#kok",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_hakkanen_20260907_103316.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-09-07T10:34:08.740839+00:00"
+}
