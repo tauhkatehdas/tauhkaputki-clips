@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "A-studio: Hallitus veti tukensa Gardenilta. Laantuuko kohu?",
+    "who": "Seppo Junnila, Mirva Merimaa, Arto Saari",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Seppo Junnila",
+        "role": "kestävän kiinteistöliiketoiminnan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Mirva Merimaa",
+        "role": "Tiketin toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Arto Saari",
+        "role": "rakennustuotannon ohjauksen professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655470",
+    "areena": "https://areena.yle.fi/1-76655470 (270s–278s)"
+  },
+  "quote": "Julkisuuden huomio oli erityisesti veropäätöksissä. Se oli vähän yllätysriihi. -Yhtäkkiä rahaa löytyi jostain.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei näkyvää kiertelyä tai kieltäytymistä vastaamasta; lause on lyhyt, suora ja on-topic -kommentti veropäätöksistä.",
+    "hook": "Mistä raha yhtäkkiä löytyi?",
+    "hashtags": [
+      "#verot",
+      "#julkishallinto",
+      "#yhteiskuntatalous",
+      "#poliittinenbeslutsfattande",
+      "#talouspolitiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "2e8b44e06ada",
+  "answer_start": 4.0,
+  "turns": [
+    4.0
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Kemijärvellä selvitetään kaupunginhallituksen erottamista, aiemmin kesällä vaihtoon menivät hallituksen puheenjohtajat",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-11-03",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20254904",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20254904?origin=rss"
+    ]
+  },
+  "quote": "• Kemijärvellä selvitetään kaupunginhallituksen erottamista, aiemmin kesällä vaihtoon menivät hallituksen puheenjohtajat",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Kemijärven kuntapolitiikassa epävakaata, hallituksen luottamusta selvitetään.",
+    "hook": "Kemijärven hallitus uhattuna",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261106_133101.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-06T13:31:48.660859+00:00"
+}

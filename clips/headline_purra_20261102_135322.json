@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Savonlinnan kiistelty kaupunginjohtaja Janne Laine aloittaa Riikka Purran erityisavustajana",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-10-30",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20254245",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20254245?origin=rss"
+    ]
+  },
+  "quote": "• Savonlinnan kiistelty kaupunginjohtaja Janne Laine aloittaa Riikka Purran erityisavustajana",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Purra palkkaa erityisavustajakseen henkilön, jota tuomioistuimet ovat kyseenalaistaneet ja jonka erottaminen on kesken, mikä herättää eettisiä kysymyksiä.",
+    "hook": "Purra palkkaa kiistellyt johtaja",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261102_135322.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-02T13:54:08.715432+00:00"
+}

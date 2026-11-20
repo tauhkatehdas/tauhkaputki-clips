@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Analyysi: Hallitus teki ”pöyristyttävän” suunnitelman, joka lupaa lähinnä suojella jo suojeltuja maita",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-11-07",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20255576",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20255576?origin=rss"
+    ]
+  },
+  "quote": "• Analyysi: Hallitus teki ”pöyristyttävän” suunnitelman, joka lupaa lähinnä suojella jo suojeltuja maita",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 8,
+    "label": "BASED",
+    "reason": "Analyysi arvioi hallituksen suunnitelman pöyristyttäväksi ja suuremman pettymyksenä kuin odotettiin.",
+    "hook": "Suunnitelma pöyristyttävä – suuri pettymys",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261107_114919.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-07T11:50:01.456397+00:00"
+}

@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "A-studio: Pitäisikö velkajarrusta joustaa talouskasvun turvaamiseksi?",
+    "who": "Economic Security, Aki Kangasharju, Sixten Korkman, Vesa Vihriälä",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Economic Security",
+        "role": "ekonomisti Elina Pylkkänen",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Aki Kangasharju",
+        "role": "Elinkeinoelämän tutkimuslaitoksen toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Sixten Korkman",
+        "role": "taloustieteilijät",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Vesa Vihriälä",
+        "role": null,
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655584",
+    "areena": "https://areena.yle.fi/1-76655584 (2121s–2138s)"
+  },
+  "quote": "Uudistuksen on oltava paljon muutakin kuin että otetaan lapsiperheiltä. Se on muutakin kuin verouudistuksia. Ennen kaikkea se on julkisen sektorin ja palvelusektorin täydellistä uudelleen ajattelua.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vahva, konkreettinen vaatimus uudelle ajattelutavalle ilman eufemismeja, mutta puhujasta ei tunneta poliittista suuntaa.",
+    "hook": "Miksi uudistus on enemmän kuin verot?",
+    "hashtags": [
+      "#uudistus",
+      "#julkisensektori",
+      "#palvelut",
+      "#politiikka",
+      "#talous",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "fd6a5b807d36",
+  "answer_start": 2.96
+}

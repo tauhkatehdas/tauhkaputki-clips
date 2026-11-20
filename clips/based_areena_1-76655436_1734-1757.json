@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Suomi ja Ranskan ydinasepelote",
+    "who": "Janne Kuusela, Iro Särkkä",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Janne Kuusela",
+        "role": "puolustusministeriön kansliapäällikkö",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Iro Särkkä",
+        "role": "vanhempi tutkija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655436",
+    "areena": "https://areena.yle.fi/1-76655436 (1734s–1757s)"
+  },
+  "quote": "Heidän poliittiset avustajansahan ja poliitikot itse olivat ministeriöissä päättämässä. Heillä oli suuri vaikutus siihen, miten on puututtu rangaistuksiin, että maahanmuuttopolitiikasta on tullut paljon rajoittavampaa. Maksetaan rahaa kotimaahan palaamisesta.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei haastattelukysymystä eikä näkyvää kääntymistä tai vältelyä; lauseet ovat suoria väitteitä ilman selkeää vältelymekanismia.",
+    "hook": "Miksi tämä on ramble?",
+    "hashtags": [
+      "#maahanmuuttopolitikka",
+      "#rangaistukset",
+      "#poliittinenvaikutus",
+      "#kotimaahanpaluu",
+      "#ministeriöt",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "bbfae608d783",
+  "answer_start": 5.2
+}

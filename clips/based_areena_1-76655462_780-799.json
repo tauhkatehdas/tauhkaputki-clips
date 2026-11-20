@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Kannattaako polttoaineen hintoja laskea?",
+    "who": "Tero Kallio, Hanna Kalenoja, Heikki Liimatainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Tero Kallio",
+        "role": "toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Hanna Kalenoja",
+        "role": "johtava liikenneasiantuntija",
+        "party": null,
+        "org": "keskuskauppakamari",
+        "direction": "right"
+      },
+      {
+        "name": "Heikki Liimatainen",
+        "role": "liikenneprofessori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655462",
+    "areena": "https://areena.yle.fi/1-76655462 (780s–799s)"
+  },
+  "quote": "On muitakin keinoja, jos mennään yleisiin polttoaineiden valmisteveroihin, mutta ne maksavat. Jos tässä hakee kompromissin kompromissia, jakeluvelvoitteen alentaminen ei ole viisasta monesta syystä.",
+  "based": {
+    "genre": "ramble",
+    "direction": "right",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on suora ja sisällöllinen, ei kiertoa tai vältelyä",
+    "hook": "Suora vastaus, ei ramblingia",
+    "hashtags": [
+      "#polttoainevero",
+      "#veropolitiikka",
+      "#kompromissi",
+      "#jakeluvelvoite",
+      "#talouspolitiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "ef443e3c897f",
+  "answer_start": 2.72
+}

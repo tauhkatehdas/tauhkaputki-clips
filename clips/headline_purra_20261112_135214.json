@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Pienituloisimmilta pois 80 euroa kuussa, suurituloisimmille 50 lisää – näin Orpon hallituksen päätökset lisäävät tuloeroja",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-11-11",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20256179",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20256179?origin=rss"
+    ]
+  },
+  "quote": "• Pienituloisimmilta pois 80 euroa kuussa, suurituloisimmille 50 lisää – näin Orpon hallituksen päätökset lisäävät tuloeroja",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 9,
+    "label": "BASED",
+    "reason": "Otsikko ja liite osoittavat THL:n laskelmien perusteella, että Purraa johtaman hallituksen politiikka siirtää resursseja köyhiltä rikkaille, mikä on kova kriittinen huomio.",
+    "hook": "Purra: Köyhiltä rikkaille",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261112_135214.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-12T13:53:01.876510+00:00"
+}

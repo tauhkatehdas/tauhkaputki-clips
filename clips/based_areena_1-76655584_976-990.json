@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "A-studio: Pitäisikö velkajarrusta joustaa talouskasvun turvaamiseksi?",
+    "who": "Economic Security, Aki Kangasharju, Sixten Korkman, Vesa Vihriälä",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Economic Security",
+        "role": "ekonomisti Elina Pylkkänen",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Aki Kangasharju",
+        "role": "Elinkeinoelämän tutkimuslaitoksen toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Sixten Korkman",
+        "role": "taloustieteilijät",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Vesa Vihriälä",
+        "role": null,
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655584",
+    "areena": "https://areena.yle.fi/1-76655584 (976s–990s)"
+  },
+  "quote": "Tämä menee pikkuisen hakoteille. Mieluummin näkisin panostettavan talouden uudistuksen edistämiseen. Riippuu siitä, keneltä kysyy, onko yhteisöveron alesta hyötyä.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on lyhyt ja suora, ei näytä kiertävältä tai välttelevältä",
+    "hook": "Lyhyt vastaus, ei ramblaa",
+    "hashtags": [
+      "#talouspolitiikka",
+      "#yhteisovero",
+      "#uudistukset",
+      "#verotus",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "fd6a5b807d36",
+  "answer_start": 3.16
+}

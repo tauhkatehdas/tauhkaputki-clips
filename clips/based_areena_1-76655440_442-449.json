@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Ovatko ilmastotavoitteet mahdottomia?",
+    "who": "Ulla Heinonen, Antti Arasto",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Ulla Heinonen",
+        "role": "Elinkeinoelämän vihreän kasvun johtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Antti Arasto",
+        "role": "Suomen ilmastopaneelin varapuheenjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655440",
+    "areena": "https://areena.yle.fi/1-76655440 (442s–449s)"
+  },
+  "quote": "Sitten on toimintaympäristö. Investointiluvitusten sujuvoittaminen sekä kannustimet ja verotus.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 1,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelijan kysymystä eikä vastauksen kiertoa, vaan pelkkä aihealueiden luettelo",
+    "hook": "Miksi tämä on ramble?",
+    "hashtags": [
+      "#politiikka",
+      "#talous",
+      "#investointit",
+      "#kannustimet",
+      "#verotus",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "2396e6e7d26f",
+  "answer_start": 2.28
+}

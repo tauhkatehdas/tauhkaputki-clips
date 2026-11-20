@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Stubbin ja Putinin puhelu",
+    "who": "Tuomas Forsberg, Timo Soini",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Tuomas Forsberg",
+        "role": "kansainvälisen politiikan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Timo Soini",
+        "role": "entinen ulkoministeri",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Nina Rahkola",
+    "program_id": "1-76655516",
+    "areena": "https://areena.yle.fi/1-76655516 (1962s–1970s)"
+  },
+  "quote": "Ihmisten arki, toimeentulo ja tietysti turvallisuus nousevat voimakkaasti esiin.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 1,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelijan kovaa kysymystä eikä poliitikkojen kiertoa, vaan yleinen havainto.",
+    "hook": "Miksi tämä on ramble?",
+    "hashtags": [
+      "#politiikka",
+      "#haastattelu",
+      "#mediat",
+      "#analyysi",
+      "#flop",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "6e400fdb8f38",
+  "answer_start": 4.68
+}

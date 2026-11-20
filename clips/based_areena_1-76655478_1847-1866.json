@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Orpon hallituksen viimeinen kehysriihi",
+    "who": "Maria Nykänen, Helsingin Sanomista, Juha Ristamäki",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Maria Nykänen",
+        "role": "politiikan toimittajat",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Helsingin Sanomista",
+        "role": "Teemu Muhonen",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juha Ristamäki",
+        "role": "politiikan toimituksen päällikkö",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655478",
+    "areena": "https://areena.yle.fi/1-76655478 (1847s–1866s)"
+  },
+  "quote": "Kyse on viime kädessä veroeduista. Pitäisikö olla veroetuja tai järjestelyitä, joilla eläkkeeseen säästäminen olisi kannustettua? Se olisi varmuustekijä. Se on vähän niin kuin hoivassa.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vertaa veroetuja hoivaan ilman selkeää kohdetta tai ehdotusta",
+    "hook": "Veroedut kuin hoiva?",
+    "hashtags": [
+      "#verot",
+      "#eläke",
+      "#talouspolitiikka",
+      "#veroedut",
+      "#hyvinvointi",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "71e6a5909238",
+  "answer_start": 2.84
+}
