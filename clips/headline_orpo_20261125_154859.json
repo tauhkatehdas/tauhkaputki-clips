@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Keskusta ottaisi vähiten uutta velkaa, vihreät eniten – vertailimme opposition varjobudjetit",
+    "who": "Petteri Orpo",
+    "source": "yle_rss",
+    "date": "2026-11-24",
+    "session": null,
+    "party": "Kok.",
+    "program_id": "yle_rss_https://yle.fi/a/74-20258629",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20258629?origin=rss"
+    ]
+  },
+  "quote": "• Keskusta ottaisi vähiten uutta velkaa, vihreät eniten – vertailimme opposition varjobudjetit",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Orpon hallituksen leikkaukset soteen ja sosiaaliturvaan ovat kohde opposision kriteerille varjobudjeteissa.",
+    "hook": "Hallituksen leikkaukset kohdallaan varjobudjeteissa",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#orpo",
+      "#petteriorpo",
+      "#kok",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_orpo_20261125_154859.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-25T15:49:30.850200+00:00"
+}

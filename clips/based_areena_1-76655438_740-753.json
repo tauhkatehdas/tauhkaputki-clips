@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Putin kiristää otettaan Venäjästä",
+    "who": "Pia Kauma, Joona Räsänen, Saara Hyrkkö",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Pia Kauma",
+        "role": "kansanedustajat",
+        "party": "kok",
+        "org": null,
+        "direction": "right"
+      },
+      {
+        "name": "Joona Räsänen",
+        "role": null,
+        "party": "sd",
+        "org": null,
+        "direction": "left"
+      },
+      {
+        "name": "Saara Hyrkkö",
+        "role": null,
+        "party": "vihr",
+        "org": null,
+        "direction": "left"
+      }
+    ],
+    "host": null,
+    "program_id": "1-76655438",
+    "areena": "https://areena.yle.fi/1-76655438 (740s–753s)"
+  },
+  "quote": "Silloin pitäisi hyväksyä, että jos julkinen talous halutaan kuntoon, joka käänteessä ei voi lupailla ja ehdottaa veronkevennyksiä yhteiskunnan rikkaimmille.",
+  "based": {
+    "genre": "based",
+    "direction": "left",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Joona Räsänen (vasemmisto) asettaa ehdottomasti: jos halutaan julkinen talous kuntoon, rikkaimmille ei voi luvata veronkevennyksiä — nimenomaan oikeistolle klassinen lupaus on kielletty ilman sivistelyä.",
+    "hook": "Veronkevennykset rikkaille? Ei, jos talous halutaan kuntoon",
+    "hashtags": [
+      "#verot",
+      "#julkinenTalous",
+      "#raskasverotus",
+      "#vasemmisto",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "1fda8bbe062f",
+  "answer_start": 2.36
+}

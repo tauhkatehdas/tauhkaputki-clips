@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Analyysi: Perussuomalaisten puheet jyrkkenevät, mutta Orpo tuntuu heittäneen hanskat tiskiin",
+    "who": "Petteri Orpo",
+    "source": "yle_rss",
+    "date": "2026-11-19",
+    "session": null,
+    "party": "Kok.",
+    "program_id": "yle_rss_https://yle.fi/a/74-20257994",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20257994?origin=rss"
+    ]
+  },
+  "quote": "• Analyysi: Perussuomalaisten puheet jyrkkenevät, mutta Orpo tuntuu heittäneen hanskat tiskiin",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 8,
+    "label": "BASED",
+    "reason": "Analyysi arvioi Orpon luovuttaneen vastarinnan perussuomalaisten linjalle vaalien lähestyessä.",
+    "hook": "Orpo heittänyt hanskat tiskiin",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#orpo",
+      "#petteriorpo",
+      "#kok",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_orpo_20261120_141115.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-20T14:12:00.869140+00:00"
+}

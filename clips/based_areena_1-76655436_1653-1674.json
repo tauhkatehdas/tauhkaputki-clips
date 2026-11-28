@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Suomi ja Ranskan ydinasepelote",
+    "who": "Janne Kuusela, Iro Särkkä",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Janne Kuusela",
+        "role": "puolustusministeriön kansliapäällikkö",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Iro Särkkä",
+        "role": "vanhempi tutkija",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655436",
+    "areena": "https://areena.yle.fi/1-76655436 (1653s–1674s)"
+  },
+  "quote": "Liittyykö tämä maahanmuuttoon? Vaikea sanoa. Yksittäisissä asiakysymyksissä ei puhuttu sisäisestä turvallisuudesta samoin kuin neljä vuotta sitten. Silloin nämä ns. Tidö-puolueet... Nimi tulee linnasta, jossa ne tekivät sopimuksensa.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vastaus kiertää kysymyksen ilman selkeää kieltäytymistä tai suoraa vastauslinjaa",
+    "hook": "Vastaako tämä maahanmuuttoon?",
+    "hashtags": [
+      "#maahanmuutto",
+      "#turvallisuus",
+      "#politiikka",
+      "#haastattelu",
+      "#vastaanotto",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "bbfae608d783",
+  "answer_start": 2.84
+}

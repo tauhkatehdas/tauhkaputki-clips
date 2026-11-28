@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Miten leikata sosiaalimenoista oikeudenmukaisesti?",
+    "who": "Heikki Hiilamo, Juhana Vartiainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Heikki Hiilamo",
+        "role": "sosiaalipolitiikan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juhana Vartiainen",
+        "role": "entinen Helsingin pormestari",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655473",
+    "areena": "https://areena.yle.fi/1-76655473 (926s–947s)"
+  },
+  "quote": "Heikki Hiilamo, onko tuo tuki enää sellainen, jolla ihminen voi turvata perustoimeentulonsa? Ei tietenkään ole. Aiemminkin lähtökohta on ollut se, että haetaan ensin muita etuuksia. Nyt se on vain kirjoitettu selkeämmin lakiin.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Vastaus on suora ja sisällöllinen, ei kiertoa tai välistelyä",
+    "hook": "Professori vastaa suoraan ilman kikkailuja",
+    "hashtags": [
+      "#toimeentulo",
+      "#sosiaaliturva",
+      "#laki",
+      "#politiikka",
+      "#yksityiskohta",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "48ef6b559cd5",
+  "answer_start": 5.04
+}

@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Suomen talous, kuvaajina",
+    "who": "Tilastokeskus",
+    "source": "statfi",
+    "date": "2026-11-25",
+    "session": null,
+    "participants": null,
+    "host": null,
+    "figures": [
+      {
+        "figure_id": "cmqt0z4dm7i6j07t7qp5ef4q7",
+        "saved_query_id": "10c8ff22-0112-4f52-b5f2-16678b2bfc24",
+        "statistic": "Osakeasuntojen hinnat",
+        "slug": "ashi",
+        "title": "Vanhojen osakeasuntojen kaupat talotyypin mukaan alueittain 2025M01-2026M10*",
+        "table": "15iq.px",
+        "published": "2026-11-25",
+        "latest_period": "lokakuu 2026",
+        "stat_line": "Vanhojen osakeasuntojen kaupat talotyypin mukaan alueittain, Kauppojen lukumäärä, kiinteistönvälittäjät 3 607 — ▼ 369 vuodessa",
+        "score": 5
+      }
+    ]
+  },
+  "quote": "Vanhojen osakeasuntojen kaupat talotyypin mukaan alueittain, Kauppojen lukumäärä, kiinteistönvälittäjät 3 607 — ▼ 369 vuodessa",
+  "based": {
+    "genre": "statfi",
+    "direction": "unknown",
+    "score": 5,
+    "label": "MEH",
+    "reason": "vuosimuutos suurin kymmenykseen mahtuvista (-369 vuodessa)",
+    "hook": "Asunnon arvo laskee, laina ei.",
+    "hashtags": [
+      "#talous",
+      "#suomi",
+      "#tilastokeskus",
+      "#asuminen",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false
+}

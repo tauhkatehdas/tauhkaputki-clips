@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Liike Nyt mylläisi hallituksen veromuutokset: ”Leikkaamalla ja verottamalla Suomi menee kiinni”",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-11-24",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20258761",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20258761?origin=rss"
+    ]
+  },
+  "quote": "• Liike Nyt mylläisi hallituksen veromuutokset: ”Leikkaamalla ja verottamalla Suomi menee kiinni”",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 8,
+    "label": "BASED",
+    "reason": "Oppositio puolue Liike Nyt kritisoi Purraa johtavan hallituksen veropolitiikkaa tuhoavaksi ja velkajarrun tavoitteita mahdottomiksi.",
+    "hook": "Liike Nyt: Purran veropolitiikka tuhoaa Suomen",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261124_160100.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-24T16:01:38.502912+00:00"
+}

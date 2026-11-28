@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Nuoret kapinoivat Euroopassa",
+    "who": "Kimmo Elo, Georg Boldt",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Kimmo Elo",
+        "role": "tutkimusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Georg Boldt",
+        "role": "poliittisen sosiologian tutkijatohtori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655455",
+    "areena": "https://areena.yle.fi/1-76655455 (1565s–1573s)"
+  },
+  "quote": "Mukaan on tullut äärivasemmistoa, muita radikaaleja, maahanmuuttajia, ay-liikettä, keltaliivejä.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 1,
+    "label": "FLOP",
+    "reason": "Ei haastattelijan kysymyksestä eikä poliitikkojen vastauksesta, vaan pelkkä luettelo ryhmistä ilman kiertoa tai kieltämystä.",
+    "hook": "Mitä tämä luettelo tarkoittaa?",
+    "hashtags": [
+      "#politiikka",
+      "#maahanmuutto",
+      "#keskustelu",
+      "#analyysi",
+      "#mediat",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "6561bba31dc4",
+  "answer_start": 4.2
+}

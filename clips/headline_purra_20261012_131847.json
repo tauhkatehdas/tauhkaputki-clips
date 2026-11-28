@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Itä-Suomessa heräsi uusi pelko datakeskuksista – hallituksen esitys voisi näivettää talouden",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-10-11",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20250905",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20250905?origin=rss"
+    ]
+  },
+  "quote": "• Itä-Suomessa heräsi uusi pelko datakeskuksista – hallituksen esitys voisi näivettää talouden",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Otsikko viittaa siihen, että hallituksen esitys (josta Purra vastaa rahastonministerinä) voisi tuhota itäsuomalaista miljardibisnestä, asettamaan häntä vastuulliseen asemaan.",
+    "hook": "Purransuunnitelma uhkaa itää",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261012_131847.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-10-12T13:19:26.774067+00:00"
+}

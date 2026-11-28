@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Suomen talous, kuvaajina",
+    "who": "Tilastokeskus",
+    "source": "statfi",
+    "date": "2026-09-18",
+    "session": null,
+    "participants": null,
+    "host": null,
+    "figures": [
+      {
+        "figure_id": "cmpmjwfux4y2408w9j78rekbk",
+        "saved_query_id": "00d65f6c-ee27-4a1d-bf24-c40e66e5d94b",
+        "statistic": "Neljännesvuositilinpito",
+        "slug": "ntp",
+        "title": "Kotitalouksien investointi- ja säästämisaste 2010Q1-2026Q2",
+        "table": "15a8.px",
+        "published": "2026-09-18",
+        "latest_period": "2/2026",
+        "stat_line": "Kotitalouksien investointi- ja säästämisaste 7,51 % — matalin koko sarjan aikana",
+        "score": 9
+      }
+    ]
+  },
+  "quote": "Kotitalouksien investointi- ja säästämisaste 7,51 % — matalin koko sarjan aikana",
+  "based": {
+    "genre": "statfi",
+    "direction": "unknown",
+    "score": 9,
+    "label": "BASED",
+    "reason": "matalin lukema koko julkaistulla sarjalla (alkaen 2010)",
+    "hook": "Tämä on se käyrä josta ei puhuta.",
+    "hashtags": [
+      "#talous",
+      "#suomi",
+      "#tilastokeskus",
+      "#bkt",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Hallitus esittää perustuslakiin muutosta vaalipiireistä – oikeusministeri ihmettelee vastustusta: ”Pidän merkillisenä”",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-11-11",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20256321",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20256321?origin=rss"
+    ]
+  },
+  "quote": "• Hallitus esittää perustuslakiin muutosta vaalipiireistä – oikeusministeri ihmettelee vastustusta: ”Pidän merkillisenä”",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Purra ilmaisee yllättymistään ja kritiikkiä vastustajia kohtaan sanomalla ehdotusta 'merkilliseksi', mikä heijastaa hallituksen ehdotuksen epäselvyyttä tai poliittista taistelua.",
+    "hook": "Purra ihmettelee: Vaalipiirimuutos 'merkillinen'",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261113_131433.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-13T13:15:05.014517+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Kokoomus takasi rahoituksen hylätyille tutkimushankkeille – Rydman: ”käärmettä pyssyyn on ajettu”",
+    "who": "Wille Rydman",
+    "source": "yle_rss",
+    "date": "2026-11-20",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20258121",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20258121?origin=rss"
+    ]
+  },
+  "quote": "• Kokoomus takasi rahoituksen hylätyille tutkimushankkeille – Rydman: ”käärmettä pyssyyn on ajettu”",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Kokoomus kääntää ministeri Rydmanin päätöksen ja rahoittaa hylätyt tutkimushankkeet, mikä on selkeä hallituksesisäinen tappio.",
+    "hook": "Kokoomus kääntää Rydmanin päätöksen",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#rydman",
+      "#willerydman",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_rydman_20261120_141200.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-20T14:12:43.946219+00:00"
+}

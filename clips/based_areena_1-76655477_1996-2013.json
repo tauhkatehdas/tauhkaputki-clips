@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "A-studio: Päättäjät kokoontuvat New Yorkissa",
+    "who": "Tuomas Forsberg",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Tuomas Forsberg",
+        "role": "professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Nina Rahkola",
+    "program_id": "1-76655477",
+    "areena": "https://areena.yle.fi/1-76655477 (1996s–2013s)"
+  },
+  "quote": "Kilpailutuksessa on mukana kymmenkunta toimijaa. On lämpöä tuottavia sekä sähköä ja lämpöä tuottavia. On koko Suomelle valtava kilpailuetumahdollisuus, jos pystytään rakentamaan ydinvoimala, josta saadaan sekä sähkö että lämpö talteen.",
+  "based": {
+    "genre": "ramble",
+    "direction": "unknown",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Ei haastattelijan kysymystä eikä karkotusliikettä, vaan asiantunteva kuvaus kilpailutilanteesta",
+    "hook": "Ydinvoimalakilpailu: kymmenkunta pelaajaa",
+    "hashtags": [
+      "#energia",
+      "#ydinvoima",
+      "#kilpailutus",
+      "#Suomi",
+      "#lämpö",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "hopelesscore",
+  "rubric_version": "df23d0982510",
+  "answer_start": 3.76
+}

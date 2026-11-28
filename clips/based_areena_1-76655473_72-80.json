@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Miten leikata sosiaalimenoista oikeudenmukaisesti?",
+    "who": "Heikki Hiilamo, Juhana Vartiainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Heikki Hiilamo",
+        "role": "sosiaalipolitiikan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juhana Vartiainen",
+        "role": "entinen Helsingin pormestari",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655473",
+    "areena": "https://areena.yle.fi/1-76655473 (72s–80s)"
+  },
+  "quote": "Toimeentulotuki on ollut se viimesijainen rahasumma, joka köyhilläkin pitää olla käytössä.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vakava, faktapohjainen määritelmä toimeentulotuesta ilman retoriikkaa tai kohdetta",
+    "hook": "Määritelmä: viimesijainen turva",
+    "hashtags": [
+      "#toimeentulotuki",
+      "#sosiaaliturva",
+      "#köyhyys",
+      "#hyvinvointivaltio",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "48ef6b559cd5",
+  "answer_start": 4.76
+}

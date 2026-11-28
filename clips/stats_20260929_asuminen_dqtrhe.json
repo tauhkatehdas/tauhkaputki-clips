@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Suomen talous, kuvaajina",
+    "who": "Tilastokeskus",
+    "source": "statfi",
+    "date": "2026-09-29",
+    "session": null,
+    "participants": null,
+    "host": null,
+    "figures": [
+      {
+        "figure_id": "cmqt0ta517gd907t7vzdqtrhe",
+        "saved_query_id": "96f731cf-a0f0-4188-8132-c671a09707f0",
+        "statistic": "Osakeasuntojen hinnat",
+        "slug": "ashi",
+        "title": "Vanhojen osakeasuntojen hintaindeksi (2025=100) talotyypin mukaan alueittain 2025M01-2026M08*",
+        "table": "15iq.px",
+        "published": "2026-09-29",
+        "latest_period": "elokuu 2026",
+        "stat_line": "Vanhojen osakeasuntojen hintaindeksi talotyypin mukaan alueittain 96,7 — ▼ 3,26 vuodessa",
+        "score": 3
+      }
+    ]
+  },
+  "quote": "Vanhojen osakeasuntojen hintaindeksi talotyypin mukaan alueittain 96,7 — ▼ 3,26 vuodessa",
+  "based": {
+    "genre": "statfi",
+    "direction": "unknown",
+    "score": 3,
+    "label": "FLOP",
+    "reason": "tavanomainen lukema, ei ennätystä eikä poikkeuksellista muutosta",
+    "hook": "Kallistuminen kallistuu hitaammin. Voitto.",
+    "hashtags": [
+      "#talous",
+      "#suomi",
+      "#tilastokeskus",
+      "#asuminen",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false
+}

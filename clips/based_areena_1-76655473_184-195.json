@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Miten leikata sosiaalimenoista oikeudenmukaisesti?",
+    "who": "Heikki Hiilamo, Juhana Vartiainen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Heikki Hiilamo",
+        "role": "sosiaalipolitiikan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Juhana Vartiainen",
+        "role": "entinen Helsingin pormestari",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Rosa Kettumäki",
+    "program_id": "1-76655473",
+    "areena": "https://areena.yle.fi/1-76655473 (184s–195s)"
+  },
+  "quote": "Valtiovarainministeri Riikka Purran mielestä maahanmuuttajilta pitäisi edellyttää työntekoa sosiaalituen vastineeksi.",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 2,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole sisäistä ristiriitaa; se on pelkkä oikeistolainen ehdotus ilman itsensä kaappaamista.",
+    "hook": "Oikeisto ehdottaa, ei kaada itseään",
+    "hashtags": [
+      "#maahanmuutto",
+      "#sosiaaliturva",
+      "#työvaatimus",
+      "#politiikka",
+      "#oikeisto",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "curb",
+  "rubric_version": "48ef6b559cd5",
+  "answer_start": 4.56
+}

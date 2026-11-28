@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "A-studio: Miten käy Yhdysvaltain ja Iranin tulitauon?",
+    "who": "Timo Ritakallio, Olli Kärkkäinen, Lari Hintsanen",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Timo Ritakallio",
+        "role": "OP Pohjolan pääjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Olli Kärkkäinen",
+        "role": "tutkimusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Lari Hintsanen",
+        "role": "Deloitte Suomen toimitusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655442",
+    "areena": "https://areena.yle.fi/1-76655442 (911s–932s)"
+  },
+  "quote": "Toisaalta yrityksiä on tuettu, ja yritysverokin laskee ensi vuonna. On avattu tällaista latua. Millainen positiivinen riski on, että yrityskenttä alkaisi kasvaa, ja miten se vaikuttaisi tähän lamaantuneeseen ilmapiiriin, OP Pohjolan pääjohtaja Timo Ritakallio?",
+  "based": {
+    "genre": "cliffhanger",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Haastattelija asettaa kovan kysymyksen ja lopettaa ilman vastausta",
+    "hook": "Kysymys ilman vastausta?",
+    "hashtags": [
+      "#talous",
+      "#yritysverotus",
+      "#haastattelu",
+      "#OP",
+      "#lama",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "tbc",
+  "rubric_version": "ce03d358ae4b",
+  "answer_start": 5.0
+}

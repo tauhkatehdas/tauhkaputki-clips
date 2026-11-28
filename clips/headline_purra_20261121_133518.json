@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Razmyar harkitsee oikeustoimia Tynkkysen somekirjoituksesta – Orpo pitää kirjoitusta ”täysin ala-arvoisena”",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-11-19",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20257846",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20257846?origin=rss"
+    ]
+  },
+  "quote": "• Razmyar harkitsee oikeustoimia Tynkkysen somekirjoituksesta – Orpo pitää kirjoitusta ”täysin ala-arvoisena”",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 6,
+    "label": "LEAN",
+    "reason": "Purralla on vastuuta ryhmänsä jasenen epäasiallisesta somekirjoituksesta, vaikka hän ei ole kirjoittanut sitä.",
+    "hook": "Purra vastaa Tynkkysen kirjoituksesta",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261121_133518.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-21T13:35:49.078882+00:00"
+}

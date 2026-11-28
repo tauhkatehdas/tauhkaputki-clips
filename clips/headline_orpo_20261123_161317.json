@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Orpon mukaan suomalaisten tulee varautua vastaisuudessakin Ukrainan sodan läikkymiseen: ”Se on realismia”",
+    "who": "Petteri Orpo",
+    "source": "yle_rss",
+    "date": "2026-11-23",
+    "session": null,
+    "party": "Kok.",
+    "program_id": "yle_rss_https://yle.fi/a/74-20258516",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20258516?origin=rss"
+    ]
+  },
+  "quote": "• Orpon mukaan suomalaisten tulee varautua vastaisuudessakin Ukrainan sodan läikkymiseen: ”Se on realismia”",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Pääministeri vaatii kansalta valmiutta pitkään kestävään sodaan ja vastaisuuteen, mikä viittaa hallituksen ulkopolitiikan linjan kalleuteen ja vaikeuksiin.",
+    "hook": "Orpo: Suomi valmiina pitkään vastaisuuteen",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#orpo",
+      "#petteriorpo",
+      "#kok",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_orpo_20261123_161317.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-23T16:14:07.567072+00:00"
+}

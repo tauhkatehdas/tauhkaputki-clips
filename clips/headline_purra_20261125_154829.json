@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Purran mielestä varjobudjetit ovat pelottavaa luettavaa: ”sosialisointia, silmänkääntötemppuja ja veronkiristyksiä”",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-11-25",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20256539",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20256539?origin=rss"
+    ]
+  },
+  "quote": "• Purran mielestä varjobudjetit ovat pelottavaa luettavaa: ”sosialisointia, silmänkääntötemppuja ja veronkiristyksiä”",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 8,
+    "label": "BASED",
+    "reason": "Purraa kritisoidaan kovaa opposisio-ulkopuolelta varjobudjeteista, joissa havaitaan sosiaalisten leikkausten ja veronkorotusten sekoitus.",
+    "hook": "Oppositio: Purran varjobudjetti = veronkiristys",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261125_154829.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-25T15:48:59.582274+00:00"
+}

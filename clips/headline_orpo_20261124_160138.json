@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Analyysi: Palokin koskien vapauttaminen törmäsi rahaan, painostukseen ja pohjoiskarjalaisten epäluuloihin",
+    "who": "Petteri Orpo",
+    "source": "yle_rss",
+    "date": "2026-11-24",
+    "session": null,
+    "party": "Kok.",
+    "program_id": "yle_rss_https://yle.fi/a/74-20258641",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20258641?origin=rss"
+    ]
+  },
+  "quote": "• Analyysi: Palokin koskien vapauttaminen törmäsi rahaan, painostukseen ja pohjoiskarjalaisten epäluuloihin",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Analyysi osoittaa Orpon hallituksen Palokin koskien vapauttamisen epäonnistuneen ja syvien jakolinjojen syntyneen.",
+    "hook": "Palokin kosket: Hallituksen tavoite epäonnistui",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#orpo",
+      "#petteriorpo",
+      "#kok",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_orpo_20261124_160138.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-24T16:02:17.784474+00:00"
+}

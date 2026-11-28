@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "A-studio: Mitä pääministeri Starmerin erosta seuraa Britannialle ja Euroopalle?",
+    "who": "Juha Jokela, Ylen Ulkolinja-ohjelman, Minna Pye",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Juha Jokela",
+        "role": "sen seurauksia analysoivat ohjelmajohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Ylen Ulkolinja-ohjelman",
+        "role": null,
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Minna Pye",
+        "role": "ohjaaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Annika Damström",
+    "program_id": "1-76655454",
+    "areena": "https://areena.yle.fi/1-76655454 (2034s–2042s)"
+  },
+  "quote": "Humanitäärisen maahanmuuton perusteella tulleet, turvapaikanhakijat, pakolaisstatuksen omaavat.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 0,
+    "label": "FLOP",
+    "reason": "Lause on pelkkä faktalistaus ilman haastattelijan kysymykseen reagoimista tai kiertoa.",
+    "hook": "Mikä tämä edes on?",
+    "hashtags": [
+      "#maahanmuutto",
+      "#turvapaikka",
+      "#pakolaiset",
+      "#politiikka",
+      "#yle",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "647886eba865",
+  "answer_start": 4.2
+}

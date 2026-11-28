@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "title": "A-studio: Nuoret kapinoivat Euroopassa",
+    "who": "Kimmo Elo, Georg Boldt",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Kimmo Elo",
+        "role": "tutkimusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Georg Boldt",
+        "role": "poliittisen sosiologian tutkijatohtori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Sakari Sirkkanen",
+    "program_id": "1-76655455",
+    "areena": "https://areena.yle.fi/1-76655455 (919s–929s)"
+  },
+  "quote": "Pitäisikö tässä varautua sekä arvonlisäveron nostoon että ansiotuloverotuksen nousuun?",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 0,
+    "label": "FLOP",
+    "reason": "Kysymys ei ole vastaus eikä siinä näkyy kiertoa tai väistelyä",
+    "hook": "Haastattelija kysyy veronkorotuksia",
+    "hashtags": [
+      "#verot",
+      "#talouspolitiikka",
+      "#haastattelu",
+      "#budjetti",
+      "#politiikka",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "6561bba31dc4",
+  "answer_start": 6.56
+}

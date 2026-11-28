@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Orpo vastaa oikeuskanslerin selvityspyyntöön: Ei tietoa mihin viitataan",
+    "who": "Petteri Orpo",
+    "source": "yle_rss",
+    "date": "2026-11-16",
+    "session": null,
+    "party": "Kok.",
+    "program_id": "yle_rss_https://yle.fi/a/74-20257247",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20257247?origin=rss"
+    ]
+  },
+  "quote": "• Orpo vastaa oikeuskanslerin selvityspyyntöön: Ei tietoa mihin viitataan",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 8,
+    "label": "BASED",
+    "reason": "Pääministeri Orpo on syytettävänä oikeuskanslerin selvityksessä Garden Helsinki -hankkeesta, mikä viittaa epäilyihin viranomaiskäytännön rikkomisesta.",
+    "hook": "Orpo syytettävänä: Oikeuskansleri tutkii",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#orpo",
+      "#petteriorpo",
+      "#kok",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_orpo_20261116_134949.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-16T13:50:23.568548+00:00"
+}

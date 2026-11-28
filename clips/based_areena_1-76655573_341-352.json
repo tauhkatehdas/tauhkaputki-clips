@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "A-studio: Uhkaavatko säästötoimet talouskasvua?",
+    "who": "Olli-Pekka Ruuskanen, Mika Maliranta",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Olli-Pekka Ruuskanen",
+        "role": "Pellervon taloustutkimuksen tutkimusjohtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Mika Maliranta",
+        "role": "tutkimuslaitos Laboren johtaja",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": null,
+    "program_id": "1-76655573",
+    "areena": "https://areena.yle.fi/1-76655573 (341s–352s)"
+  },
+  "quote": "Sen sijaan verotukselliset keinot koskettavat tasaisemmin myös ylempiä tuloluokkia ja yrityksiä.",
+  "based": {
+    "genre": "none",
+    "direction": "unknown",
+    "score": 1,
+    "label": "FLOP",
+    "reason": "Lauseessa ei ole haastattelutilannetta eikä karkotusliikettä, vaan pelkkä asiasisältöä verokeinoista.",
+    "hook": "Miksi tämä ei ole ramble?",
+    "hashtags": [
+      "#verotus",
+      "#talouspolitiikka",
+      "#yhteiskunta",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "rubric_version": "e83358c4bc93",
+  "answer_start": 4.64
+}

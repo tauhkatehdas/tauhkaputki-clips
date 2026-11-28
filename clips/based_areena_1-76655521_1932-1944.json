@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "A-studio: Pitääkö tekoälyä pelätä?",
+    "who": "Pekka Abrahamsson, Mikko Alasaarela",
+    "source": "areena",
+    "date": null,
+    "session": null,
+    "participants": [
+      {
+        "name": "Pekka Abrahamsson",
+        "role": "Tampereen yliopiston ohjelmistotekniikan professori",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      },
+      {
+        "name": "Mikko Alasaarela",
+        "role": "tekoäly-yrittäjä",
+        "party": null,
+        "org": null,
+        "direction": "unknown"
+      }
+    ],
+    "host": "Nina Rahkola",
+    "program_id": "1-76655521",
+    "areena": "https://areena.yle.fi/1-76655521 (1932s–1944s)"
+  },
+  "quote": "- Mutta eihän amerikkalaiset teknojätit halua kilpailua. Ne ovat nyt hakeneet erikoislupaa poiketa jopa kartellisäännöksistä.",
+  "based": {
+    "genre": "based",
+    "direction": "unknown",
+    "score": 3,
+    "label": "MEH",
+    "reason": "Vakava syytös ilman näyttöä tai konfrontaatiohetkeä.",
+    "hook": "Kartelliluvat teknojätteille?",
+    "hashtags": [
+      "#teknojättiläiset",
+      "#kartellit",
+      "#EU",
+      "#kilpailupolitiikka",
+      "#lobbying",
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#explorepage"
+    ]
+  },
+  "recommended_style": "deepfried",
+  "rubric_version": "cd9a5e617bf3",
+  "answer_start": 6.44
+}

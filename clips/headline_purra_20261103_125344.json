@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Suora: eduskunta ottaa yhteen bensan, terveydenhoidon ja sähkön hinnasta – Multala: ”Liikkumavaramme on heikko”",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-11-03",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20254767",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20254767?origin=rss"
+    ]
+  },
+  "quote": "• Suora: eduskunta ottaa yhteen bensan, terveydenhoidon ja sähkön hinnasta – Multala: ”Liikkumavaramme on heikko”",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 8,
+    "label": "BASED",
+    "reason": "Purraa kritisoidaan suoraan hallituksen toimettomuudesta elinkustannusten nousussa ja heikosta liikkumavaraista.",
+    "hook": "Purraa ja hallitusta syytetään toimettomuudesta",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261103_125344.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-03T12:54:33.713380+00:00"
+}

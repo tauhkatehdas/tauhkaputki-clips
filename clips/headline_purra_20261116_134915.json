@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Analyysi: Tekoäly uhkaa töitä – hallitus tarjoaa ratkaisua, joka hyödyttäisi harvoja ja varakkaita",
+    "who": "Riikka Purra",
+    "source": "yle_rss",
+    "date": "2026-11-16",
+    "session": null,
+    "party": "PS",
+    "program_id": "yle_rss_https://yle.fi/a/74-20256675",
+    "headline_count": 1,
+    "sources": [
+      "https://yle.fi/a/74-20256675?origin=rss"
+    ]
+  },
+  "quote": "• Analyysi: Tekoäly uhkaa töitä – hallitus tarjoaa ratkaisua, joka hyödyttäisi harvoja ja varakkaita",
+  "based": {
+    "genre": "contradiction",
+    "direction": "right",
+    "score": 7,
+    "label": "LEAN",
+    "reason": "Analyysi kritisoi hallituksen tekoälyratkaisua hyödyttävän vain harvoja ja varakkaita, mikä asettaa perussuomalaisten johtaja Purran negatiiviseen valoon.",
+    "hook": "Purraa kritisoidaan: Ratkaisu hyödyttää vain rikkaita",
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending",
+      "#suomi",
+      "#politiikka",
+      "#uutiset",
+      "#purra",
+      "#riikkapurra",
+      "#ps",
+      "#yle"
+    ]
+  },
+  "recommended_style": "asis",
+  "hook_overlay": false,
+  "clip": "headline_purra_20261116_134915.mp4",
+  "style": "montagenews",
+  "duration": 16.0,
+  "template": "montagenews",
+  "created_at": "2026-11-16T13:49:49.449915+00:00"
+}
